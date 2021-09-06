@@ -1,6 +1,8 @@
 # URLs Sources
 The URLs-grab project at https://github.com/ArchiveTeam/urls-grab allows for URLs to be archived, alongside the page requisite, and optionally other found pages. This repository contains the lists of URLs to be periodically queued and instructions on how to structure the items.
 
+This repository contains lists of parameters joined with `;`, where the URLs are not percent encoded for simplicity.
+
 ## Custom URL item
 Custom URL items contain the URL to be archived and a number of settings showing how to extract and queue subsequent URLs. These items are formatted as `custom:PARAMS` where `PARAMS` is an URL-encoded set of parameters. These parameters are:
  * `url`: The URL to be archived.
