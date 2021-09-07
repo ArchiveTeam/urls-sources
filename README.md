@@ -3,7 +3,7 @@ The URLs-grab project at https://github.com/ArchiveTeam/urls-grab allows for URL
 
 This repository contains lists of parameters joined with `;`, where the URLs are not percent encoded for simplicity.
 
-*_warning_*: The URLs-grab project can easily overload website if too many URLs are queued at once.
+***warning***: The URLs-grab project can easily overload website if too many URLs are queued at once.
 
 ## Custom URL item
 Custom URL items contain the URL to be archived and a number of settings showing how to extract and queue subsequent URLs. These items are formatted as `custom:PARAMS` where `PARAMS` is an URL-encoded set of parameters. These parameters are:
