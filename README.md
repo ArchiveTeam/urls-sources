@@ -18,7 +18,7 @@ The following items are example items
 
    This will archive https://example.com/, and queue all URLs (not limited to page requisites) that can be extracted from the webpage using both Wget-Lua extraction and patterns to extract hardcoded URLs. If this item was already queued before, it will be ignored now. Parameter `depth` is not specified, effectively setting it to 0.
 
- * `url=https%3A%2F%2Fexample.com%2F&all=1&deep_extract=1&random=sa7ff8pjss&depth=2&keep_random=1` decodes to `{'url': 'https://example.com/', 'all': 1, 'deep_extract': 1, 'random': 'sa7ff8pjss', 'depth': 2, 'keep_random': 1}`.
+ * `custom:url=https%3A%2F%2Fexample.com%2F&all=1&deep_extract=1&random=sa7ff8pjss&depth=2&keep_random=1` decodes to `{'url': 'https://example.com/', 'all': 1, 'deep_extract': 1, 'random': 'sa7ff8pjss', 'depth': 2, 'keep_random': 1}`.
 
    This includes the `random` string, thus making sure it is queued even if a similar item was queued before. `depth` is set to 2, so `custom` items will be queued for the found URLs which will all have parameter `all`, effectively allowing a recursive crawl up to depth 3. `keep_random` has value 1, so only the next queued `custom` items will have the `random` value copied over, and subsequently queued `custom` will not. `deep_extract` is only kept for the very first item.
 
