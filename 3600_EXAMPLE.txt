@@ -1,2 +1,2 @@
-random=RANDOM,keep_random=0,depth=0,all=1,keep_all=0,deep_extract=1,url=https://azure.microsoft.com/cdn/en-gb/updates/feed/
+random=RANDOM;keep_random=0;depth=0;all=1;keep_all=0;deep_extract=1;url=https://azure.microsoft.com/cdn/en-gb/updates/feed/
 
