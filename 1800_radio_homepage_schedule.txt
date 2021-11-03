@@ -2528,5 +2528,3 @@ random=RANDOM;all=1;url=https://wzzr.iheart.com/
 random=RANDOM;all=1;url=https://wzzr.iheart.com/schedule/
 random=RANDOM;all=1;url=https://z1077.iheart.com/
 random=RANDOM;all=1;url=https://z1077.iheart.com/schedule/
-random=RANDOM;all=1;url=no information
-random=RANDOM;all=1;url=website is broken
