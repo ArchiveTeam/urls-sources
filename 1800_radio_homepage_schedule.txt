@@ -284,7 +284,7 @@ random=RANDOM;all=1;url=http://radio.iranseda.ir/embed/?ch=26&ach=true&ache=true
 random=RANDOM;all=1;url=http://radio.iranseda.ir/embed/?ch=28&ach=true&ache=true&lv=true&lve=true
 random=RANDOM;all=1;url=http://radio.iranseda.ir/embed/?ch=29&ach=true&ache=true&lv=true&lve=true
 random=RANDOM;all=1;url=http://radio.opole.pl
-random=RANDOM;all=1;url=http://radio.opole.pl/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=http://radio.opole.pl/
 random=RANDOM;all=1;url=http://radio.opole.pl/17,253,ramowka-2018-pasmo-glowne
 random=RANDOM;all=1;url=http://radio.opole.pl/17,279,ramowka-dab-lato-2018
 random=RANDOM;all=1;url=http://radio.securenetsystems.net/v5/index.cfm?stationCallSign=WLISWMRD&p49125287=true
@@ -1056,7 +1056,7 @@ random=RANDOM;all=1;url=http://wzhr.tantalk1340.com/
 random=RANDOM;all=1;url=http://wzhr.tantalk1340.com/sample-page/
 random=RANDOM;all=1;url=http://xn--radio-24-s4a.oe24.at/
 random=RANDOM;all=1;url=http://yafm.co.zw/
-random=RANDOM;all=1;url=https://1011fmtheanswer.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=https://1011fmtheanswer.com/
 random=RANDOM;all=1;url=https://1011fmtheanswer.com/programguidedaily/
 random=RANDOM;all=1;url=https://101wyde.com/
 random=RANDOM;all=1;url=https://101wyde.com/on-air/
@@ -2221,7 +2221,7 @@ random=RANDOM;all=1;url=https://www.nporadio4.nl/gids-gemist
 random=RANDOM;all=1;url=https://www.nporadio4.nl/speellijsten
 random=RANDOM;all=1;url=https://www.nporadio5.nl/
 random=RANDOM;all=1;url=https://www.nporadio5.nl/programmas
-random=RANDOM;all=1;url=https://www.nrk.no/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=https://www.nrk.no/
 random=RANDOM;all=1;url=https://www.nrk.no/buskerud/
 random=RANDOM;all=1;url=https://www.nrk.no/emne/nrk-p13-1.11396361
 random=RANDOM;all=1;url=https://www.nrk.no/finnmark/
