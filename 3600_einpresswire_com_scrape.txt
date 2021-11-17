@@ -22209,7 +22209,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.rzg.at/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.vol.at/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.falter.at/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.heute.at/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://wien.orf.at/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://wien.orf.at/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.wienerbezirksblatt.at/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.yeninesil.at/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.yenivatan.com/
