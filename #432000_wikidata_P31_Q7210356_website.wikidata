@@ -1,0 +1,5 @@
+SELECT DISTINCT ?item ?website WHERE {
+  ?item p:P31 ?statement0.
+  ?item wdt:P856 ?website .
+  ?statement0 (ps:P31/(wdt:P279*)) wd:Q7210356.
+}
