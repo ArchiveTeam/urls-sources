@@ -1,10 +1,12 @@
-SELECT DISTINCT ?item ?itemLabel ?website WHERE {
-  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE]". }
+SELECT DISTINCT ?item ?website WHERE {
   {
-    SELECT DISTINCT ?item ?itemLabel ?website WHERE {
-      ?item p:P31 ?statement0.
-      ?item wdt:P856 ?website .
-      ?statement0 (ps:P31/(wdt:P279*)) wd:Q1193236.
-    }
+    ?item p:P31 ?statement0 .
+    ?statement0 (ps:P31/(wdt:P279*)) wd:Q1193236 .
   }
+  UNION
+  {
+    ?item p:P452 ?statement1 .
+    ?statement1 (ps:P452/(wdt:P279*)) wd:Q1193236 .
+  }
+  ?item wdt:P856 ?website .
 }
