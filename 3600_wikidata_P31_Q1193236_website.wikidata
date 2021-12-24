@@ -8,5 +8,15 @@ SELECT DISTINCT ?item ?website WHERE {
     ?item p:P452 ?statement1 .
     ?statement1 (ps:P452/(wdt:P279*)) wd:Q1193236 .
   }
+  UNION
+  {
+    ?item p:P3912 ?statement1 .
+    ?statement1 (ps:P3912/(wdt:P279*)) wd:Q1193236 .
+  }
+  UNION
+  {
+    ?item p:P101 ?statement1 .
+    ?statement1 (ps:P101/(wdt:P279*)) wd:Q1193236 .
+  }
   ?item wdt:P856 ?website .
 }
