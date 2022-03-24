@@ -16,10 +16,11 @@ Custom URL items contain the URL to be archived and a number of parameters showi
  * `url`: The URL to be archived. This should be the _last_ parameter.
  * `random`: A random string. Items queued to URLs-grab are deduplicated through a bloom filter with items previously queued. This `random` parameter allows for URLs to be requeued.
  * `keep_random`: The depth up to which the `random` string shall be preserved. If `keep_random` is larger than 0, any discovered URLs to be queued will be queued with parameter `keep_random=keep_random-1`, and have the `random` parameter copied over.
- * `all`: Whether all extracted URLs should be queued, or only the page requisites.
+ * `all`: Whether all extracted URLs from the same domains should be queued, or only the page requisites.
  * `keep_all`: Similar to `keep_random`, but for `all`.
  * `depth`: The depth up to which to queue `custom` items. If depth is larger than 0, any URLs found will be queued as `custom` item, else as regular URL item.
  * `deep_extract`: If set to 1, patterns will be used to extract hardcoded URLs that are not extracted by Wget-Lua itself, for example from any scripts. This parameter is only kept on the initial queued URL, not any subsequently queued URLs. This should be used on for example RSS feeds.
+ * `any_domain`: Whether URLs from any domains sounds be queued, or only the current domain.
 
 ### Examples
 Using the above instructions, a few example items are
