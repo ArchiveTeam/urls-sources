@@ -20,7 +20,7 @@ Custom URL items contain the URL to be archived and a number of parameters showi
  * `keep_all`: Similar to `keep_random`, but for `all`.
  * `depth`: The depth up to which to queue `custom` items. If depth is larger than 0, any URLs found will be queued as `custom` item, else as regular URL item.
  * `deep_extract`: If set to 1, patterns will be used to extract hardcoded URLs that are not extracted by Wget-Lua itself, for example from any scripts. This parameter is only kept on the initial queued URL, not any subsequently queued URLs. This should be used on for example RSS feeds.
- * `any_domain`: Whether URLs from any domains sounds be queued, or only the current domain.
+ * `any_domain`: Whether URLs from any domains should be queued, or only the current domain. `all` needs to be set in order for this to work.
 
 ### Examples
 Using the above instructions, a few example items are
