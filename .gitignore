@@ -1,4 +1,4 @@
 *.py
 __pycache__/
 queuer/
-*.wikidata.txt
+temp/
