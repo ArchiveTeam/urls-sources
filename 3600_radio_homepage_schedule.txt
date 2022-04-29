@@ -617,7 +617,6 @@ random=RANDOM;all=1;url=https://www.ksqq.com/boletim
 random=RANDOM;all=1;url=https://www.samfm.co.uk/swindon/presenters-shows/schedule/
 random=RANDOM;all=1;url=http://www.wgmd.com/listen/shows/program-schedule/
 random=RANDOM;all=1;url=https://patriotla.iheart.com/schedule/
-random=RANDOM;all=1;url=https://www.bbc.co.uk/radiocumbria?
 random=RANDOM;all=1;url=https://www.24fm.ps/
 random=RANDOM;all=1;url=http://player.lorini.net/circuitoexitos/maracaibo/
 random=RANDOM;all=1;url=http://www.newsdaytonabeach.com/
@@ -2219,6 +2218,7 @@ random=RANDOM;all=1;url=https://www.forces.net/radio/stations/bfbs-gibraltar
 random=RANDOM;all=1;url=https://cmr24.net/programs
 random=RANDOM;all=1;url=http://www.wesufm.org/
 random=RANDOM;all=1;url=https://620kmns.iheart.com
+random=RANDOM;all=1;url=https://www.bbc.co.uk/radiocumbria
 #REASON=DUPLICATE#random=RANDOM;all=1;url=http://kasu.org/
 random=RANDOM;all=1;url=https://rusradio.ru/shows
 random=RANDOM;all=1;url=http://www.hometownstation.com/
