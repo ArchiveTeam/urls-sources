@@ -84,7 +84,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://fortune.com/crypto/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://aljazeera.com/tag/crypto/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://newsroom.paypal-corp.com/news-cryptocurrency/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://investopedia.com/cryptocurrency-news-5114163/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://watcher.guru/news/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://wired.com/tag/cryptocurrency/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://capital.com/crypto-news/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://vox.com/crypto/
