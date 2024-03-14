@@ -4,3 +4,5 @@ queuer/
 temp/
 *id_p.txt
 *id_t.txt
+ignore.txt
+*.old

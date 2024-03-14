@@ -60,7 +60,7 @@ random=RANDOM;all=1;url=http://kazu.org/schedule/week
 random=RANDOM;all=1;url=https://www.voanouvel.com/programs/radio
 random=RANDOM;all=1;url=https://wmmbam.iheart.com/
 random=RANDOM;all=1;url=https://www.forces.net/online/scotland.html
-random=RANDOM;all=1;url=https://www.wgauradio.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=https://www.wgauradio.com/
 random=RANDOM;all=1;url=http://kbrw.org/
 random=RANDOM;all=1;url=http://o94.at/
 random=RANDOM;all=1;url=https://www.nporadio1.nl/
@@ -84,7 +84,7 @@ random=RANDOM;all=1;url=https://www.voachinese.com/schedule/radio/46
 #REASON=DUPLICATE#random=RANDOM;all=1;url=http://www.talk995.com/
 random=RANDOM;all=1;url=http://www.protonradio.com/
 random=RANDOM;all=1;url=https://www.rtn.ch/
-random=RANDOM;all=1;url=https://www.wsmn1590.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=https://www.wsmn1590.com/
 random=RANDOM;all=1;url=http://www.radiomundial.com.ve/tags/t%C3%A1chira
 random=RANDOM;all=1;url=http://www.radyo.boun.edu.tr/player/html5popup.htm
 random=RANDOM;all=1;url=https://1350wnlk.bandzoogle.com/
@@ -101,7 +101,7 @@ random=RANDOM;all=1;url=http://www.supertalk1570.com/
 random=RANDOM;all=1;url=https://biz1190.com/
 random=RANDOM;all=1;url=https://freiesradio.at/tages-programm/
 random=RANDOM;all=1;url=https://www.br.de/radio/b5plus/index128.html
-random=RANDOM;all=1;url=http://www.1100kfnx.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=http://www.1100kfnx.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;url=https://www.wokv.com/
 random=RANDOM;all=1;url=https://kink.nl/playlists
 random=RANDOM;all=1;url=https://www.wkar.org/
@@ -185,7 +185,7 @@ random=RANDOM;all=1;url=http://www.wlrh.org/main-schedule
 random=RANDOM;all=1;url=https://www.abc.net.au/radio/canberra/station-epg/
 random=RANDOM;all=1;url=https://www.francebleu.fr/drome-ardeche
 random=RANDOM;all=1;url=http://www.omroepede.nl/radiogids/detail?id=17
-random=RANDOM;all=1;url=https://komonews.com/station/whats-on-radio
+#REASON=DUPLICATE#random=RANDOM;all=1;url=https://komonews.com/station/whats-on-radio
 random=RANDOM;all=1;url=http://www.wvnn.com/
 random=RANDOM;all=1;url=http://www.1100knzz.com/
 random=RANDOM;all=1;url=https://www.bbc.co.uk/schedules/p00fzl8k
@@ -300,7 +300,7 @@ random=RANDOM;all=1;url=https://www.francebleu.fr/emissions/grille-programmes/su
 #REASON=DUPLICATE#random=RANDOM;all=1;url=https://whoradio.iheart.com/
 random=RANDOM;all=1;url=https://radio-wrzesnia.pl/nasz-program/
 random=RANDOM;all=1;url=https://radio.nrk.no/serie/distriktsprogram-troendelag
-random=RANDOM;all=1;url=http://am870theanswer.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=http://am870theanswer.com/
 random=RANDOM;all=1;url=https://989theanswer.com/
 random=RANDOM;all=1;url=http://www.wmac-am.com/
 random=RANDOM;all=1;url=http://wnir.com/page.php?page_id=84
@@ -328,7 +328,7 @@ random=RANDOM;all=1;url=https://www.univision.com/musica/uforia-music/radio
 random=RANDOM;all=1;url=http://sundaybaroque.org/
 random=RANDOM;all=1;url=https://www.francebleu.fr/emissions/grille-programmes
 random=RANDOM;all=1;url=http://kvvn.net/program-schedule.html
-random=RANDOM;all=1;url=https://www.newstalkflorida.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=https://www.newstalkflorida.com/
 random=RANDOM;all=1;url=http://ijpr.org/schedule/jpr-rhythm
 random=RANDOM;all=1;url=http://www.rsi.ch/retedue
 random=RANDOM;all=1;url=https://p3.no/
@@ -351,7 +351,7 @@ random=RANDOM;all=1;url=http://kzsu.stanford.edu/schedule/
 random=RANDOM;all=1;url=http://wbob.com/wbob-schedule
 random=RANDOM;all=1;url=http://wpsu.psu.edu/tv/schedules/
 random=RANDOM;all=1;url=http://www.radionamayesh.ir/
-random=RANDOM;all=1;url=https://wgac.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=https://wgac.com/
 random=RANDOM;all=1;url=https://www.arn.ps/radios/one
 random=RANDOM;all=1;url=https://www.ksal.com/ksal-lineup/
 random=RANDOM;all=1;url=http://spiller.radio.no/nrk/live/4038/index.html
@@ -390,7 +390,7 @@ random=RANDOM;all=1;url=http://www.kcsb-radio.dreamhosters.com/
 random=RANDOM;all=1;url=https://www.bbc.co.uk/schedules/p00fzl7t
 random=RANDOM;all=1;url=https://www.q1061.com/
 random=RANDOM;all=1;url=https://www.iheartradio.ca/virginradio/toronto
-random=RANDOM;all=1;url=http://www.kbluam.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=http://www.kbluam.com/
 random=RANDOM;all=1;url=http://www.kzfr.org/
 random=RANDOM;all=1;url=https://www.bbc.co.uk/schedules/p00fzl8c
 random=RANDOM;all=1;url=http://www.radioconstanta.ro
@@ -448,12 +448,12 @@ random=RANDOM;all=1;url=https://www.bbc.co.uk/bbcsomerset
 random=RANDOM;all=1;url=https://kxic.iheart.com/schedule/
 random=RANDOM;all=1;url=http://krevlp.org/
 random=RANDOM;all=1;url=http://www.kbur.com/
-random=RANDOM;all=1;url=https://powertalk1460.iheart.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=https://powertalk1460.iheart.com/
 random=RANDOM;all=1;url=http://www.kgpc969.org/schedule/
 random=RANDOM;all=1;url=https://www.bbc.co.uk/schedules/p00fzl7p
 random=RANDOM;all=1;url=https://toronto.redfm.ca/
 random=RANDOM;all=1;url=https://radioromaniacultural.ro/
-random=RANDOM;all=1;url=http://www.kdgoradio.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=http://www.kdgoradio.com/
 random=RANDOM;all=1;url=http://ksco.com/
 random=RANDOM;all=1;url=https://www.fip.fr/liste/strasbourg
 random=RANDOM;all=1;url=http://www.fatehmedia.ps/
@@ -617,7 +617,7 @@ random=RANDOM;all=1;url=http://www.afera.com.pl/
 random=RANDOM;all=1;url=https://www.hr4.de/index.html
 random=RANDOM;all=1;url=http://wlrn.org/schedule/WLRN
 random=RANDOM;all=1;url=https://mymixfm.com/
-random=RANDOM;all=1;url=http://www.newsdaytonabeach.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=http://www.newsdaytonabeach.com/
 random=RANDOM;all=1;url=https://www.voanews.com/t/60.html
 random=RANDOM;all=1;url=http://www.compassfm.co.uk/radiofeed/?schedId=1
 random=RANDOM;all=1;url=https://www.mix96.co.uk/schedule/
@@ -727,7 +727,7 @@ random=RANDOM;all=1;url=https://www.francebleu.fr/maine
 random=RANDOM;all=1;url=https://www.bbc.co.uk/radiooxford
 random=RANDOM;all=1;url=http://www.khum.com/schedule/
 #REASON=DUPLICATE#random=RANDOM;all=1;url=https://wspd.iheart.com/
-random=RANDOM;all=1;url=http://kyca.info/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=http://kyca.info/
 random=RANDOM;all=1;url=https://m.plugstreaming.com/onda903
 random=RANDOM;all=1;url=http://www.radiopik.pl/
 random=RANDOM;all=1;url=http://www.tauragesradijas.lt/
@@ -834,7 +834,7 @@ random=RANDOM;all=1;url=https://101wyde.com/
 random=RANDOM;all=1;url=https://wbhfradio.org/
 random=RANDOM;all=1;url=https://www.nrk.no/vestfold/
 random=RANDOM;all=1;url=http://ucbireland.ie/
-random=RANDOM;all=1;url=http://newspress.com/kzsb/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=http://newspress.com/kzsb/
 random=RANDOM;all=1;url=https://ib3.org/radio
 random=RANDOM;all=1;url=https://wnci.iheart.com/schedule/
 random=RANDOM;all=1;url=https://www.iheart.com/live/news-radio-1580-wccf-5229/?autoplay=true&pname=15400&campid=header&cid=index.html
@@ -855,7 +855,7 @@ random=RANDOM;all=1;url=https://www.voanews.com/a/2569175.html
 random=RANDOM;all=1;url=https://970wfla.iheart.com/schedule/
 random=RANDOM;all=1;url=https://realtalk93.com/weekdays/
 random=RANDOM;all=1;url=https://www.francebleu.fr/emissions/grille-programmes/gascogne
-random=RANDOM;all=1;url=http://radio1.by/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=http://radio1.by/
 random=RANDOM;all=1;url=https://www.bbc.co.uk/schedules/p00fzl7z
 #REASON=DUPLICATE#random=RANDOM;all=1;url=http://www.wdun.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;url=https://www.kyuk.org/
@@ -934,7 +934,7 @@ random=RANDOM;all=1;url=http://www.wshu.org/schedule/wshu
 random=RANDOM;all=1;url=https://www.rnz.co.nz/national
 random=RANDOM;all=1;url=https://www.forces.net/online/uk.html
 random=RANDOM;all=1;url=http://southeastgeorgiatoday.com/
-random=RANDOM;all=1;url=https://www.bloombergradio.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=https://www.bloombergradio.com/
 random=RANDOM;all=1;url=http://www.ccma.cat/catradio/icat/
 random=RANDOM;all=1;url=http://www.1290wlby.com/on-air/
 random=RANDOM;all=1;url=https://wgiram.iheart.com/schedule/
@@ -949,10 +949,10 @@ random=RANDOM;all=1;url=http://www.radio-uk.co.uk/radio/ucb-3-gospel-400938
 random=RANDOM;all=1;url=http://710amtheword.com/programguidedaily/
 random=RANDOM;all=1;url=https://www.bbc.co.uk/5live
 random=RANDOM;all=1;url=http://www.prk24.pl/
-random=RANDOM;all=1;url=https://wrnn.net/
-random=RANDOM;all=1;url=http://kdow.biz/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=https://wrnn.net/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=http://kdow.biz/
 random=RANDOM;all=1;url=http://joyfmradio.net/program-schedule/
-random=RANDOM;all=1;url=https://wsbrradio.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=https://wsbrradio.com/
 random=RANDOM;all=1;url=http://ucbireland.ie/ucb-radio/schedule/
 random=RANDOM;all=1;url=http://test.kcukradio.org/days/monday/
 random=RANDOM;all=1;url=https://www.wirefm.com/on-air/schedule/
@@ -1027,10 +1027,10 @@ random=RANDOM;all=1;url=https://www.bbc.co.uk/radiosuffolk
 random=RANDOM;all=1;url=http://1380thebiz.com/
 random=RANDOM;all=1;url=https://www.jumpradio.de/
 random=RANDOM;all=1;url=http://www.radiomures.ro/radio
-random=RANDOM;all=1;url=http://www.talkatoz.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=http://www.talkatoz.com/
 random=RANDOM;all=1;url=http://kucr.org/
 random=RANDOM;all=1;url=https://www.okitalk.com/hauptseite-en/
-random=RANDOM;all=1;url=http://www.wxlm.fm/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=http://www.wxlm.fm/
 random=RANDOM;all=1;url=http://www.kurm.net/programschedule.htm
 random=RANDOM;all=1;url=https://www.1059kissfm.com/
 random=RANDOM;all=1;url=https://transportationradio.wordpress.com/about/
@@ -1101,7 +1101,7 @@ random=RANDOM;all=1;url=http://waim.us/programming/
 random=RANDOM;all=1;url=https://www.bbc.co.uk/schedules/p00fzl9f
 random=RANDOM;all=1;url=https://www.ucb.co.uk/ucb1
 random=RANDOM;all=1;url=https://tunein.com/radio/euronews-RADIO-(in-Italiano)-s182102/
-random=RANDOM;all=1;url=https://www.mprnews.org/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=https://www.mprnews.org/
 random=RANDOM;all=1;url=https://www.bbc.co.uk/radiolincolnshire
 random=RANDOM;all=1;url=https://www.bbc.co.uk/schedules/p00fzl7n
 random=RANDOM;all=1;url=https://coast931.com/mornings/
@@ -1277,11 +1277,11 @@ random=RANDOM;all=1;url=https://www.radio.com/mix1041/listen
 random=RANDOM;all=1;url=http://www.wgmd.com/listen/shows/program-schedule/
 random=RANDOM;all=1;url=https://alwaysmountaintime.com/knfo/
 random=RANDOM;all=1;url=https://www.bbc.co.uk/radioshropshire
-random=RANDOM;all=1;url=https://newsradio710.iheart.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=https://newsradio710.iheart.com/
 random=RANDOM;all=1;url=https://www.newstalkflorida.com/podcasts/
 random=RANDOM;all=1;url=https://foxsportsam1280.iheart.com/
 random=RANDOM;all=1;url=http://www.1240ksma.com/
-random=RANDOM;all=1;url=https://wtpl.nh1.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=https://wtpl.nh1.com/
 random=RANDOM;all=1;url=https://www.wers.org/
 random=RANDOM;all=1;url=https://radiokniga.com/prog.html
 random=RANDOM;all=1;url=http://yafm.co.zw/
@@ -1337,7 +1337,7 @@ random=RANDOM;all=1;url=https://knpr.org/news-889-knpr/news-889-knpr-schedule
 random=RANDOM;all=1;url=http://weol.northcoastnow.com/programming/
 #REASON=DUPLICATE#random=RANDOM;all=1;url=https://radiogdansk.pl/
 random=RANDOM;all=1;url=https://www2.rtvkanaal30.nl/radio-programma-s.html
-random=RANDOM;all=1;url=http://www.kqna.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=http://www.kqna.com/
 random=RANDOM;all=1;url=https://www.q929fm.com/
 random=RANDOM;all=1;url=https://wmrn.iheart.com/schedule/
 random=RANDOM;all=1;url=http://www.soutalkhaleej.fm/schedule?sawt=1
@@ -1424,7 +1424,7 @@ random=RANDOM;all=1;url=http://radio.iranseda.ir/embed/?ch=17&ach=true&ache=true
 random=RANDOM;all=1;url=https://www.forces.net/online/radio2.html
 random=RANDOM;all=1;url=https://rs.sputniknews.com/radio/
 random=RANDOM;all=1;url=https://1490wwpr.com/schedule/
-random=RANDOM;all=1;url=https://www.953mnc.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=https://www.953mnc.com/
 random=RANDOM;all=1;url=https://radio.nrk.no/direkte/p13
 random=RANDOM;all=1;url=http://www.wbcf.com/
 random=RANDOM;all=1;url=http://przemyska.pl/radiofara/
@@ -1549,8 +1549,8 @@ random=RANDOM;all=1;url=https://wtkg.iheart.com/schedule/
 random=RANDOM;all=1;url=http://euronewsenglish.radio.net/
 random=RANDOM;all=1;url=http://www.wrti.org/schedule/week/wrtihd2
 random=RANDOM;all=1;url=http://www.wfmd.com/onair/
-random=RANDOM;all=1;url=http://newsradio.cri.cn/
-random=RANDOM;all=1;url=http://wlad.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=http://newsradio.cri.cn/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=http://wlad.com/
 random=RANDOM;all=1;url=https://radio.humber.ca/
 random=RANDOM;all=1;url=https://www.kx935.com/
 random=RANDOM;all=1;url=https://www.br.de/radio/br-heimat/index.html
@@ -1609,7 +1609,7 @@ random=RANDOM;all=1;url=http://www.radiotehran.ir/
 random=RANDOM;all=1;url=http://www.kcsb-radio.dreamhosters.com/schedule/
 random=RANDOM;all=1;url=http://www.radiorodzina.pl/ramowka/
 random=RANDOM;all=1;url=https://943wsc.iheart.com/schedule/
-random=RANDOM;all=1;url=https://1290news.iheart.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=https://1290news.iheart.com/
 random=RANDOM;all=1;url=https://woub.org/am-full-schedule/
 random=RANDOM;all=1;url=https://radio.nrk.no/serie/distriktsprogram-soerlandet
 random=RANDOM;all=1;url=http://www.omroepassen.com/programmering/
@@ -1662,7 +1662,7 @@ random=RANDOM;all=1;url=https://www.nwksradio.com/newstalk-730-kloe/
 random=RANDOM;all=1;url=http://www.wmac-am.com/shows/
 random=RANDOM;all=1;url=https://www.wrek.org/schedule/
 random=RANDOM;all=1;url=http://www.freiesradio.at/
-random=RANDOM;all=1;url=https://kiss1039.iheart.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=https://kiss1039.iheart.com/
 random=RANDOM;all=1;url=https://radio.nrk.no/
 random=RANDOM;all=1;url=https://wwnnradio.com/
 random=RANDOM;all=1;url=https://radio.rtsh.al/kanale/radio-tirana-3
@@ -1674,7 +1674,7 @@ random=RANDOM;all=1;url=https://radio.nrk.no/serie/distriktsprogram-hordaland
 random=RANDOM;all=1;url=https://www.polskieradio.pl/Trojka
 random=RANDOM;all=1;url=http://www.wrti.org/schedule/week/wrti
 random=RANDOM;all=1;url=https://radiochisinau.md/
-random=RANDOM;all=1;url=http://www.knewsradio.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=http://www.knewsradio.com/
 random=RANDOM;all=1;url=https://www.aerasnews.gr/?s=program
 random=RANDOM;all=1;url=https://www.voatibetan.com/
 random=RANDOM;all=1;url=https://streamdb5web.securenetsystems.net/cirrusencore/index.cfm?stationcallsign=KJCKFM
@@ -1797,7 +1797,7 @@ random=RANDOM;all=1;url=https://orpheusradio.ru
 random=RANDOM;all=1;url=https://k57.com/on-air/
 random=RANDOM;all=1;url=http://www.wnpr.org/schedule/wnpr
 random=RANDOM;all=1;url=https://news.stlpublicradio.org/schedule
-random=RANDOM;all=1;url=http://www.kazmradio.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=http://www.kazmradio.com/
 random=RANDOM;all=1;url=https://radio.nrk.no/serie/distriktsprogram-sogn-og-fjordane
 random=RANDOM;all=1;url=http://www.radyo-arkadas.net/
 random=RANDOM;all=1;url=http://www.kqms.com/schedule-2/
@@ -1841,7 +1841,7 @@ random=RANDOM;all=1;url=https://www.wgvunews.org/schedule
 random=RANDOM;all=1;url=http://kvnf.org/programs
 random=RANDOM;all=1;url=https://wicb.org/schedule/
 random=RANDOM;all=1;url=http://rcr.tv/wp/programas/
-random=RANDOM;all=1;url=http://www.850wftl.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=http://www.850wftl.com/
 random=RANDOM;all=1;url=https://lamegaestacion.com/
 random=RANDOM;all=1;url=https://sterren-app.avrotros.nl/programmering/
 random=RANDOM;all=1;url=http://www.tynaarlolokaal.nl/
@@ -1851,7 +1851,7 @@ random=RANDOM;all=1;url=https://www.minsterfm.com/schedule/
 random=RANDOM;all=1;url=https://wrnn.net/shows/
 random=RANDOM;all=1;url=https://www.bbc.co.uk/schedules/p00fzl8v
 random=RANDOM;all=1;url=https://kfok.org/wednesday-on-air/
-random=RANDOM;all=1;url=https://www.680kfeq.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=https://www.680kfeq.com/
 random=RANDOM;all=1;url=http://www.radiochablais.ch/
 random=RANDOM;all=1;url=http://www.wdngmedia.com/about-us
 random=RANDOM;all=1;url=http://www.quran-radio.com/
@@ -1862,7 +1862,7 @@ random=RANDOM;all=1;url=https://www.hr4.de/programm/index.html
 random=RANDOM;all=1;url=https://www.francebleu.fr/armorique
 #REASON=DUPLICATE#random=RANDOM;all=1;url=https://www.lrt.lt/
 random=RANDOM;all=1;url=http://www.wbal.com/shows/1090-am-wbal-radio-schedule
-random=RANDOM;all=1;url=https://kxnt.radio.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=https://kxnt.radio.com/
 random=RANDOM;all=1;url=https://radio.nrk.no/direkte/sapmi
 random=RANDOM;all=1;url=http://www.meinkinderradio.at/
 random=RANDOM;all=1;url=https://www.ktpl.org/schedule
@@ -1945,7 +1945,7 @@ random=RANDOM;all=1;url=http://www.parapolitikaradio.gr/
 random=RANDOM;all=1;url=https://www.bbc.co.uk/schedules/p00fzl83
 random=RANDOM;all=1;url=http://www.radios.com.br/aovivo/Union-Radio-870-AM/9538
 random=RANDOM;all=1;url=https://www.francebleu.fr/bourgogne
-random=RANDOM;all=1;url=https://www.abc.net.au/radio/newsradio/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=https://www.abc.net.au/radio/newsradio/
 random=RANDOM;all=1;url=https://www.nrk.no/finnmark/
 random=RANDOM;all=1;url=http://www.kfjc.org/
 random=RANDOM;all=1;url=https://www.flaixfm.cat/programes/
@@ -1995,7 +1995,7 @@ random=RANDOM;all=1;url=https://www.rtvnoord.nl/radiogids
 random=RANDOM;all=1;url=http://bayerfm.eu/
 random=RANDOM;all=1;url=https://radio.nrk.no/serie/alltid-nyheter
 #REASON=DUPLICATE#random=RANDOM;all=1;url=http://www.kfqd.com/
-random=RANDOM;all=1;url=http://www.1590walg.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=http://www.1590walg.com/
 random=RANDOM;all=1;url=http://audycje.tokfm.pl/ramowka
 #REASON=DUPLICATE#random=RANDOM;all=1;url=https://www.mainepublic.org/
 random=RANDOM;all=1;url=https://www.fip.fr/player/fip-autour-du-rock
@@ -2024,7 +2024,7 @@ random=RANDOM;all=1;url=https://knst.iheart.com/schedule/
 random=RANDOM;all=1;url=http://www.radioestel.com/llista_programes.php?id=restel
 random=RANDOM;all=1;url=https://www.forces.net/radio/stations/bfbs-brunei
 random=RANDOM;all=1;url=http://88punto1fm.com/sitio/programacion/
-random=RANDOM;all=1;url=http://www.tokfm.pl
+#REASON=DUPLICATE#random=RANDOM;all=1;url=http://www.tokfm.pl
 random=RANDOM;all=1;url=http://radiosalamat.ir/
 random=RANDOM;all=1;url=http://kpay.com/programming
 random=RANDOM;all=1;url=http://www.blackdiamondfm.com/
@@ -2218,7 +2218,7 @@ random=RANDOM;all=1;url=http://www.u1-radio.at/
 random=RANDOM;all=1;url=http://radioaaenhunze.nl/programmering
 random=RANDOM;all=1;url=http://rc.lt/
 random=RANDOM;all=1;url=https://streamdb7web.securenetsystems.net/cirrusencore/index.cfm?stationCallSign=KJLS
-random=RANDOM;all=1;url=http://www.wbmq.net/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=http://www.wbmq.net/
 random=RANDOM;all=1;url=https://www.kbur.com/on-air-lineup/
 random=RANDOM;all=1;url=https://tunein.com/radio/euronews-RADIO-(auf-Deutsch)-s182100/
 random=RANDOM;all=1;url=http://www.radioalex.pl/
@@ -2324,7 +2324,7 @@ random=RANDOM;all=1;url=https://www2.palomar.edu/pages/kksm/programming/schedule
 random=RANDOM;all=1;url=https://960weli.iheart.com/schedule/
 random=RANDOM;all=1;url=https://www.silver.ru/time-schedule/
 random=RANDOM;all=1;url=https://kruaradio.org/
-random=RANDOM;all=1;url=https://www.univision.com/los-angeles/ktnq-am
+#REASON=DUPLICATE#random=RANDOM;all=1;url=https://www.univision.com/los-angeles/ktnq-am
 random=RANDOM;all=1;url=https://www.wdjyfm.com/on-air
 random=RANDOM;all=1;url=https://www.bbc.co.uk/schedules/p00fzl7g
 random=RANDOM;all=1;url=https://www.northnorfolkradio.com/on-air/schedule/
@@ -2339,10 +2339,10 @@ random=RANDOM;all=1;url=https://www.francebleu.fr/cotentin
 #REASON=DUPLICATE#random=RANDOM;all=1;url=http://www.ksro.com/
 random=RANDOM;all=1;url=https://www.francebleu.fr/emissions/grille-programmes/rcfm
 random=RANDOM;all=1;url=https://www.forces.net/radio/stations/bfbs-radio-gurkha
-random=RANDOM;all=1;url=https://wlobradio.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=https://wlobradio.com/
 random=RANDOM;all=1;url=https://www.wsgw.com/wsgw-fm-full-schedule/
 random=RANDOM;all=1;url=http://confessor.wslr.org/playlist/pub_sched.php
-random=RANDOM;all=1;url=https://www.kmaj1440.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=https://www.kmaj1440.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;url=http://www.920kvec.com/
 random=RANDOM;all=1;url=http://ksjd.org/schedule
 random=RANDOM;all=1;url=https://www.radioaalsmeer.nl/
@@ -2381,7 +2381,7 @@ random=RANDOM;all=1;url=https://www.alhorya.com/
 random=RANDOM;all=1;url=https://www.abc.net.au/triplej/
 random=RANDOM;all=1;url=http://www.kociradio.com/programming
 random=RANDOM;all=1;url=http://www.hometownstation.com/on-air-features/program-schedule
-random=RANDOM;all=1;url=https://970wfla.iheart.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=https://970wfla.iheart.com/
 random=RANDOM;all=1;url=http://www.kups.net/?page_id=2564
 random=RANDOM;all=1;url=https://www.deutschlandradio.de/dokumente-und-debatten.237.de.html
 random=RANDOM;all=1;url=http://www.radiorodzina.pl/
@@ -2409,7 +2409,7 @@ random=RANDOM;all=1;url=http://www.whep1310.com/listen.html
 random=RANDOM;all=1;url=https://www.ucb.co.uk/radioplayer/uk/
 random=RANDOM;all=1;url=http://www.wsou.net/
 random=RANDOM;all=1;url=https://kwhn.iheart.com/schedule/
-random=RANDOM;all=1;url=https://kicdam.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=https://kicdam.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;url=https://www.nrk.no/
 random=RANDOM;all=1;url=http://kkrn.org/shows
 random=RANDOM;all=1;url=http://www.wcoapensacola.com/
@@ -2439,7 +2439,7 @@ random=RANDOM;all=1;url=http://www.wphm.net/
 random=RANDOM;all=1;url=https://www.wsiu.org/
 random=RANDOM;all=1;url=https://www.funx.nl/radio/programmering/npo-funx/2018/27
 random=RANDOM;all=1;url=https://tunein.com/radio/WVUD-913-s23657/?utm_content=s23657&utm_medium=referral&utm_source=geminiEmbedTitle
-random=RANDOM;all=1;url=http://radiokultura.by/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=http://radiokultura.by/
 random=RANDOM;all=1;url=https://www.you-fm.de/index.html
 random=RANDOM;all=1;url=https://radio.rtsh.al/kanale/radio-tirana-2
 random=RANDOM;all=1;url=http://www.liveonlineradio.net/pl/norway/nrk-p1-oslo-og-akershus.htm
@@ -2491,7 +2491,7 @@ random=RANDOM;all=1;url=https://www.dr.dk/radio/p2
 random=RANDOM;all=1;url=http://capitalkfm.co.zw/
 random=RANDOM;all=1;url=https://kdvs.org/programming/schedule-grid/
 random=RANDOM;all=1;url=https://www.francebleu.fr/pays-basque
-random=RANDOM;all=1;url=https://koanewsradio.iheart.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=https://koanewsradio.iheart.com/
 random=RANDOM;all=1;url=http://www.burjfm.com/
 random=RANDOM;all=1;url=https://www.capitalfm.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;url=https://alaqsavoice.ps/
