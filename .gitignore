@@ -1,8 +1,4 @@
-*.py
 __pycache__/
-queuer/
-temp/
-*id_p.txt
-*id_t.txt
+queuer/hidden.py
+other/
 ignore.txt
-*.old
