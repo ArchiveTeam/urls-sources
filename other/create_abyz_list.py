@@ -61,7 +61,7 @@ def extract_urls(url: str):
 
 
 def main():
-    urls = {s for s in extract_urls('http://www.abyznewslinks.com/')}
+    urls = {'random=RANDOM;all=1;keep_all=1;depth=1;url='+s for s in extract_urls('http://www.abyznewslinks.com/')}
     print('found', len(urls), 'urls')
     with open('3600_abyz.txt', 'w') as f:
         f.write('\n'.join(list(urls)))

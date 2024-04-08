@@ -1,10 +1,10 @@
-random=RANDOM;url=http://faif.us/feeds/cast-ogg/
-random=RANDOM;url=https://sfconservancy.org/casts/the-corresponding-source/feeds/ogg/
-random=RANDOM;url=https://sfconservancy.org/casts/the-corresponding-source/feeds/mp3/
 random=RANDOM;url=https://feeds.buzzsprout.com/1817535.rss
-random=RANDOM;url=https://manifest.fm/rss
-random=RANDOM;url=https://librelounge.org/atom-feed.atom
+random=RANDOM;url=https://sfconservancy.org/casts/the-corresponding-source/feeds/mp3/
+random=RANDOM;url=https://sfconservancy.org/casts/the-corresponding-source/feeds/ogg/
 random=RANDOM;url=https://feeds.acast.com/public/shows/program
 random=RANDOM;url=https://fossandcrafts.org/rss-feed.rss
-random=RANDOM;url=https://feeds.acast.com/public/shows/63c765a597a43d0011aee24f
+random=RANDOM;url=https://librelounge.org/atom-feed.atom
 random=RANDOM;url=https://feeds.simplecast.com/5JzYp_Kp
+random=RANDOM;url=https://feeds.acast.com/public/shows/63c765a597a43d0011aee24f
+random=RANDOM;url=http://faif.us/feeds/cast-ogg/
+random=RANDOM;url=https://manifest.fm/rss

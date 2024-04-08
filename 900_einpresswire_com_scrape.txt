@@ -412,7 +412,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.livescience.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.boston25news.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ivybridge-today.co.uk/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.lanouvellerepublique.fr/
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.fm903tolhuin.com.ar/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.fm903tolhuin.com.ar/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.saudiaramco.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.orakonews.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.namibian.com.na/
@@ -682,7 +682,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.country105.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://msn.foxsports.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://west-roxbury.wickedlocal.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.viduthalai.in/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.rpcradio.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.rpcradio.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.missioncityrecord.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://50plusny.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.upvnews.com/
@@ -933,7 +933,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.princetonconsumer.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://tamil.adaderana.lk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.pelitabrunei.gov.bn/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.edgecommunitynews.com/
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://cafeprensa.blogspot.com.ar/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://cafeprensa.blogspot.com.ar/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.cvtimes.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.economicmodeling.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.jornalboavista.com.br/
@@ -1764,7 +1764,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.afghanagency.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.caboverdeonline.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.mirfieldreporter.co.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.smalltownpapers.com/?id=185
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.d24ar.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.d24ar.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.westportnow.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.waterford-today.ie/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://sverigesradio.se/?programid=2103
@@ -2027,7 +2027,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.buenosairesherald.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.business.dk/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.gloucestertimes.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.yeongnam.co.kr/
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.whatsupcaribbean.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.whatsupcaribbean.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.theclinic.cl/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.mydailyregister.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://california.statenews.net/
@@ -2228,7 +2228,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.montanasnews.tv/?um=list&a
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.tiroltv.at/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.clarecountyreview.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.theroxtonprogress.com/
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.hondurasnews.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.hondurasnews.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.cliftonrecord.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://queenannenews.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ksct.tv/
@@ -3134,7 +3134,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.smalltownpapers.com/?id=95
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.lpcexpress.org/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.1310kfka.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://chacabucoysugente.com.ar/
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.keymusic.com.ar/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.keymusic.com.ar/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.wokv.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.9news.ph/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.univisionminnesota.com/
@@ -3285,7 +3285,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.kwnews.co.kr/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.radiopasionaria.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.makedonija.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.phillipscountyreview.com/
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://thevincentian.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://thevincentian.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.upbeacon.net/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://kucb.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://oc180news.com/
@@ -3778,7 +3778,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.indexmundi.com/?country=Lu
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.myafghan.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.cap025.it/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://periodicovision.com/
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ctv3belizenews.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ctv3belizenews.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.superiortelegram.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.willistonpioneer.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://lbpost.com/
@@ -3957,7 +3957,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://estcurier.md/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://thunderheadmarketing.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.kdwa.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://kcby.com/
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.elperiodicocr.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.elperiodicocr.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.romesentinel.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.monumental.co.cr/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.diariodeguarulhos.com.br/
@@ -4201,7 +4201,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.fadss.org/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.michronicleonline.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://373news.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.laramieboomerang.com/
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.caribbean360.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.caribbean360.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.pickensprogress.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.indycar.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.capecourier.com/
@@ -5786,7 +5786,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://arubawe.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.tvkoha.tv/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://chicagodefender.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.deportevalenciano.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ntn24.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ntn24.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.diarioprimerahora.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.oruoracle.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.corr.it/
@@ -6143,7 +6143,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.tvp.pl/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.mendozaopina.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.bailendigital.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.valleyvanguardonline.com/
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.nacionalriogrande.com.ar/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.nacionalriogrande.com.ar/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://kgmi.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://press.ihs.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.caravannews.com/
@@ -7357,7 +7357,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.leffortcamerounais.info/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://palawantoday.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.kotzot.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.oshawaexpress.ca/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ellibertador.hn/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ellibertador.hn/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://gazeta2x2.ru/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.losantiguoshabla.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.southernchestercountyweeklies.com/
@@ -8356,7 +8356,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://xeniagazette.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ewarenessinc.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.thompsononline.ca/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.folhapatrulhense.com.br/
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://televicentro.hn/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://televicentro.hn/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://meridiano.nnc.mx/?edicion=vallarta
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.diariopyme.cl/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.gondola.hu/
@@ -8757,7 +8757,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ehime-np.co.jp/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ebar.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.redmondspokesmanonline.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.wetmountaintribune.com/
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.lanoticiaya.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.lanoticiaya.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.informerural.com.ar/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.lu23.com.ar/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ohlone.edu/
@@ -9243,7 +9243,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://whitmanhansonexpress.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.originenergy.com.au/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://carlisleweekly.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.dieburger.com/
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.caribbeannewsnow.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.caribbeannewsnow.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://australian-news.net/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://myracinecounty.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ctv.by/
@@ -10729,7 +10729,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.kget.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.floridaspaassociation.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.dotnews.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.globeslcc.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://primeroennoticias.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://primeroennoticias.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.jornalfrederiquense.com.br/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.vivavoz.com.mx/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.southsidemessenger.com/
@@ -11356,7 +11356,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.sotaliraq.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://surabaya.tribunnews.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://coyotechronicle.net/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://bulatlat.com/
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.elinformedavid.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.elinformedavid.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.kibrisgazetesi.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://mx.hola.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.adenpress.com/
@@ -12683,7 +12683,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.medya73.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.lapuansanomat.fi/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.buenasuerte.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.theafricanews.net/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.informacionestdf.com.ar/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.informacionestdf.com.ar/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.washburnreview.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.annexcommunication.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.pewstates.org/?states=328049
@@ -12701,7 +12701,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.br.de/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.theprogressortimes.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.wsmv.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.broadcasteronline.com/
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.gaceta.go.cr/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.gaceta.go.cr/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.southhillenterprise.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://politicosl.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.hataygazetesi.com/
@@ -13090,7 +13090,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.indexmundi.com/?country=Bu
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.nativanews.com.br/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.cadena3.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.thedalharttexan.com/
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.semanariofueguino.com.ar/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.semanariofueguino.com.ar/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://noticiaslibertad.com.ar/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.smalltownpapers.com/?id=358
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.derbytelegraph.co.uk/
@@ -14474,7 +14474,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.alyaum.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.vida-nueva.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.tribunataquaritinga.com.br/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.wivb.com/
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://unpueblochico.blogspot.com.ar/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://unpueblochico.blogspot.com.ar/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.jornalodiadeguarulhos.com.br/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.fratmat.info/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.echopress.com/
@@ -16520,7 +16520,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.whlm.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://diarioelnortino.cl/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.archboldbuckeye.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.courrierfrontenac.qc.ca/
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.oyenecho.ca/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.oyenecho.ca/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://hemsworthcommunications.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.kapital971.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://mynbc15.com/
@@ -17363,7 +17363,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.sakhalin.info/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.canadamunicipal.ca/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ehgazette.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ainsworthnews.com/
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://elprogresohispano.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://elprogresohispano.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://sovch.chuvashia.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://diariochaco.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.smalltownpapers.com/?id=238
@@ -17547,7 +17547,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.omniacomm.biz/?type=2
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nhonews.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.wehaitians.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.emirates247.com/
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.lagaceta.hn/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.lagaceta.hn/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.timesleader.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.tv7.kz/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.explorebigsky.com/
@@ -17949,7 +17949,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://life.ualr.edu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.theledger.com/?category=visionlatina
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.derivera.com.uy/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.themichigancatholic.com/
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.reporter.bz/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.reporter.bz/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.portalcambe.com.br/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.clreporter.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://nortedigital.mx/
@@ -21608,7 +21608,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.saffronwaldenreporter.co.u
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.creativetourismnetwork.org/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.archindy.org/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://gallupindependent.com/
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.caribjournal.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.caribjournal.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.newera.com.na/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.grazer.at/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.coloradocountycitizen.com/
@@ -22848,7 +22848,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.radio.li/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.atshabar.kz/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://pressnews.com/?tag=st-michael
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.indexmundi.com/?country=Norfolk%20Island
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.diarioprensatdf.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.diarioprensatdf.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.argusleader.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.tcctnews.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.lasubasta.com/
@@ -23268,7 +23268,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.fiaformulae.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.inyoregister.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.island-reporter.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://vn.yahoo.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.tiempo.hn/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.tiempo.hn/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.dobbins.afrc.af.mil/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.slbc.lk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.waterfrontpress.com/
@@ -23605,7 +23605,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.informeesquina.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.sanfernandosun.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.jeune-independant.net/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.koha.mk/
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.7newsbelize.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.7newsbelize.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://glencoverecordpilot.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.lonepeaklookout.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.westernreservepublicmedia.org/
@@ -23733,7 +23733,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.amerisourcebergen.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://nowgrenada.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://sanmartinnoticias.fullblog.com.ar/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.yourislandnews.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://elpais.com.sv/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://elpais.com.sv/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.nortecorrientes.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.myaustinminnesota.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.alshahedkw.com/
@@ -24093,7 +24093,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://wtnzfox43.revrocket.us/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ourtimepress.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.maplelakemessenger.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://english.ts.cn/
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://red23.com.ar/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://red23.com.ar/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://westubuzz.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.elfueguino.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.thekirbyvillebanner.com/
@@ -25894,7 +25894,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.zamboangatoday.ph/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.southcoastregister.com.au/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://wyoming.statenews.net/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.southwesternontario.ca/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.contrapunto.com.sv/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.contrapunto.com.sv/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.eyretribune.com.au/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ktre.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://kreisanzeiger.de/
@@ -26608,7 +26608,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://simplythebestdigital.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.kgwanews.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.leadertelegram.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.clicfolha.com.br/
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://caribdaily.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://caribdaily.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.leconomiste.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.aspendailynews.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.rtvbn.com/
@@ -26655,7 +26655,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.newsbystate.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.folhadeobidos.com.br/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.nativetimes.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.myleaderpaper.com/
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.tierradelfuegonews.com.ar/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.tierradelfuegonews.com.ar/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.abrebrecha.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.kbs.co.kr/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.willows-journal.com/
@@ -27479,7 +27479,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.amazonasemfoco.com.br/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.lambcountyleadernews.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://lakewoodsentinel.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://donbass.tv/
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.diario360.com.ar/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.diario360.com.ar/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.palmswestpress.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.carrizospringsjavelin.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.smalltownpapers.com/?id=373
@@ -27802,7 +27802,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.jamesmadison.org/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://condobolinargus.com.au/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://uwrfvoice.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.baltimorebrew.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.svg-tv.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.svg-tv.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.floridabrownfields.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.smalltownpapers.com/?id=120
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://intervalodanoticias.blogspot.com.br/
@@ -28555,7 +28555,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://themadisontimes.themadent.com
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.muzaffarabadnews.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.tv2regionerne.dk/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.afghanzariza.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.elsigloweb.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.elsigloweb.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.minyu-net.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://oneweb.world/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.stjamesnews.com/
@@ -30000,7 +30000,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://theweek.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.hojeedicoes.com.br/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ladepeche.pf/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.urbananoticias.com.ar/
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.diversityrevue.com.ar/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.diversityrevue.com.ar/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://cohasset.wickedlocal.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://meridianstar.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://northeastnews.net/
