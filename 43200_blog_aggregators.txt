@@ -164,3 +164,10 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://m68k.info/index.xml
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://planet.lisp.org/rss20.xml
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://planet.mageia.org/pt/atom.php
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://planet.classpath.org/rss20.xml
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://planet.symlink.ch/rss20.xml
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://planet.grml.org/rss20.xml
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://planet-commandline.org/atom.xml
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://planet-commandline.org/+snippets/atom.xml
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://planet-commandline.org/+emacs/atom.xml
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://planet-commandline.org/+german/atom.xml
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://planet.debianforum.de/atom.xml
