@@ -477,7 +477,7 @@ random=RANDOM;all=1;url=http://www.deeptalkradio.com/
 random=RANDOM;all=1;url=https://www.dr.dk/radio/p8jazz
 random=RANDOM;all=1;url=http://www.wflnradio.com/
 random=RANDOM;all=1;url=https://www.oefbl.at/oefbl/csr/bundesliga-on-ear/
-random=RANDOM;all=1;url=https://www.bbc.co.uk/radioscotland
+#REASON=DUPLICATE#random=RANDOM;all=1;url=https://www.bbc.co.uk/radioscotland
 random=RANDOM;all=1;url=http://www.kscu.org/
 random=RANDOM;all=1;url=https://www.680kfeq.com/program-schedule/
 random=RANDOM;all=1;url=https://www.br.de/radio/bayern1/sendungen/mittags-in-franken/index.html
@@ -512,7 +512,7 @@ random=RANDOM;all=1;url=http://chrisd15.wixsite.com/am580
 random=RANDOM;all=1;url=https://www.ppcc.edu/kepc-897-fm
 random=RANDOM;all=1;url=http://euronewsspanish.radio.es/
 random=RANDOM;all=1;url=https://broncoradio.wordpress.com/
-random=RANDOM;all=1;url=https://rusradio.ru/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=https://rusradio.ru/
 random=RANDOM;all=1;url=http://kutx.org/
 random=RANDOM;all=1;url=https://vorarlberg.orf.at/radio/
 random=RANDOM;all=1;url=http://krcc.org/
@@ -1437,8 +1437,8 @@ random=RANDOM;all=1;url=https://skyzmetroradio.co.zw/
 random=RANDOM;all=1;url=http://ozfm.com/
 random=RANDOM;all=1;url=http://www.radiocapelle.nl/
 random=RANDOM;all=1;url=https://wbvc.pomfret.org/shows
-random=RANDOM;all=1;url=https://www.bbc.co.uk/radiocymru
-random=RANDOM;all=1;url=http://www.radiosoma.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=https://www.bbc.co.uk/radiocymru
+#REASON=DUPLICATE#random=RANDOM;all=1;url=http://www.radiosoma.com/
 random=RANDOM;all=1;url=https://www.br.de/radio/br-heimat/programmkalender/br-heimat-116.html
 random=RANDOM;all=1;url=http://ksfh.com/
 random=RANDOM;all=1;url=https://1025wfla.iheart.com/schedule/
@@ -1447,7 +1447,7 @@ random=RANDOM;all=1;url=http://radiosaba.ir/
 random=RANDOM;all=1;url=http://kcpr.org/
 random=RANDOM;all=1;url=https://www.wuvrradio.com/
 random=RANDOM;all=1;url=http://www.radiowoking.co.uk/schedule/
-random=RANDOM;all=1;url=http://www.lietus.fm/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=http://www.lietus.fm/
 random=RANDOM;all=1;url=http://wlrn.org/topic/radio
 random=RANDOM;all=1;url=http://radio1.by/peredachi/program-schedule/
 random=RANDOM;all=1;url=https://kfok.org/
@@ -1538,7 +1538,7 @@ random=RANDOM;all=1;url=https://www.samfm.co.uk/swindon/presenters-shows/schedul
 random=RANDOM;all=1;url=https://www.francebleu.fr/emissions/grille-programmes/bearn
 random=RANDOM;all=1;url=http://kislavalon.com/listen-live/
 random=RANDOM;all=1;url=http://radio.iranseda.ir/embed/?ch=19&ach=true&ache=true&lv=true&lve=true
-random=RANDOM;all=1;url=https://radiovesti.ru/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=https://radiovesti.ru/
 random=RANDOM;all=1;url=http://www.newsradio1440.com/shows/
 random=RANDOM;all=1;url=http://www.kvor.com/on-air-schedule/
 #REASON=DUPLICATE#random=RANDOM;all=1;url=https://kfbk.iheart.com/
@@ -1804,7 +1804,7 @@ random=RANDOM;all=1;url=http://www.kqms.com/schedule-2/
 #REASON=DUPLICATE#random=RANDOM;all=1;url=http://www.suedostschweiz.ch/
 random=RANDOM;all=1;url=http://news.wfsu.org/schedule/wfsq
 random=RANDOM;all=1;url=https://www.wcbe.org/
-random=RANDOM;all=1;url=http://www.thenews.pl/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=http://www.thenews.pl/
 random=RANDOM;all=1;url=https://www.dr.dk/radio/p5
 random=RANDOM;all=1;url=http://www.radiobloemendaal.nl/programmagids
 random=RANDOM;all=1;url=https://www.jumpradio.de/sendung/index.html
@@ -2063,7 +2063,7 @@ random=RANDOM;all=1;url=https://radio.nrk.no/direkte/klassisk
 random=RANDOM;all=1;url=https://orpheusradio.ru/programs
 random=RANDOM;all=1;url=https://br.sputniknews.com/radio/
 random=RANDOM;all=1;url=https://www.abc.net.au/radio/brisbane/station-epg/
-random=RANDOM;all=1;url=http://www.latvijasradio.lv/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=http://www.latvijasradio.lv/
 random=RANDOM;all=1;url=https://www.bbc.co.uk/schedules/p00fzl7y
 random=RANDOM;all=1;url=https://powertalk1360.iheart.com/
 random=RANDOM;all=1;url=https://radio.nrk.no/serie/distriktsprogram-telemark
@@ -2096,7 +2096,7 @@ random=RANDOM;all=1;url=http://www.radiomalbork.fm/ramowka/
 #REASON=DUPLICATE#random=RANDOM;all=1;url=https://1063word.radio.com/
 random=RANDOM;all=1;url=https://www.kdur.org/
 random=RANDOM;all=1;url=http://www.929thepoint.com/schedule/
-random=RANDOM;all=1;url=https://www.bbc.co.uk/asiannetwork
+#REASON=DUPLICATE#random=RANDOM;all=1;url=https://www.bbc.co.uk/asiannetwork
 random=RANDOM;all=1;url=http://www.oogtv.nl/
 random=RANDOM;all=1;url=https://wcugradio.columbusstate.edu/index.html
 random=RANDOM;all=1;url=https://powertalk1460.iheart.com/schedule/
@@ -2165,7 +2165,7 @@ random=RANDOM;all=1;url=http://www.wrhi.com/
 random=RANDOM;all=1;url=https://streema.com/radios/DWG_Radio_Turkish
 random=RANDOM;all=1;url=https://www.southcarolinapublicradio.org/schedule/wltr2
 random=RANDOM;all=1;url=http://www.kqna.com/program-schedule/
-random=RANDOM;all=1;url=https://www.skyradio.nl/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=https://www.skyradio.nl/
 random=RANDOM;all=1;url=http://wkgc.radio.net/
 random=RANDOM;all=1;url=https://kdwn.com/kdwn-on-air-schedule/
 random=RANDOM;all=1;url=http://www.tropixx.fm/
@@ -2292,7 +2292,7 @@ random=RANDOM;all=1;url=https://onda1190am.com/programacion/
 #REASON=DUPLICATE#random=RANDOM;all=1;url=https://www.nrk.no/sorlandet/
 random=RANDOM;all=1;url=http://www.antenasatelor.ro/
 random=RANDOM;all=1;url=http://www.catmusica.cat/index_cc.htm
-random=RANDOM;all=1;url=http://www.rusradio.lt/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=http://www.rusradio.lt/
 random=RANDOM;all=1;url=https://radio.nrk.no/serie/distriktsprogram-buskerud
 random=RANDOM;all=1;url=https://www.nrk.no/buskerud/
 random=RANDOM;all=1;url=http://radiobelarus.by/
@@ -2302,7 +2302,7 @@ random=RANDOM;all=1;url=https://www.wuvrradio.com/schedule
 random=RANDOM;all=1;url=https://www.bbc.co.uk/schedules/p00fzl8q
 random=RANDOM;all=1;url=http://www.uwmfm.pl/
 random=RANDOM;all=1;url=https://www.fip.fr/sortir/strasbourg
-random=RANDOM;all=1;url=https://www.bbc.co.uk/worldserviceradio
+#REASON=DUPLICATE#random=RANDOM;all=1;url=https://www.bbc.co.uk/worldserviceradio
 random=RANDOM;all=1;url=https://www.bbc.co.uk/schedules/p00fzl76
 random=RANDOM;all=1;url=https://945wfla.iheart.com/schedule/
 #REASON=DUPLICATE#random=RANDOM;all=1;url=http://www.capradio.org/
@@ -2369,7 +2369,7 @@ random=RANDOM;all=1;url=http://www.radiofest.pl/radio/ramowka/
 random=RANDOM;all=1;url=http://www.prk24.pl/27186291/ramowka
 random=RANDOM;all=1;url=http://nguoiviet.tv/vncr/
 random=RANDOM;all=1;url=https://onda1190am.com/
-random=RANDOM;all=1;url=https://www.radiosawa.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=https://www.radiosawa.com/
 random=RANDOM;all=1;url=http://en.radiovaticana.va/epg-web
 random=RANDOM;all=1;url=https://www.signal2.co.uk/
 random=RANDOM;all=1;url=https://radyo.etu.edu.tr/
@@ -2459,14 +2459,14 @@ random=RANDOM;all=1;url=http://www.knzr.com/program-schedule/
 random=RANDOM;all=1;url=https://www.bbc.co.uk/radiosolent
 random=RANDOM;all=1;url=https://www.br-klassik.de/index.html
 random=RANDOM;all=1;url=http://player.lorini.net/circuitoexitos/puertoordaz/
-random=RANDOM;all=1;url=http://www.radiomaryja.pl/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=http://www.radiomaryja.pl/
 random=RANDOM;all=1;url=https://www.mdr.de/mdr-thueringen/sendungen/index.html
 random=RANDOM;all=1;url=https://www.kopn.org/schedule/
 random=RANDOM;all=1;url=http://radio.iranseda.ir/embed/?ch=16&ach=true&ache=true&lv=true&lve=true
 random=RANDOM;all=1;url=http://www.jenniradio.com/?cat=911
 random=RANDOM;all=1;url=https://www.1049thetalkofgainesville.com/radio-shows
 #REASON=DUPLICATE#random=RANDOM;all=1;url=https://echo.msk.ru/
-random=RANDOM;all=1;url=https://www.bbc.co.uk/radioulster
+#REASON=DUPLICATE#random=RANDOM;all=1;url=https://www.bbc.co.uk/radioulster
 random=RANDOM;all=1;url=http://www.newsradio1440.com/
 random=RANDOM;all=1;url=https://www.ppcc.edu/calendar
 random=RANDOM;all=1;url=http://www.katrafm.com/

@@ -3888,8 +3888,8 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.austincounty.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ivins.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://mountainlakemn.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.hattonnd.com
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://us.fulbrightonline.org/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://us.fulbrightonline.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://us.fulbrightonline.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cosb.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://easthempfield.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cityofwasco.org/
@@ -5199,8 +5199,8 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ohiorecorders.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.royaltonvt.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.villageofpulaski.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bridgingfoundation.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.dmv.virginia.gov/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.dmv.virginia.gov/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.dmv.virginia.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.cityofsacramento.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://hanoverboroughyorkcountypa.info/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.gocarrollcounty.com/
