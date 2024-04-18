@@ -3588,8 +3588,8 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://hangotidningen.fi/fi
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.al.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://miamiok.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.dapd.de/
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.retronews.fr/search
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.retronews.fr/search
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.retronews.fr/search
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.26sep.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.orientaldaily.com.my/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://wyborcza.pl/
@@ -5978,8 +5978,8 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://sambadenglish.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.businessinsider.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://edition.cnn.com/shows/amanpour
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.aucklandmuseum.com/collections-research/collections/record/am_library-manuscriptsandarchives-16711
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://periodika.lndb.lv/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://periodika.lndb.lv/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://periodika.lndb.lv/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://imprensaoficialmunicipal.com.br/caiabu
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://khumuunbichig.montsame.mn/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.20min.ch/
@@ -9041,8 +9041,8 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://vesti-koryakii.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.loughboroughecho.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.quotidiano.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://itatiaia.rj.gov.br/
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.comune.carbonera.tv.it/myportal/C_B744/amministrazione/carbonera_notizie
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.comune.carbonera.tv.it/myportal/C_B744/amministrazione/carbonera_notizie
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.comune.carbonera.tv.it/myportal/C_B744/amministrazione/carbonera_notizie
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.opopular.com.br/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://yashalevine.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.xn--80aaasb0accwb3agh5g4c7b.xn--p1ai/
@@ -11414,8 +11414,8 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://actu.fr/la-marne/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.redbluffdailynews.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.elsur.cl/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.informador.mx/
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://epaper.lematindimanche.ch/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://epaper.lematindimanche.ch/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://epaper.lematindimanche.ch/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.shacknews.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mairie-schoelcher.fr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ao.no/
@@ -14306,8 +14306,8 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://le-crestois.fr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://осинское-прикамье.рф/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.gulfcoastnewstoday.com/baldwin-times/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://matogrossototal.com/
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://doe.caldasnovas.go.gov.br:8083/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://doe.caldasnovas.go.gov.br:8083/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://doe.caldasnovas.go.gov.br:8083/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.quoddytides.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bollettinoufficiale.sm/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://vaugneray.reseaudesvilles.fr/
@@ -14858,8 +14858,8 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.journallive.co.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ville-embrun.fr/magazine-municipal-coeur-embrun
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.saojosedoegito.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://onwardstate.com/
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://cachoeirinha.atende.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://cachoeirinha.atende.net/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://cachoeirinha.atende.net/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.news.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.imprensaoficial.com.br/DO/BuscaDO2001Resultado_11_3.aspx?filtropalavraschave=%22PREFEITURA+MUNICIPAL+DE+MOGI+DAS+CRUZES%22
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.vecer.com/

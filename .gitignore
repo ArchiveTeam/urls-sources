@@ -2,4 +2,4 @@ __pycache__/
 queuer/hidden.py
 other/hidden/
 ignore.txt
-domains_list.txt
+static-extract-outlinks-domains.txt

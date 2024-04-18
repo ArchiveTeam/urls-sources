@@ -50,7 +50,7 @@ def main(files: typing.List[str]):
     #            break
     #domains = set(get_values(domains_normalised))
     #print('Total unique', len(domains))
-    with open('domains_list.txt', 'w') as f:
+    with open('static-extract-outlinks-domains.txt', 'w') as f:
         f.write('\n'.join(sorted(domains)))
     
 
@@ -74,6 +74,7 @@ if __name__ == '__main__':
         '43200_wikidata_Q7188_government.wikidata.txt',
         '43200_wikidata_Q163740_nonprofit-organization.wikidata.txt',
         '43200_wikidata_Q1331793_media-company.wikidata.txt',
+        '43200_wikidata_Q5341295_educational_organization.wikidata.txt',
         '43200_wikidata_Q5588651_governing-body.wikidata.txt',
         '43200_wikidata_Q7210356_political-organization.wikidata.txt',
         '43200_wikidata_Q16519632_scientific-organization.wikidata.txt'
