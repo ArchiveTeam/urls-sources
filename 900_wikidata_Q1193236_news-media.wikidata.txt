@@ -15816,7 +15816,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.air-cosmos.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.drogobych.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.oppong.eu/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://diariooficial.abc.go.gov.br/buscanova/
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://diariooficial.abc.go.gov.br/buscanova/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cambridgechron.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.metrotime.be/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.aucklandmuseum.com/collections-research/collections/record/am_library-manuscriptsandarchives-16738

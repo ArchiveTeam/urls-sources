@@ -16,7 +16,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.umsha.ac.ir/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://publisher.unimas.my/ojs/index.php/BJRST/index
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://afenetnigeria.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.saludcastillayleon.es/HRHortega
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.scirp.org/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.scirp.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://library.claremont.edu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.springer.com/education+%26+language/linguistics/journal/40655
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://poolbeg.com/
