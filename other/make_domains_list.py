@@ -67,6 +67,7 @@ if __name__ == '__main__':
         '900_wikidata_Q1962634_news-broadcasting.wikidata.txt',
         '900_wikidata_string_news.txt',
         '3600_govinfo.txt',
+        '3600_medical_research.txt',
         '3600_news_crypto_sites.txt',
         '3600_wikidata_Q1331793_media-company.wikidata.txt',
         '43200_gov_domains.txt',
