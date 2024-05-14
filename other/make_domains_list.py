@@ -73,11 +73,13 @@ if __name__ == '__main__':
         '43200_govt_urls.txt',
         '43200_wikidata_Q7188_government.wikidata.txt',
         '43200_wikidata_Q163740_nonprofit-organization.wikidata.txt',
+        '43200_wikidata_Q178706_institution.wikidata.txt',
         '43200_wikidata_Q1331793_media-company.wikidata.txt',
         '43200_wikidata_Q5341295_educational_organization.wikidata.txt',
         '43200_wikidata_Q5588651_governing-body.wikidata.txt',
         '43200_wikidata_Q7210356_political-organization.wikidata.txt',
-        '43200_wikidata_Q16519632_scientific-organization.wikidata.txt'
+        '43200_wikidata_Q16519632_scientific-organization.wikidata.txt',
+        '43200_wikidata_Q101542346_cultural-facility.wikidata.txt'
     ]
     files = sys.argv[1:]
     if len(files) == 0:
