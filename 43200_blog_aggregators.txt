@@ -10,6 +10,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.classpa
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.evolix.org/atom.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.jabber.org/atom.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.phpmyadmin.net/atom.xml
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://blogs.perl.org/atom.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=http://planet.ubuntu-us.org/rss20.xml
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://identosphere.net/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://golem.ph.utexas.edu/~distler/planet/atom.xml
@@ -31,6 +32,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=http://gullyfoyle.com/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://drwho.theplanetarium.org/atom.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.sagemath.org/atom.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=http://www.planeterlang.com/atom.xml
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://blogs.accu.org/feed/
 #REASON=WAYBACK#random=RANDOM;all=1;keep_all=1;depth=2;deep_extract=1;url=http://web.archive.org/web/20200209095241if_/http://planet.tanglu.org/foafroll.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.mozilla.org/atom.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.grep.be/rss20.xml
@@ -121,6 +123,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://balham.theplan
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.ellak.gr/atom.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.kernel.org/rss20.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet-im.com/rss20.xml
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.freegamedev.net/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.ubuntu.com/rss20.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://de.planet.wikimedia.org/rss20.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planete.april.org/rss20.xml
@@ -136,6 +139,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.lisp.or
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://mariadb.org/planet-atom
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planetpython.org/rss20.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.postgresql.org/rss20.xml
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=http://freedesktop.org/software/pulseaudio/planet/atom.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.freedesktop.org/rss20.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.debianforum.de/atom.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.linux.it/lug/rss.xml
@@ -143,12 +147,15 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.ubuntu-
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://en.planet.wikimedia.org/rss20.xml
 random=RANDOM;all=1;keep_all=1;depth=2;deep_extract=1;url=https://github.com/rayascott/fearless-rust-bloggers/raw/master/fearless-rust-bloggers.opml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet-commandline.org/+german/atom.xml
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.squat.net/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=http://planet.sbcl.org/rss20.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.mageia.org/fr/atom.php
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://fr.planet.wikimedia.org/rss20.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.debian.org/fr/atom.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.gentoo.org/atom.xml
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://feed.perfplanet.com/rss.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://gmq.planet.wikimedia.org/rss20.xml
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=http://maemo.org/news/planet-maemo/atom.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://archivesblogs.com/feed
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://zh.planet.wikimedia.org/rss20.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.samba.org/rss20.xml
@@ -169,5 +176,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planeta.gnome.
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.fsfe.org/rss20.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://jakartablogs.ee/rss20.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.gnome.org/rss20.xml
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://blogroll.org/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.mageia.org/it/atom.php
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.mozillazine.org/rss20.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=http://fedoraplanet.org/atom.xml
