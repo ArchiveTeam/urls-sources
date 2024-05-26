@@ -81,7 +81,8 @@ def main(directory: str = '.'):
                         params={
                             'query': query,
                             'format': 'json'
-                        }
+                        },
+                        timeout=1000
                     )
                     assert response.status_code == 200
                     data = json.loads(response.content, strict=False)

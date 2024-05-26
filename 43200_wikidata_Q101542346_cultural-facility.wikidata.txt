@@ -36,7 +36,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://wintergarten-berlin.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.carnegiehall.org/About/History/Archives
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://aymelek.com.br/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.wynnlasvegas.com/
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.wynnlasvegas.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.city.shingu.lg.jp/forms/menugrouptop/menugrouptop.aspx?menugroup_id=419
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.teatrosocialebalzan.it/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.irvingartscenter.com/
@@ -84,6 +83,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.cabq.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.badfuessing.com/de/bad-fuessing/branchenbuch-a-z/grosses-kurhaus~3011
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.koetshuisroosdaal.be/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.sti.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.centroniemeyer.es/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://uraldrama.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.maxskansascity.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ostadeadam.nl/
@@ -164,6 +164,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.stjamestheatre.ca/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.teatrospaziobixio.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://clubcummingnyc.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.kzmj.cz/divadlo/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ntng.gr/default.aspx?lang=el-GR&page=8
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.skenderija.ba/index.php/dommladih
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.cac.es/museo/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.landgaststaette-schlaitz.de/
@@ -262,6 +263,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ckvkaradzic.org.rs/cir/oj_
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.teatredelraval.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.borba1896.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.warwickdc.gov.uk/royalspacentre/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mozarteum.at/museums/mozart-wohnhaus/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.theatrebennobesson.ch/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.theatrgwynedd.co.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.leicestersquaretheatre.com/
@@ -315,7 +317,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kuba-sb.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.cchetspoor.be/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://tonhallewil.ch/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.druid.ie/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.emich.edu/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.emich.edu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://placedesarts.com/fr/produire-evenement/location-salle/esplanade-place-des-arts
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.lincolncenter.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.institutfrancais.ru/
@@ -464,6 +466,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.salondeprovence.fr/index.p
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.opera-pokrovsky.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nagaoka-caf.or.jp/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://imac.paeria.es:80/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://theaterfilms.wix.com/thehayworth
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://fr.afshanghai.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.theaterburgdorf.ch/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.seenland-oderspree.de/Media/Attraktionen/Kurtheater-Bad-Freienwalde
@@ -580,7 +583,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://teatroitalia.com.br/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.fermoteatro.it/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://almazen.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.theater-osnabrueck.de/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.temiskamingshores.ca/en/resident/Facility-Rentals.aspx?_mid_=76486
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.kranichfeld.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.vivid.org.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.jazzstandard.net/
@@ -754,7 +756,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://behesht.etefaq.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://elycentraltheatre.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.teatrodemicheli.it/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://teatroi.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.unomaha.edu/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.unomaha.edu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.institutfrancais.es/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.auditorio-telmex.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.alliancefr.mg/
@@ -764,6 +766,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://billybobstexas.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.dijon.fr/les-salles-de-spectacle!0-38-1/les-theatres-municipaux!2-2820/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mairie-alise-sainte-reine.fr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.comediedes3bornes.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.stiftung-friedenstein.de/ekhof-theater
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.jacobspillow.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://permtuz.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.mixedblood.com/
@@ -828,11 +831,13 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.thekingshall.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.siampicganesha.com/en
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://znam.gov.ua/miskij-palac-kulturi-08-53-19-10-03-2021/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.princesstheatreinc.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://kuindzycentre.wixsite.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.hallarna.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.poirel.nancy.fr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ungateatern.fi/fi/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.theater-schweinfurt.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.theaterstilburg.nl/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cube521.lu/de
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.uems.br/cepex/conteudo/624dd0924058f6e0a63c04c2e66c716c/4efecd656e1712f773eebd95ad50c167
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.thelighthousecafe.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://kalakshetra1.kannadasiri.co.in/
@@ -875,9 +880,9 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.cc-parthenay-gatine.fr/pty
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.umanitaria.it/archivio-biblioteca
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.whiskyagogo.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://teatrkms.ru/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.somsavigliano.com/biblioteca-t-claps/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.theateraandeparade.nl/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.casaasia.cat/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.city.suzu.lg.jp/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://kulturtreffhainholz.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.rockmart-ga.gov/TheRockmartTheatre.aspx
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.theatertartaar.be/home
@@ -1131,6 +1136,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.gesellschaftshaus-magdebur
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.wiltshirecreative.co.uk/whats-on/salisbury-arts-centre/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.kultura.krasnik.eu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.aspaklaria.org/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ntng.gr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.sydneytheatre.com.au/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mirvish.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.zenith-omega-toulon.com/
@@ -1281,6 +1287,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://ocnk89.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.amt-golzow.de/verzeichnis/visitenkarte.php?mandat=53093
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.austintexas.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://wyeside.co.uk/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.somsavigliano.com/biblioteca-t-claps/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://git.lv/?lang=en
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.princesstheatreandartscentre.co.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.metelkovamesto.org/
@@ -1306,7 +1313,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.theatrelapepiniere.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.wctheatre.co.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.verkatehdas.fi/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.artscentrewashington.co.uk/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://unesdoc.unesco.org/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://unesdoc.unesco.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.centreceramique.nl/Bibliotheek
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.city.ota.gunma.jp/020sisetu/01center/yabukou.html
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.shanklintheatre.com/
@@ -1575,7 +1582,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.zenith-dijon.fr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.jcacinemes.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://laportabcn.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ndbrno.cz/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://esplanade.ca/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://vinplanet.jimdo.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.seehof.ch/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.jdwetherspoon.com/pubs/all-pubs/england/lancashire/the-thomas-burke-leigh
@@ -1683,6 +1689,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.besiktas.bel.tr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.trch.co.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://vko-teatr.kz/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.palacetheatre.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://zlatlib.alle.bg/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.if-algerie.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.sodrateatern.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.arbanel.ch/
@@ -1735,6 +1742,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.laversilianafestival.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.salesianichioggia.it/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://culturamunijujuy.gob.ar/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.mojekromeriz.cz/mista/22/klub-stary-pivovar
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://spectart.com/salles/detail.php
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://dati.emilia-romagna.it/id/ibc/www.quellidel29.it
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.santamonicaplayhouse.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.fabrikacci.ru/
@@ -1747,6 +1755,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.puppentheater.at/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.capitol-kw.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://kupferbergcenter.org/lefrak-concert-hall/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.strasbourg-events.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.wynnlasvegas.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.lenouveaurelax.fr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.casadelamemoria.es/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.sansalvador.gob.sv/TeatroMunicipalDeCamaraRoqueDalton
@@ -1812,6 +1821,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://palace-ukraine.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.stockton.gov.uk/globe
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.teatronacional.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.okura-movie.co.jp/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.lecarre150.com/Expositions
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.riversidetheatre.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.cinemamignon.it/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.sydneyoperahouse.com/
@@ -1828,9 +1838,9 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.suttontheatres.co.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.stadttheater-bocholt.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://geoportal.bayern.de/denkmalatlas/searchResult.html?objtyp=bau&koid=91987
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://tambovteatr.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.galwayartscentre.ie/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://dati.emilia-romagna.it/id/ibc/www.teatrostabiledimordano.it
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.theeaglehoxton.co.uk/
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.theeaglehoxton.co.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.aflahore.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.malpertuis.be/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.teatrodellesaline.it/
@@ -2603,6 +2613,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.thefct.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://xarxaprod.cat/portfolio-item/cantekoha/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://akiat.jp/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.lobero.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.parkwoodtheatres.co.uk/theatre/default.aspx?zid=4
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://duszniki.pl/3121-2/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://sevran.micro-folies.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://stu.ub.gov.mn/
@@ -2865,6 +2876,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://tilsit-theatre.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mumok.at/de
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.opera.lt/english
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.theaterdebussel.nl/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.lingen.de/tourismus-freizeit-kultur/theater-lingen-ems/theater-lingen-ems.html
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.theater-alte-bruecke.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.festspielhaus.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://minzalateatr.ru/
@@ -2942,7 +2954,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.debalie.nl/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.odessaphilharmonic.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.musiccenter.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.afascircustheater.nl/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://depts.washington.edu/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://depts.washington.edu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.spectacle-gtgp.calais.fr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.talladegaritz.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.comune.borgoticino.no.it/
@@ -3097,7 +3109,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.bartertheatre.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://jp.taiwan.culture.tw/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.towertheatre.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.schoenberg.at/
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://bdt.spb.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.iridiumjazzclub.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://rbk.cultura.kh.ua/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.empirecinemas.co.uk/
@@ -3268,7 +3279,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.theskypac.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://teatrd.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.theatrejeanvilar.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://shawfest.com/visit/theatres/
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://shawfest.com/visit/theatres/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.teatrodicicagna.it/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.neustadthalle.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://xn--80afe1cl.xn--p1ai/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.spacezero.co.jp/
@@ -3283,6 +3294,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.teatrofernandotorres.com.b
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://teatreakademia.cat/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.thegaelic.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://mbk.ck.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.tnaneve.ru/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://buehnen-halle.de/kulturinsel
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://kulturwerkstatt-memmingen.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.catalystclub.com/
@@ -3464,7 +3476,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.madamsorgan.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://rus-noyabrsk.ru/theatre/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.pl.instpol.by/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://chitalishte-as.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://hoxe.vigo.org/movemonos/m_galega.php?lang=gal
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.zuiderkroon.be/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.teatrorossini.it/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kalmar.com/
@@ -3495,7 +3506,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.dklk-vl.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.stamfest.no/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ullensakerkulturhus.no/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.altonaer-theater.de/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.stadt-zuerich.ch/ssd/de/index/mkz.html
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.visithoustontexas.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.duseteatro.it/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.caixa.gov.br/cultura/Paginas/default.aspx
@@ -3533,7 +3543,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.aduf.az/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ramsdell-theater.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.groupedes20theatres.fr/le-groupe-des-20/les-membres/espace-sarah-bernhardt/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://hastudio-tr.co.il/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://portal.anhembi.br/cursos/teatro/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://русскиекрылья.рф/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://obrasociallacaixa.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://joruri.info/
@@ -3563,7 +3572,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.kazalistemerlin.hr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://artsmu.com/ware-center/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://tuz-tver.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://polinst.sk/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.goethe.de/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.goethe.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.century2.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.tak-hannover.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://if-maroc.org/casablanca/
@@ -3700,6 +3709,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://nok.naklo.pl/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.teatroayala.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://auditori.girona.cat/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://shubert.nyc/theatres/majestic/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://klabauter-theater.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://sibaidramteatr.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://vertigocr.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://showplace.org/
@@ -3792,6 +3802,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.morrin.org/en/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.afbg.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://ronnebyteater.se/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://stefans-marionettentheater.de/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://shawfest.com/visit/theatres/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.biesdorfer-parkbuehne.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.arab-hebrew-theatre.org.il/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gasc.or.kr/
@@ -3832,7 +3843,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.housing.purdue.edu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.creventslive.com/p/venues/paramounttheatre
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ptt.wa.gov.au/venues/state-theatre-centre-of-wa/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.huludun.taichung.gov.tw/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.city.okayama.jp/kouminkan/joutou/index.html
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.airys.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.teatroverdigenova.it/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.hertfordtheatre.com/
@@ -3871,7 +3881,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ville-cusset.com/theatre/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://cercca.cat/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://swampgravy.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bourlaschouwburg.nu/
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bourlaschouwburg.nu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://teatr-subbota.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ikirengaculturalcentre.rw/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.greeneking-pubs.co.uk/pubs/greater-london/george-southwark/
@@ -4154,6 +4163,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://altonmill.ca/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://ent-nts.ca/fr/monument-national
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://putilovskij-hram.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.sibeliustalo.fi/fi/finlandia-klubi/finlandia-klubi
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.sescsp.org.br/unidades/14_BAURU/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.shermantheater.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://cracvalparaiso.cl/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.cambridgetheatre.co.uk/
@@ -4221,7 +4231,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://logomo.fi/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://haskellopera.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://shaolintempel.ch/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.operahousearts.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.rheinfelden.ch/de/m/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.fiesp.com.br/centro-cultural-fiesp-ruth-cardoso/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://lyalincenter.tilda.ws/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.programasculturaiscaixa.com.br/
@@ -4239,6 +4248,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://maplacedesarts.ca/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://jazzstation.be/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.proctors.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://koos.org/yosttheatre/Home/tabid/240
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.temiskamingshores.ca/en/resident/Facility-Rentals.aspx?_mid_=76486
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.tourisme-montreuillois.com/fr/preparer-son-sejour/sortir/cinema-theatre
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://ccv-ma.org.br/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.tandem-arrasdouai.eu/
@@ -4324,8 +4334,10 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://kczr.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.theatreroyal.org.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nationaltrust.org.uk/george-inn
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://bc-teatr.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.discoverpuertorico.com/profile/teatro-tapia/8743
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://gulliftys.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.theatropedro2.com.br/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.lingen.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.prospectosdecine.com/huesca---teatro-principal
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://horncastletheatre.co.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.bastia.corsica/fr/les-lieux-culturels/theatre-municipal-287.html
@@ -4521,7 +4533,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.museum.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.comune.quarrata.pt.it/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.teatroaugusta.com.br/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.comune.casteldelpiano.gr.it/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.seattlesymphony.org/benaroya/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.kcgm.org.rs/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.siampicganesha.com/th
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.fact.co.uk/
@@ -4955,6 +4966,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://h-residency.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.olinda.org/teatrolacucina/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.werk-2.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.lantaren-venster.nl/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.stiftung-friedenstein.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://pelly07.wixsite.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://beltheatre.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.stanica.sk/
@@ -4968,6 +4980,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.leplaza-brussels.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.terdilft.be/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ville-liffre.fr/mes-loisirs/culture/le-centre-culturel/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://institutfrancais-palermo.com/fr
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.le-fil.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.f-shinkoukousha.or.jp/ongakudou/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.arceviaweb.it/hostarceviaweb/Turismo/TeatroMisa/TeatroMisa.htm
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://thecrystaltheatre.org/
@@ -4997,7 +5010,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://nbpolytheatre.polyt.cn/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.rottefælden.dk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://institutfrancais.ge/fr
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.corrosia.nl/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.sescsp.org.br/unidades/5_IPIRANGA/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.fritz-bremen.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.cendrev.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.sn-albi.fr/
@@ -5006,7 +5018,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.oscarsteatern.se/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.kicmp.cz/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.shelterbelt.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.freezonelv.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://rotefabrik.ch/de/akteure/fabriktheater/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://iconmusiccenter.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.pafleg.it/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://riotheatre.ca/
@@ -5034,6 +5045,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://npac-ntch.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.baluarte.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://dc9.club/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.santamarcelinacultura.org.br/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.centreyennenga.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.c-mine.be/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://theatre-martyrs.be/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.planetarium-wien.at/
@@ -5108,7 +5120,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.facebook.com/profile.php?
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.gcdewildeman.be/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://halasimozi.hu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ville-sainte-tulle.fr/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nkc.rs/biblioteke
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://ucmasqueradetheatre.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.flybynight.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://teatremao.com/
@@ -5207,7 +5218,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.fortwayneparks.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://bettynansen.dk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.theforumbarrow.co.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.thepalace-longridge.co.uk/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.american.edu/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.american.edu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.jurmala.lv/lv/kultura/jurmalas_kulturas_centrs/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://lowellauditorium.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://spapavilion.uk/
@@ -5377,7 +5388,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ccbrugge.be/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.rusdrama.kh.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://centroartegracamorais.cm-braganca.pt/pages/120
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.esplanade.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.banq.qc.ca/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.banq.qc.ca/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://skckg.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.villedegrandbassam.ci/page/centre-culture-JBM
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.daytonabandshell.com/
@@ -5408,7 +5419,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.teatrosociale.it/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.jokai.sk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.michtheatre.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.friendsofthebroadway.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.bris.ac.uk/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.bris.ac.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.freilichtbuehne-nettelstedt.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nouvellescene.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://musikpalatset.se/
@@ -5454,7 +5465,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.casinostartheatre.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://bandjounstation.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.expressions.org.nz/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.lyttonplayers.co.uk/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://yakov.com/yakov-in-branson/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.atg.co.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ufafabrik.de/intro.php
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://sdk.pl/
@@ -5656,7 +5666,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.cinesex.ch/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.goggleworks.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.landmarksdekalbal.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://imac.paeria.es:80/ca/musica/enricGranados/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nadir.org/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nadir.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.coluchtbal.be/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.gallerianazionale.it/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.lesdoms.be/
@@ -5713,7 +5723,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://theatremontana.blogspot.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.landstuhl.de/en/tourism/worth-seeing/nanstein-castle/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.kinosokol.pl/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://benefistheatre.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://stage-musical.ru/ser/theatres
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.alteoper.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://hackneyempire.co.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ptt.wa.gov.au/
@@ -5811,7 +5820,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.dkwloszczowa.pl/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://turuntaidehalli.fi/sv/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://clarkplanetarium.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.bazeostower.gr/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://mozarteum.at/museums/mozart-wohnhaus/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.laval.ca/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://solvangfestivaltheater.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.amphi7.co.il/
@@ -5923,6 +5931,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.teatrosantandrea.it/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.arcadiatheater.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.comune.ostellato.fe.it/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://evasion.ville-ambaresetlagrave.fr/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.tribuene-linz.at/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://ertfvg.it/teatri/spilimbergo/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://theatrelarubrique.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://madamfortuna.be/
@@ -5981,7 +5990,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://teatro.comune.cesenatico.fc.it
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://theatermatte.ch/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.institutfrancais.es/valencia
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.neuwoges.de/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.centroniemeyer.es/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ilpuff.it/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.spangenbergtheatre.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://tpwd.texas.gov/state-parks/caprock-canyons/fees-facilities/group-facilities/amphitheater
@@ -6049,6 +6057,12 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.georgestreetplayhouse.org/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.charleston-hub.com/the-charleston-conference/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gtg.ch/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.masseyhall.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://hoxe.vigo.org/movemonos/m_galega.php?lang=gal
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://repertorio.nyc/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ifs.sn/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://rotefabrik.ch/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://rotefabrik.ch/de/akteure/fabriktheater/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.theeaglehoxton.co.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://civictheatre.com.au/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.cdcc.usp.br/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ovation.qc.ca/gatineau/theatredelile/
@@ -6092,13 +6106,13 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cuisery.fr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://salfordvictoria.co.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.maisondelalitterature.qc.ca/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://intraweb.stockton.edu/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.imarabe.org/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.imarabe.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.victoria-theater.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.entertaincarolina.com/?fa=main.home
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.casinodespa.be/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.sbf.org.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.reus.cat/ajuntament/caer
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.leeds.ac.uk/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.leeds.ac.uk/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.wolseytheatre.co.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.vanhapaukku.fi/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.berniegrantcentre.co.uk/
@@ -6189,7 +6203,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://pederbalke.no/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.sancy.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cck.gob.ar/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://xn--80aedf1awacbnbldfcd.xn--p1ai/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.tnaneve.spb.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://praktikatheatre.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.teatrovaccaj.it/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://keytheatre-peterborough.com/
@@ -6202,6 +6215,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.fondazionecultura.eu/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://if-maroc.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.teatroquirino.it/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://theater-bielefeld.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://stage-musical.ru/ser/theatres
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.artsentercapecharles.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gatteomareturismo.it/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.arcolatheatre.com/
@@ -6210,7 +6224,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ifegypte.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.friedrich-wolf-theater.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://discoverbeaumont.com/jefferson-theatre-info
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.solaresonline.it/
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.solaresonline.it/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://vancouvercivictheatres.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.casulapowerhouse.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.teatr-kukol.od.ua/
@@ -6329,7 +6342,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://phoenixtheatre.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.wattstowers.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ryutopia.or.jp/en/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://musiccenter.taipei/en/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ufsj.edu.br/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ufsj.edu.br/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.montalbandecordoba.es/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.newberryoperahouse.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://ring-theatre.as.miami.edu/
@@ -6687,7 +6700,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.oviedo.es/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.library.vcu.edu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://teatrolacandelaria.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.espronceda.net/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.discoverpuertorico.com/profile/teatro-tapia/8743
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.puppet.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.comune.adrano.ct.it/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://stadthalle.kulturkalender.webseiten.cc/
@@ -6823,7 +6835,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.shiki.jp/zh-tw/theatres/4
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://thestrandtheatre.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.teatroregional.cl/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.frontonsineu.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://repertorio.nyc/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://repertorio.nyc/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://eichsfelder-kulturhaus.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://ivc.gva.es/es/escena/programacion-escena/espailg
@@ -6895,7 +6906,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://brassens.ville-avrille.fr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.leduplex.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.polyforumsiqueiros.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.victorygardens.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://centreculturel-fougeres.fr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://mckis.pultusk.pl/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.teatroarsenale.it/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://saraton.com/
@@ -7109,6 +7119,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.kuko-weingarten.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://moscowtyz.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.kulturasusice.cz/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://theatredepassy.fr/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.musiccenter.org/about/OUR-VENUES/Our-Theatres--Concert-Halls/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.centralefies.it/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.plowrighttheatre.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://ukrcentr.ru/
@@ -7209,7 +7220,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.tifttheatre.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.teatromanzoni.it/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://hawkinsvilleoperahouse.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://wis-wander.weizmann.ac.il/michael-and-anna-wix-auditorium
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://rotefabrik.ch/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://rotefabrik.ch/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.theatkinson.co.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://trafalgartickets.com/
@@ -7256,7 +7266,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://vienibasnams.lv/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.std-samara.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.volksplatz.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.soka.edu/soka-performing-arts-center
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.sescsp.org.br/unidades/14_BAURU/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.elgiva.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.chieftheater.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.onfife.com/venues/rothes-halls
@@ -7465,7 +7474,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ncfta.gov.tw/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.gloriatheater.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://xn--e1affcfzedas9gn3b.xn--p1ai/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.tribbyartscenter.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.museosdetenerife.org/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.museosdetenerife.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://townofbiggar.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://almazen.net/CA/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.raymondtheatre.com/
@@ -7528,6 +7537,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.theothorne.nl/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://shubert.nyc/theatres/cort/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.parks.ca.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bibalex.org/en/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cube521.lu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mammemahuis.nl/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.columbiatheatre.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.culture.gov.bh/en/authority/cultural_sites/BahrainNationalTheatre/
@@ -7556,7 +7566,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.brotfabrik.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.redutajazzclub.cz/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://artaiafvg.wordpress.com/spazi/creating-multi-purpose-learning-and-performing-centre-via-the-reuse-of-existing-abandoned-buildings-in-a-rural-area/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.opera-nice.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://music.indiana.edu/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://music.indiana.edu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.junge-garde.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.comune.scansano.gr.it/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.landskrona.se/uppleva-och-gora/kultur/landskrona-teater/
@@ -7688,7 +7698,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.rjrauditorium.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.takatsuki-bsj.jp/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.jaunimoteatras.lt/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://culture.gov.mt/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.museidigenova.it/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.museidigenova.it/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.cvkhotelsandresorts.com/tr/istanbul-otelleri/park-bosphorus-hotel-istanbul/safira-spa/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.comedyclub.co.il/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.teatroalbertomaranhao.rn.gov.br/
@@ -7754,7 +7764,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.samiteahter.org/en/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.sabap-rm-met.beniculturali.it/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.salasaopaulo.art.br/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.uwa.edu.au/theatres/venues/somerville-auditorium
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://zlatlib.alle.bg/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://zlatlib.alle.bg/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.lamachinedumoulinrouge.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.thehollandtheatre.org/
@@ -7866,7 +7875,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.toho.co.jp/stage/teigeki/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.shiki.jp/zh-cn/theatres/4008/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.komedija.hr/www/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.teatruldestatconstanta.ro/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.usp.ac.fj/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.usp.ac.fj/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.kultuurivara.ee/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.delfontmackintosh.co.uk/theatres/sondheim-theatre
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.arcatatheater.com/
@@ -8021,7 +8030,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.divadlokamen.cz/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://mairiecotignac.fr/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kennedy-center.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.zhdk.ch/theater-der-kuenste
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://r1.ufrrj.br/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://r1.ufrrj.br/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.birmingham-rep.co.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.better.org.uk/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.crowstheatre.com/
@@ -8073,7 +8082,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.sabackopozoriste.rs/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://nicolasparish.org.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://online.aeonculture.jp/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://theatre.colmar.fr/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.dal.ca/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.dal.ca/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.kaufmanmusiccenter.org/mch
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://thefim.org/capitol-theatre/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://dksokol.eu/
@@ -8127,7 +8136,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.hnk-osijek.hr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.teatrobrancaccio.it/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.hoftheater-dresden.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.cdc4b.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://ifs.sn/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://ifs.sn/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.corinaldo.it/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://newperspectives.co.uk/
@@ -8201,7 +8209,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.gewandhausorchester.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.founderstheatre.co.nz/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ville.repentigny.qc.ca/centredartdianedufresne.html
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.cultura.ma.gov.br/taa/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.wm.edu/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.wm.edu/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://your.caerphilly.gov.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kinokuniya.co.jp/c/store/theatre.html
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bunkamura.co.jp/english/cocoon/
@@ -8214,6 +8222,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ksul.cz/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://culturamazatlan.com/es/teatro-angela-peralta/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.adck.nc/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://hornsey-town-hall.org.uk/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.sescsp.org.br/unidades/5_IPIRANGA/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://themaclive.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.borkum.de/kontakt/kulturinsel/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://vail-leavitt.org/
@@ -8256,6 +8265,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.theaterdo.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.institut-francais.lv/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://sawneeart.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.dobgm.gov.tr/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nkc.rs/biblioteke
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.divadloexil.cz/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://colosseo.it/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://freilichtbuehne-weissensee.de/
@@ -8380,7 +8390,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.divadloslany.cz/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://idealbarcelona.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.sunplaza.jp/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://greenolivearts.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://graenseforeningen.dk/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://graenseforeningen.dk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.t-bunka.jp/en/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://versusteatre.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.rzn-tdm.ru/
@@ -8441,6 +8451,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://billgrahamcivic.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.rathausoper.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.cirquetheatre-elbeuf.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.planetarium.unr.edu/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://centreculturel.fougeres-agglo.bzh/le-centre-culturel/les-lieux/theatre-victor-hugo/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://tragantdansa.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.rogerscitytheater.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://bregenzerfestspiele.com/
@@ -8554,7 +8565,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.glenstreet.com.au/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bfany.org/theatre-row/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.stadt-wiesmoor.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://astana-piramida.kz/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.filmfabriek.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.filmfabriek.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cinemateatroverdi.it/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://theatre-quartier-libre.fr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.dso.org.nz/hanover-hall
@@ -8659,6 +8670,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.turismo.saoroque.sp.gov.b
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://artsandculture.google.com/asset/art-aia-rehearsal-space/iAFunNc8vsg0ow?hl=en
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.pmf.sc.gov.br/entidades/franklincascaes/index.php?cms=galeria+municipal+de+arte+pedro+paulo+vecchietti&menu=4&submenuid=322
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.findlay.edu/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://theamelia.co.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.fondazionebrunozevi.it/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://akmistanbul.gov.tr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.comune.alba.cn.it/
@@ -8672,13 +8684,14 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://lestruch.sabadell.cat/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.kemfil.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.espacointerciencias.com.br/index.html
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.schuetzenhaus-pulsnitz.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://yakov.com/yakov-in-branson/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.theatreducyclope.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.stevansremac.org.rs/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.breweryarts.co.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.laurette-theatre.fr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://kcjagodina.rs/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://westportartscenter.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.dia.org/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.dia.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://turunkesateatteri.fi/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.capa.com/columbus/venues/palace_about.php
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.theateraanhetvrijthof.nl/
@@ -8739,6 +8752,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.clemenscenter.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://discotecheinversilia.it/le-discoteche-della-versilia/discoteca-bussola-versilia/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://moeenjahed.ir/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.marstheatre.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://portal.anhembi.br/cursos/teatro/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.laboule-noire.fr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://harboroughtheatre.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://takarazukarevue.tw/theater/tokyo.html
@@ -8962,7 +8976,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.thurgauerhof.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://kageki.hankyu.co.jp/english/theater/takarazuka.html
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://acj55.fr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.palacenet.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.dipujaen.es/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.dipujaen.es/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.c-magic.com/boonvill/Thespian.htm
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.anaheim.net/1432/Pearson-Park-Amphitheatre
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.theatro.gr/
@@ -9197,7 +9211,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://goteborg.se/wps/portal/enhets
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.alandica.ax/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.costa-antwerpen.be/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://shinbashibunka.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.charleston-hub.com/media/atg/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.charleston-hub.com/media/atg/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://lacite-nantes.fr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.theater-am-meer.de/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.storyhouse.com/
@@ -9205,7 +9219,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://crtdu.kirovedu.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://Opera-Centre.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://oasttheatre.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.divadlozbraslav.cz/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://theaterfilms.wix.com/thehayworth
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://farhangsarayeadib.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://festival.kerhervy.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://et-cetera.ru/
@@ -9295,7 +9308,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.teatrivalmarecchia.it/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.comuneloreto.it/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.salaflyhard.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.krabat-muehle.de/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ville-ge.ch/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ville-ge.ch/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://csikijatekszin.ro/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.palacestamford.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://rialto.katowice.pl/
@@ -9336,6 +9349,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.lakemac.com.au/Venues/War
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.teatrodelgiglio.it/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.paraphraz.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kyoto-gekijo.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.theatredechartres.fr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.afdhaka.org/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://palazzorealegenova.cultura.gov.it/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://bizkaiaarena.bilbaoexhibitioncentre.com/
@@ -9508,6 +9522,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://humanresourcesla.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.abronsartscenter.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ville-briey.fr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ardentheatre.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.lovekino.at/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.theater-altenburg-gera.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.banffcentre.ca/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.vendome.eu/
@@ -9516,14 +9531,12 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://kupferbergcenter.org/colden-a
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://bridgetheatre.co.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.360istanbul.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://nca.am/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.musiccenter.org/about/OUR-VENUES/Our-Theatres--Concert-Halls/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.chienquifume.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.broadwaycenter.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.badpyrmont.de/nds-staatsbad-pyrmont-mbh/veranstaltungsabteilung/vermietung-von-veranstaltungsraeumen/konzerthaus/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.yorktheatre.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.lapalene.fr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://geneva.ee/
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.zazerkal.spb.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://mst.org.br/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.tpkonline.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.operadeparis.fr/
@@ -9579,6 +9592,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.le140.be/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.amherst.edu/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kinoplex.com.br/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.rialtotheatre.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.solaresonline.it/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.theatre-shevchenko.com.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.city.kashihara.nara.jp/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://ukrlugteatr.com/
@@ -9672,6 +9686,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://die-komoedianten.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.darylroththeatre.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://prim.mariinsky.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://czklazarevac.rs/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://kuindzycentre.wixsite.com/centre-ku
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.olinda.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.fondationlouisvuitton.fr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://posadamision.com/
@@ -9857,6 +9872,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cac.es/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://boqnpenev1949g.alle.bg/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.gatob.kz/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.5thavenue.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.rheinfelden.ch/de/m/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.extensao.uff.br/?q=content/casa-da-descoberta
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://comune.vecchiano.pi.it/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.tmcc.gov.tw/en/index.aspx
@@ -9936,7 +9952,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.zehntscheuer-amorbach.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.saltlakecountyarts.org/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://shubert.nyc/theatres/winter-garden/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://s-ah.jp/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.uaeh.edu.mx/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.uaeh.edu.mx/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.regasu-shinjuku.or.jp/bunka-center/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.recyclart.be/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.taitocity.net/zaidan/sougakudou/
@@ -10018,6 +10034,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.comune.gubbio.pg.it/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.capitol-mannheim.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.pierartscentre.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ilmaggioreverbania.it/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://mantenboshi.jp/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ccmq.rs.gov.br/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.compensakoncertusale.lt/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.tojo.ch/
@@ -10057,6 +10074,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ville-pierrelatte.fr/accu
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.teatrodelmercadozaragoza.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.kulturhusetbirkelundgaard.dk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.macautourisme.com/monument_patrimoine.php3?id_article=74
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.city.suzu.lg.jp/site/laporte-suzu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.guarulhos.sp.gov.br/secretarias/educacao
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://scass.sharjah.ac.ae/en/Pages/default.aspx
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mcjp.fr/
@@ -10072,6 +10090,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.teatrulnationaliasi.ro/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.centroculturalportugues.com.br/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.fondazionecantiere.it/it/teatro-poliziano
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.helenarts.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.esplanade.ca/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://shriramcentre.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.sheas.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.acgai.fr/
@@ -10090,6 +10109,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.collectorshouse.eu/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.lacomediedereims.fr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.theatrausirgar.co.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://empac.rpi.edu/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ellingtonjazz.com.au/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.lippstadt.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://opera-vichy.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://tetuhi.art/
@@ -10104,6 +10124,10 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://culturaydeporte.usfx.bo/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.minnesotaplanetarium.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.teatrodibudrio.it/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.harristheaterchicago.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.city.okayama.jp/kouminkan/joutou/index.html
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bourlaschouwburg.nu/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.comedie-francaise.fr/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.stadt-zuerich.ch/ssd/de/index/mkz.html
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.tuchlaube.ch/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.sadoughi.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.themurphytheatre.org/
@@ -10132,7 +10156,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.jackandjoetheatre.it/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.teatrosangiovannibosco.it/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.oratosio.it/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.comune.lucera.fg.it/hh/index.php
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.le-fil.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.cornexchange.org.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.thehopetheatre.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://teatr.cn.ua/
@@ -10159,6 +10182,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://svobodnyiteatr.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://theatredesnouveautes.efilprod.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.tabakov.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://nordkraft.dk/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.esplanade.ca/services/esplanade-rentals
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.opera-comique.com/en
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.malvern-theatres.co.uk/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://grandtheatre.qc.ca/a-propos/salles/salle-louis-frechette/
@@ -10179,6 +10203,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://libertyastoria.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.cwb.fr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cirva.fr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://svenskateatern.fi/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://centreculturel.fougeres-agglo.bzh/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://uncc.co.ug/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.constellation-chicago.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ctbteatrostabile.it/
@@ -10216,7 +10241,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.savannahga.gov/500/Cultura
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://musiqiliteatr.az/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.theatreelizabethczerczuk.fr/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://sabap-rm-met.beniculturali.it/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://infoladenbern.blackblogs.org/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://infoladenbern.blackblogs.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://pristina.theater/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.elvirepopesco.ro/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://volhonkateatr.ru/
@@ -10294,7 +10319,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.palast.berlin/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.dkk.tiszaujvaros.hu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.chateau-montsoreau.com/wordpress/fr/informations-pratiques/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://campjuneda.cat/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.tcd.ie/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.tcd.ie/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.theatreroyalwakefield.co.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.shawnee.edu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.theatredechelles.fr/
@@ -10449,7 +10474,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://gz-zh.ch/gz-buchegg/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.plaza.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://varsconatheatre.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.artepajucara.com.br/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://projekte.free.de/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://projekte.free.de/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ambassadortheater.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.teatrogalli.it/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.smoottheatre.com/
@@ -10486,14 +10511,14 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ville-sainte-tulle.fr/inde
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://watermillcenter.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.mlkhny.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.teatrolivrariadavila.com.br/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.np.rs.ba/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.np.rs.ba/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://necmusic.edu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.tendastrisce.it/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://izmirkultursanatfabrikasi.gov.tr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.koelner-planetarium.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.seattlecenter.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.bachddsoc.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.aecid.es/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.aecid.es/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.tampereenteatteri.fi/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.sescsp.org.br/unidades/9_AVENIDA+PAULISTA/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://palacetheatremyrtlebeach.com/
@@ -10773,7 +10798,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.leisureworks.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://florencio.montevideo.gub.uy/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.zsolnaynegyed.hu/en
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kursal.ru/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://spectart.com/salles/detail.php
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nps.gov/rocr/planyourvisit/naturecenter.htm
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.casinohyeres.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://pti.regione.sicilia.it/
@@ -11008,7 +11032,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://stadthalle.bad-hersfeld.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://web.girona.cat/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.avalontheatre.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.mubruntal.cz/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.lecarre150.com/Expositions
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://molodyytheatre.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.rmts.bc.ca/mcpherson-playhouse
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://pawilonzodiak.pl/
@@ -11018,7 +11041,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.empiretheatre.com.au/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.oberlin.edu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://spettacolo.emiliaromagnacultura.it/it/luogo/teatro-giuseppe-verdi/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bakeru.edu/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.estrada.spb.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.salaumberto.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.amt-golzow.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.kikas.at/
@@ -11190,6 +11212,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.kulturfabrik.lu/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://theatergarage.be/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.dkchkalova.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.teatromassimocagliari.it/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.seattlesymphony.org/benaroyahall
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.comune.montecatini.pi.it/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://trc.cm-lamego.pt/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.planetarium-laupheim.de/
@@ -11229,7 +11252,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://angler-hof.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.k-k-t.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.prefeitura.sp.gov.br/cidade/secretarias/cultura/dec/teatros/martins_penna/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.7stages.org/
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.musichallspb.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.theatre-bretigny.fr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.auditori.cat/ca
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.zeleznybrod.cz/cz/turista/kam-za-kulturou/mestske-divadlo/
