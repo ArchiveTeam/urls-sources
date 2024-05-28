@@ -47,7 +47,11 @@ class UrlsList:
                 for i, argument in enumerate(arguments):
                     if argument.startswith('url='):
                         arguments = arguments[0:i] + [';'.join(arguments[i:])]
-                urls.append(dict((s.split('=', 1) for s in arguments)))
+                try:
+                    urls.append(dict((s.split('=', 1) for s in arguments)))
+                except:
+                    print(self.filepath, line)
+                    continue
         urls = sorted(urls, key=lambda d: d['url'])
         return urls
 
