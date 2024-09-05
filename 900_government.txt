@@ -17,3 +17,5 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://ofm.mof.go.th/th/home
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://elibrary.ipthailand.go.th/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ipthailand.go.th/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ipthailand.go.th/th/home.html
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://president.ge/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.zugdidi.gov.ge/
