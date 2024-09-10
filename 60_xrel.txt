@@ -1,0 +1,4 @@
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.xrel.to/comments2-latest.html?tab=releases-all&page=1
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.xrel.to/comments2-latest.html?tab=blogs&page=1
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.xrel.to/comments2-latest.html?tab=forum&page=1
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.xrel.to/comments2-latest.html?tab=reviews&page=1
