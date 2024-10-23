@@ -19,7 +19,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://custer.govoffice.com
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.co.routt.co.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cityofsitka.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cityofallegan.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.paturnpike.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.paturnpike.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://eastpennsboro.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mapletonnd.com
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cityofcoshocton.com/
@@ -209,7 +209,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.vide.vi/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.co.mower.mn.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://wilmingtonvermont.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://cityofprosser.com
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://dhhr.wv.gov/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://dhhr.wv.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.oxnard.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.windsorvt.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://town.dunn.wi.us/
@@ -424,7 +424,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.akenergyauthority.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://etnaborough.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.town.springfield.wi.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://myarkansaslottery.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.oregonlottery.org/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.oregonlottery.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.scsdb.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://farmvilleva.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.littletongov.org/
@@ -465,7 +465,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://troyil.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://libertytownship.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://wilsoncountytn.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.childcareaware.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://kslegislature.org/li/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://kslegislature.org/li/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://lismore.govoffice2.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.northtonawanda.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.townofawendawsc.org
@@ -546,14 +546,14 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://pembertonborough.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://nottoway.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kalispell.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.co.refugio.tx.us/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.senate.mn/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.senate.mn/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://madridny.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://eastamwelltownship.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.townofedwardsms.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cityofpensacola.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://pleasantsprings.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.painesville.com
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ncarts.org/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ncarts.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://florenceks.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://charlottenc.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cedarhills.org/
@@ -612,7 +612,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cityofranchocordova.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.co.athensoh.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cityofdellrapids.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.northprairie.net
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.palaugov.pw/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.palaugov.pw/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://borough.shippensburg.pa.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://pacificnwcfc.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cityofbuford.com/
@@ -627,7 +627,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.townofdanville.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://townofturbeville.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.nahyp.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cityofhernando.org/
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.minneapolisfed.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.minneapolisfed.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.sewickleyhills.com
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://alaskarrt.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.co.jefferson.id.us/
@@ -636,7 +636,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://betheltownship.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cityofclevelandms.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.petersburg-va.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.co.bingham.id.us/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nhstateparks.org/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nhstateparks.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://northbrunswicknj.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.burnettcounty.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://washingtonterracecity.com
@@ -793,7 +793,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://tompsc.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.shelbytwp.org/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.township.empire.mn.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://mercercountynd.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mauicounty.gov/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mauicounty.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://parkersburgcity.com/pc/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.northaugustasc.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://hapeville.org/
@@ -1055,7 +1055,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.townofsouthport.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://milltownnj.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://greeleycounty.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.northlakecity.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.hawaiipublicschools.org/Pages/home.aspx
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.hawaiipublicschools.org/Pages/home.aspx
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.abilenetx.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://mendoncity.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.villageofottoville.org/
@@ -1148,7 +1148,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.sbafla.com/fsb/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.jayvt.com
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://eastliverpool.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ci.adelanto.ca.us/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://wildlifedepartment.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://wildlifedepartment.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://cityofelma.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.wbrandywine.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://clio.govoffice.com/
@@ -1195,7 +1195,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.stacymn.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://cityofaspen.com
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bcua.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.lafayetteco.gov/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.wyo.gov/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.wyo.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://sunburstmt.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://valders.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://cdrpc.org/
@@ -1206,7 +1206,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.chesapeakebay.net:443/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.dardenneprairie.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ksrevenue.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://ncpsychologyboard.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ms.gov/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ms.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://armstrongcounty.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.osawatomieks.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cityofperris.org/
@@ -1281,7 +1281,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://joinstatepolice.ny.gov/?utm_m
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.graymaine.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://128.199.168.156/toto-macau/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.co.wilbarger.tx.us/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.hawaiipublicschools.org/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.hawaiipublicschools.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.threeriverscommunity.me/brownville/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://dep.nj.gov/njfw/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://bexley.org/
@@ -1362,11 +1362,11 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.co.tyler.tx.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.hopkinsmn.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ohs.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.townoffowler.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.tn.gov/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.tn.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.uniontownship.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.wakegov.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.wakegov.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.lymannh.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nc.gov/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nc.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.newcombny.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://cityofutica.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.yemassee.net/
@@ -1441,7 +1441,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.littlebritain.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.arnoldmo.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.rochester-township.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.rosemountmn.gov/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ncwildlife.org/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ncwildlife.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.othellowa.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.porterco.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.springgardentwp.org/
@@ -1485,7 +1485,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.massenaworks.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gadsdencountyfl.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cityofblackjack.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.hpboro.com/
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.wisconsinhistory.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.wisconsinhistory.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://ww38.townofbrantley.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.campbellcountywy.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://cityofmhk.com/
@@ -1532,7 +1532,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://harrisoncounty.iowa.gov
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://cityofsumas.homestead.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://yakutatak.govoffice2.com
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bonnersprings.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://ksbn.kansas.gov/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://ksbn.kansas.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://albanynh.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.cityofbrodheadwi.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.loraincountyohio.gov/
@@ -1686,7 +1686,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://missaukee.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.colts-neck.nj.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.choctaw.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.celebratedouglascounty.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ncdoi.gov
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ncdoi.gov
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://hopatcong.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.twinsburgtwp.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://millardcounty.org/
@@ -1880,7 +1880,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.scportal.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.alpharetta.ga.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bensenville.il.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.lakewood.org/Home
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://portal.ct.gov
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://portal.ct.gov
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ci.richland.wa.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.afternic.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://cityofsignalhill.org/
@@ -2009,7 +2009,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://columbia-city.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.shullsburgwisconsin.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://ecb.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.co.sheridan.mt.us/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gadoe.org/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gadoe.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://rockdalecountyga.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.co.venango.pa.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://cityofpage.org/
@@ -2204,7 +2204,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ecrc.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.historyillinois.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://richmondnc.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.courtclerk.org/?AspxAutoDetectCookieSupport=1
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.endicottny.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.endicottny.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://cityofchowchilla.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.surfsidebeach.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.travelsouthdakota.com/
@@ -2247,7 +2247,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.southmilwaukee.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://mtnlakes.org/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cityofmayer.com
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.idaholottery.com:443/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.travelok.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.travelok.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cityofliveoak.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.townofnewipswich.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cohasset-mn.com
@@ -2264,7 +2264,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.amherst.ny.us:443/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.co.montgomery.ny.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.co.walker.tx.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.co.columbia.wi.us/ColumbiaCounty/default.aspx
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kentuckytourism.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kentuckytourism.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.stearnscountymn.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://townofprentiss.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.avcp.org/
@@ -2277,7 +2277,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bcnv.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.accessportsmouthva.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://willacoochee.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.effinghamil.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://portal.kansas.gov/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://portal.kansas.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.westonwisconsin.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.thomasvilleal.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://chart.maryland.gov/
@@ -2348,7 +2348,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.vi.cottagegrove.wi.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://cityofclifton.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mounthollyvt.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://co.morgan.al.us/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.in.gov/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.in.gov/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.townofcatawbanc.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://northkingstown.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://chp.vcu.edu/
@@ -2368,7 +2368,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.parkridge.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://northhudsonwi.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.sussexboro.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cityofhomestead.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mass.gov/orgs/executive-office-of-labor-and-workforce-development
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mass.gov/orgs/executive-office-of-labor-and-workforce-development
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.townoftwisp.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cortlandil.org
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://manortwp.org/
@@ -2383,7 +2383,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://townofbennington.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.waterfordct.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://savannaillinois.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.wayzata.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nh.gov/index.htm
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nh.gov/index.htm
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://shawneehillsoh.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://ci.san-fernando.ca.us/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ci.spring-park.mn.us/
@@ -2408,7 +2408,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://cameronmo.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://charlestownri.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://aberdeen.sd.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.raritan-township.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.wisconsin.gov/Pages/Home.aspx
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.wisconsin.gov/Pages/Home.aspx
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.villageofsalemlakes.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://arnoldsparkcity.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://cavaliercounty.us/
@@ -2421,7 +2421,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.laptboard.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.pottstown.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.greenfieldin.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://co.washington.pa.us/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.travelwisconsin.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.travelwisconsin.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.crmwa.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ci.hanford.ca.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.morpc.org/
@@ -2458,7 +2458,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://catawbaindian.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://townofprairielake.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://cityofbrewsterwashington.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.minnehahacounty.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.sd.gov/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.sd.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.waxhaw.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cubany.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.southamptonnj.org/
@@ -2559,7 +2559,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cityofdarlington.com
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.plymouth-nh.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.huntingtonbeachca.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://211virginia.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.legvi.org/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.legvi.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.danvilleky.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://ci.stockton.ca.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.lwm-info.org/
@@ -2576,7 +2576,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://nccob.nc.gov
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.town.williston.vt.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://hubbardiowa.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.newbernnc.gov/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ctstatelibrary.org/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ctstatelibrary.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://alachuacounty.us:443/Pages/AlachuaCounty.aspx
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mapleplain.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.avondaleaz.gov/
@@ -2620,7 +2620,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bedminster.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://webapps.myregisteredsite.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ci.wausau.wi.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://genoaohio.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.wv.gov/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.wv.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ci.piedmont.ca.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.holdenmaine.com
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://townofsteilacoom.org/
@@ -2694,7 +2694,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://cityofsanmateo.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://ncbenha.org/index.html
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.seasideparknj.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.hudsoncolorado.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://dnr.wisconsin.gov/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://dnr.wisconsin.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.calntownship.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.statecollegepa.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://clareco.net/
@@ -2732,7 +2732,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cityofazle.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://cityofabbeville.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://cityofokeechobee.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://wormleysburgpa.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://kentucky.gov/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://kentucky.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://cityoftruesdalemo.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cityofalbany.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cityofeasley.com/
@@ -2767,7 +2767,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://cedarcreeknebraska.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.whitefieldnh.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://townlyme.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://lakeparkia.com/
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://extension.usu.edu/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://extension.usu.edu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.davisoncounty.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://mississippistateparks.reserveamerica.com:443/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.sanmiguelcountyco.gov/
@@ -2813,7 +2813,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://roanecountytn.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://aapcc.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://miltonatownship.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.sumnertn.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://mississippi.org/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://mississippi.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.lakewalesfl.gov/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.clearwatertownship.org
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://latwp.org/
@@ -2848,7 +2848,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://cityofhamilton.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.rutherfordboronj.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://co.kerr.tx.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://cityofspoonerwi.gov/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://dor.sc.gov/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://dor.sc.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://mtd.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ci.claremont.ca.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.enterpriseal.gov/
@@ -2897,7 +2897,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.redhookvillage.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://webstercountyia.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.redmond.gov/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://kitcarsoncounty.colorado.gov/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.fldoe.org/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.fldoe.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://charlottesville.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://brothertownindians.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.thevillageok.org/
@@ -2934,7 +2934,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://brazos.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.missoulacounty.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://cals.cornell.edu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.penfield.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.marylandtaxes.gov/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.marylandtaxes.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://hardwick-nj.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.co.crockett.tx.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.co.concho.tx.us/
@@ -2971,7 +2971,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://fentonmo.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.wapellocounty.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.sidelake.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.lindentn.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.lsuagcenter.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.lsuagcenter.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://arts.ny.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ci.camden.nj.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.fayette-co-oh.com/
@@ -2998,7 +2998,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cityofpacificgrove.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://columbianh.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://savannahrivernuclearsolutions.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://villagrove.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://kslegislature.org/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://kslegislature.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cityofgrayling.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://twinmountain.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://nortonshores.org/
@@ -3084,7 +3084,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.state.nj.us/dep/parksandf
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://vadsa.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ncsecc.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://nclicensing.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.iowa.gov/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.iowa.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://pearisburg.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://wi-mcfarland.civicplus.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://austerlitzny.com/
@@ -3114,7 +3114,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://cedarbluff-al.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cityofcudahy.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.townofboothbay.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.madison-nh.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://kentuckystatepolice.org/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://kentuckystatepolice.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mysanibel.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.osceola-county.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cityofpampa.org/
@@ -3188,7 +3188,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cityofodessamo.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.washingtonparishalerts.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.montanastatefund.com/web/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.chesternh.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.louisianatravel.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.louisianatravel.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://dalecountyal.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://nmtracking.doh.nm.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.rcgov.org/
@@ -3228,7 +3228,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://cityofrockledge.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://alpinetwp.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.chicago.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.passaiccountynj.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.myflorida.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.myflorida.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.pittsfieldvt.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://northhudsonwi.gov
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ci.floodwood.mn.us/
@@ -3239,7 +3239,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cityofgreensburg.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://townofhollywood.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.delcony.us/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://searsmont.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://charlestonwv.gov/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://charlestonwv.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://yes-abroad.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://carlislear.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://vhfa.org/
@@ -3270,7 +3270,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://butlercoiowa.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.vmnh.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://evergreenpark-ill.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.myfloridacounty.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.johnsoncountyiowa.gov/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.johnsoncountyiowa.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://ci.desoto.tx.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.randolphnj.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://williamstonsc.us/
@@ -3431,7 +3431,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.academyadmissions.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://bethalto.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.arcadialakes.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://co.price.wi.us/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.aces.edu/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.aces.edu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.grantcountywa.gov
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.townofwendell.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nactx.us/
@@ -3463,7 +3463,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.beecounty.texas.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.parkcounty.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://germantownhillsillinois.org/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.northprairie.net/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.accessidaho.org/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.accessidaho.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://brightontwp.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.hugedomains.com/domain_profile.cfm?d=guthrieky.com
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.marionva.org/
@@ -3484,7 +3484,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ci.weed.ca.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://derbyvt.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cityofcentralia.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ci.hercules.ca.us/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.dhs.pa.gov/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.dhs.pa.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://co.taylor.wi.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://cartercountymt.info/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://tnlottery.com/
@@ -3649,7 +3649,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://tunicacounty.com/portal/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://redlionpa.org/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://townofcarmel.org
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.burlington.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.michigan.gov/som
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.michigan.gov/som
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.townofseabrookisland.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bie.edu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://allencounty.org/
@@ -3665,7 +3665,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.co.washington.tx.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://sullivansisland-sc.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://bmbt.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://northbonneville.net/
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://web.uri.edu/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://web.uri.edu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.twp.pine.pa.us/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.rathdrum.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.batavianewyork.com/
@@ -3768,7 +3768,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://keansburgnj.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cityofdeephaven.org
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.clemson.edu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://grangeville.us/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://ohio.gov/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://ohio.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.readync.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.newgloucester.com
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.oxfordal.gov
@@ -3888,8 +3888,8 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.austincounty.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ivins.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://mountainlakemn.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.hattonnd.com
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://us.fulbrightonline.org/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://us.fulbrightonline.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://us.fulbrightonline.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cosb.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://easthempfield.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cityofwasco.org/
@@ -3958,8 +3958,8 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.londonderry.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.oakridgenc.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cityofgregory.com
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://cityofsolvang.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.flcourts.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.azcommerce.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.flcourts.org/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.azcommerce.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.clintontwpnj.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.pearlandtx.gov/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.townoflomira.com
@@ -3990,7 +3990,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://bridgeportwv.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://lambertvillenj.org/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.grantcountywa.gov/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nationalacademies.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://kentucky.gov/Pages/home.aspx
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://kentucky.gov/Pages/home.aspx
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.dhs.pa.gov/CHIP/Pages/CHIP.aspx
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ci.taylors-falls.mn.us
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://bismarckairport.com/
@@ -4108,7 +4108,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.townofdillon.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.srbc.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://townofberry.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.marioncoks.net/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.state.nj.us/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.state.nj.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://baylorcountytexas.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.myquincy.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.watabtownship.com/
@@ -4151,7 +4151,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.middletownri.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://myfloridarx.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.desloge.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://naturalsciences.org/index
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://portal.arkansas.gov/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://portal.arkansas.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://effga.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ogunquit.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.pacourts.us/
@@ -4183,7 +4183,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.klamathcounty.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://lakecomonj.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cityofsouthlake.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://vendor.ncgov.com/vendor/login
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ndtourism.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ndtourism.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.queencreekaz.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://norwoodboro.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cspdc.org/
@@ -4204,7 +4204,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.fayettemaine.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.chaffeecounty.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.co.adams.id.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://townofnorthumberland.org/
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://nps.edu/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://nps.edu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://glenrocknj.net
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ci.otsego.mn.us
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.lakota-nd.com/
@@ -4321,7 +4321,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.montanastatefund.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.salisbury.md/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://sacomaine.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.pooler-ga.gov/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://oklahoma.gov/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://oklahoma.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.charlestownmd.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.co.morris.tx.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.herriman.org/
@@ -4348,7 +4348,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cityofwinterville.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://townofbennettwi.org/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cityofharwood.com
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://redfordtwp.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.alabamapublichealth.gov/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.alabamapublichealth.gov/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cityofvalleysprings.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.visitflorida.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://cityofschenectady.com/
@@ -4357,17 +4357,17 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.elizabethnj.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://villageofhazelcrest.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://townofwayne.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://clu-in.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ncdot.gov/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ncdot.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://oldhamcounty.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ridgefieldpark.org/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.miltonvt.gov
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://az.gov/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://az.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.millvalepa.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cityofbsl.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://128.199.168.156/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.uvm.edu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ashlandmo.us/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.michigan.gov/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.michigan.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://ncstatefair.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.sanluisaz.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://co.richmond.va.us/
@@ -4412,7 +4412,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://cityofutica.com/index
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.pennsville.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.townofepping.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.claremorecity.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ncdcr.gov/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ncdcr.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.wclnj.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://ncsustainabilitycenter.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://cityofduncan.com/
@@ -4439,7 +4439,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://mltmua.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://nirpc.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://drugboard.la.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://metromayors.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.vermont.gov/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.vermont.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.virginiamn.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kentuckyperformingarts.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.townofninetysixsc.com/
@@ -4500,7 +4500,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ormondbeach.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ramseycounty.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.westnorritontwp.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://lachiropracticboard.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ncdor.gov/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ncdor.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://ca-chino.civicplus.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.kamascity.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://whitevillenc.com/
@@ -4581,7 +4581,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://richlandonline.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ci.columbus.mn.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.iop.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.coventryri.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.coloradolottery.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.coloradolottery.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.usmma.edu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://landaffnh.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://underwoodia.com/
@@ -4920,7 +4920,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://phippsburg.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.hydeparkny.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://centertwp.netfirms.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://cityofgastonia.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://alaska.gov/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://alaska.gov/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://rushford.govoffice.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ossipee.org/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ci.weed.ca.us
@@ -4956,7 +4956,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://southamptoncounty.org/T0.aspx
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.waseedpotato.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://wpnet.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://dundeetownship.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://ncadmin.nc.gov/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://ncadmin.nc.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.coconutcreek.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cypressca.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://grantvalleytownship.com/
@@ -5024,7 +5024,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://seneca.sc.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cityofgrandville.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://digitalmaine.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://epping.govoffice.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://travelwyoming.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://travelwyoming.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.rosellepark.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.morrisonil.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://uwchlan.com/
@@ -5055,7 +5055,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.centervillemn.com
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.chathamborough.org/chatham/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.meridianms.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cotaticity.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.travelks.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.travelks.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://co.jefferson.tx.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.cityofweirton.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.clearcreektownship.com/
@@ -5132,7 +5132,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://co.eureka.nv.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.aidea.org//
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.lincolnborough.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://floridacounterdrug.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.colorado.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.colorado.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://enderlinnd.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://heyburnidaho.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.state.lib.la.us/
@@ -5148,7 +5148,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.picayune.ms.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://keenenh.gov/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.herreidsd.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://elkgrovetownship.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://wa.gov/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://wa.gov/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.centervillemn.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://duxburyvermont.org
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://maine-webcams.com/
@@ -5175,7 +5175,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://adamstwp.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://naturalsciences.org/calendar/bugfest/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://townofgrove.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://wctc.net/~belmont/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://azbbhe.us/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://azbbhe.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.fosston.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ci.dearborn-heights.mi.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://rootstowntwp.com/
@@ -5199,7 +5199,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ohiorecorders.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.royaltonvt.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.villageofpulaski.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bridgingfoundation.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.dmv.virginia.gov/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.dmv.virginia.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.cityofsacramento.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://hanoverboroughyorkcountypa.info/
@@ -5329,7 +5328,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cfrpc.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.lakewoodoh.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.fortwright.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.co.rock.wi.us/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://myfloridalegal.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://myfloridalegal.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://edgewaterco.com
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://nefl-sega-cfc.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.canalwinchester.org/
@@ -5353,7 +5352,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.alexandria-nj.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.worcestervt.org/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.citywd.org
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.elcajon.gov/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mdwfp.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mdwfp.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mitchellville.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.glitc.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.highgatevt.org/
@@ -5452,7 +5451,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://cityofdenveriowa.frontdeskgwo
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nc-ddc.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.chinoaz.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://oak-forest.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kscourts.org/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kscourts.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.cortland-co.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://adeliowa.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.fhlbi.com:443/
@@ -5460,7 +5459,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gibsonvillenc.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://smithvillems.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.finneycounty.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.wiltonmanors.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.uwyo.edu/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.uwyo.edu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.co.kendall.tx.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://cityofutica.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://clallam.net/
@@ -5473,7 +5472,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cityofmelrose.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.oakdalegov.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mymanatee.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://ephraim-wisconsin.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://dot.sd.gov
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://dot.sd.gov
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.johnsoncreek-wi.us
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://co.la-paz.az.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://pontiac.org/
@@ -5878,7 +5877,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.hatfield.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.runnelscounty.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cityoflynnhaven.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://rivervalenj.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ncleg.gov/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ncleg.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://co.oswego.ny.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.springhillks.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://eastgreenwichri.com/
@@ -6023,7 +6022,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://alleghenytownship.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.co.nobles.mn.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://stridecollaborative.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://chart.maryland.gov//
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mass.gov/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mass.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.tazewell.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://freeportny.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.eastpikeland.org/
@@ -6079,7 +6078,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://auroraoh.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gocivilairpatrol.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.casselberry.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nundatownship.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ksdot.org/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ksdot.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://campbellcountyky.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://forwardtownship.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://villageofcrete.org/
@@ -6121,7 +6120,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.stoddardnh.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.lakebluff.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.alleghenycounty.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://cityofbrewton.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.crt.state.la.us/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.crt.state.la.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://grotonvt.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.okacco.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.hugedomains.com/domain_profile.cfm?d=uscgalaska.com
@@ -6255,14 +6254,14 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.plainviewtx.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mywoodcounty.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.barrycounty.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mantwp.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://agriculture.wv.gov/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://agriculture.wv.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.chesterfieldtwp.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://rollinsford.nh.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.garfield-county.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.exploregeorgia.org/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.hartfordsd.us
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.emeraldisle-nc.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.icgov.org/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.icgov.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.camdencountyga.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.co.howard.tx.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.waynesboro.va.us/
@@ -6305,7 +6304,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.deperewi.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://penargylborough.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.montourco.org/Pages/default.aspx
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.wakefieldtownship.net
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nccourts.gov/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nccourts.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://gunstonhall.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://co.bergen.nj.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.visitmorton.com/
@@ -6364,7 +6363,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://ongov.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.cityofwestpark.net/cwp2014/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://cityofmccleary.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://griswoldia.gov
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ncdhhs.gov/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ncdhhs.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.clintoncountygov.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ncforestactionplan.com
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://cityofglendaleor.com/
@@ -6435,7 +6434,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.pocatello.us/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.co.clearwater.mn.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.townofleland.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://city.fitchburg.wi.us/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.maine.gov/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.maine.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://hasbrouck-heights.nj.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://sheldoniowa.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.dextermaine.org/
@@ -6562,7 +6561,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.tifton.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://cityofmilantn.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cityofnewburyport.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.sanfordmaine.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.oscn.net/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.oscn.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://dodstarbase.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://californiacareers.info/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.pbgfl.com/
@@ -6589,7 +6588,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://co.pennington.mn.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.suamico.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.grantcountynd.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.vi.deforest.wi.us
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://cityoftower.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://cityoftower.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.hillsboroughnc.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://newfanevt.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://roanokerapidsnc.com/
@@ -6626,7 +6625,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://terryms.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ertvideo.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.todaysmilitary.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://slayton.govoffice.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://georgia.gov/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://georgia.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://mcgtn.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://smokeybear.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://alburtis.org/
@@ -6646,7 +6645,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.townofkeeneny.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.jocogov.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.yadkinville.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.meadecounty.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ncdps.gov/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ncdps.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://oregonstatefair.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.norwichtownship.org/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.hillsdalenj.org
@@ -6708,7 +6707,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.rockawaytownship.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cityofrockford.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://cityofjacksonville.net/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://dot.sd.gov/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nh.gov/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nh.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.townofbourne.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ci.flowood.ms.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cooperstownny.org/
@@ -6789,7 +6788,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://grandcountyutah.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://cityofelberton.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.eastjordancity.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.threeriverscommunity.me/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.flgov.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.flgov.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.edgeley.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://intermountaincfc.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ilionny.com/
@@ -6941,7 +6940,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ascensionparish.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.rrnm.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.chestercity.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://westorange.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.wisconsin.gov/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.wisconsin.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bostonfed.org/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.oakfieldme.org
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://amador-city.com/government-overview/
@@ -6971,7 +6970,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.passhe.edu/Pages/default.
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.cityofmarysvillemi.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cityofcorning.com
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cityoflamesa.us/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.maryland.gov/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.maryland.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://cityoflg.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://harrisontwp.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cliftonnj.org/
@@ -7007,7 +7006,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://silvercreektwp.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.montclairnjusa.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.montourco.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://cityofbarron.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://delaware.gov/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://delaware.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.co.dakota.mn.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.madeliamn.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.westmilford.org/
@@ -7116,7 +7115,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://berryhilltn.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gwinnettcounty.com/web/gwinnett/Home
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.princegeorgecountyva.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://my.spokanecity.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.lasc.org/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.lasc.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://ncnar.ncdhhs.gov/index1.jsp
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.co.lincoln.wa.us/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://townofparachute.colorado.gov/
@@ -7217,7 +7216,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://elgintownship.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gillettewy.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cityofpurcell.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.milford-nj.us/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://vtlottery.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://vtlottery.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ncfreshlink.com
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.redmond.gov//
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.tobnm.gov/
@@ -7349,7 +7348,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://allendalecounty.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bigsandyrancheria.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://ausabletownship.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://stateofwatourism.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nj.gov/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nj.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://vanwert.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://newbuffalotownship.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.tuscolacounty.org/
@@ -7491,7 +7490,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.twp.antrim.pa.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.uidaho.edu/extension
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.charlottevt.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://newfreedomboro.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.laworks.net/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.laworks.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://environmentaltrust.nebraska.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.co.cooke.tx.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://cityofkearney.org/

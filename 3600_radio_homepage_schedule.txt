@@ -2172,7 +2172,7 @@ random=RANDOM;all=1;url=http://www.tropixx.fm/
 random=RANDOM;all=1;url=https://www.wkgc.org/hd1stream/
 random=RANDOM;all=1;url=http://kfax.com/
 random=RANDOM;all=1;url=http://www.neo1.ch/
-random=RANDOM;all=1;url=https://www.wattan.net/ar/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=https://www.wattan.net/ar/
 random=RANDOM;all=1;url=http://www.nrcu.gov.ua/rozklad_1
 random=RANDOM;all=1;url=http://www.radiocluj.ro/
 random=RANDOM;all=1;url=https://www.radioop.at/

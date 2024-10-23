@@ -19974,8 +19974,8 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://alderetes.com.ar/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://wmuk.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://salon.glenrose.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.coximagora.com.br/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.dw.de/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.dw.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.dw.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.oranais.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.dailybartoman.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.lincolnshireecho.co.uk/
@@ -33804,8 +33804,8 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://thetigernews.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://english.chosun.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://fox6now.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.clairemont.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://aswwu.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://aswwu.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://aswwu.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://sj.sunne.ws/voorhees/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://omadvertiser.com.au/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.news24nepal.tv/
