@@ -1,3 +1,6 @@
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://tilde.news/recent
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://lobste.rs/active
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://tilde.news/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://tilde.news/active
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://lobste.rs/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://lobste.rs/recent
