@@ -27,7 +27,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://news.sky.com/topic/cryptocurr
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://aljazeera.com/tag/crypto/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://dailycoin.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://ft.com/cryptofinance/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://decrypt.co/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://decrypt.co/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://moneycontrol.com/cryptocurrency/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://barchart.com/news/cryptocurrency-news/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://coindoo.com/

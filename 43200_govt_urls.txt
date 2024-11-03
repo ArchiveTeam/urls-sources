@@ -3766,7 +3766,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://cityofmc.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.stjohnkansas.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://keansburgnj.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cityofdeephaven.org
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.clemson.edu/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.clemson.edu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://grangeville.us/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://ohio.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.readync.gov/

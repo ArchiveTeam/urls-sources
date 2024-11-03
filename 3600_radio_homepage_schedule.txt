@@ -757,7 +757,7 @@ random=RANDOM;all=1;url=http://ecosdeltorbes.net/
 random=RANDOM;all=1;url=https://www.bbc.co.uk/schedules/p00fzl7k
 random=RANDOM;all=1;url=http://www.kdgoradio.com/regular-programming/
 random=RANDOM;all=1;url=https://www.bbc.co.uk/wm
-random=RANDOM;all=1;url=https://ariananews.af/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=https://ariananews.af/
 random=RANDOM;all=1;url=http://www.bfbs.com/radio/radioplayer/UK/blandford.html
 random=RANDOM;all=1;url=http://www.rdc.pl/artykul/ramowka/
 random=RANDOM;all=1;url=http://www.wrti.org/
@@ -2109,7 +2109,7 @@ random=RANDOM;all=1;url=https://www.bbc.co.uk/schedules/p00fzl7f
 random=RANDOM;all=1;url=http://radio.iranseda.ir/embed/?ch=21&ach=true&ache=true&lv=true&lve=true
 random=RANDOM;all=1;url=https://1220kldc.com/
 random=RANDOM;all=1;url=http://www.tantalk1340.com/
-random=RANDOM;all=1;url=https://www.rfa.org/english/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=https://www.rfa.org/english/
 random=RANDOM;all=1;url=http://knsj.org/knsj-program-schedule/
 random=RANDOM;all=1;url=http://wdcf.tantalk1340.com/
 random=RANDOM;all=1;url=https://wpsu.org/

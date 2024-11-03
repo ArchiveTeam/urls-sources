@@ -3336,7 +3336,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.verlagsgruppe.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://english.nd.edu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.actes-sud.fr/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.trouw.nl/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://itsgoingdown.org/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://itsgoingdown.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.julius-kuehn.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cph.org/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://karolinum.cz/casopis/historicka-sociologie
@@ -4291,7 +4291,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.verlagberlinbrandenburg.d
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.editionshibou.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.english-heritage.org.uk/visit/places/st-mawes-castle/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.noosfere.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.lightreading.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.lightreading.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.kpsu.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://uwm.edu/lib-collections/chinese-scrolls/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.nationalmuseum.md/
@@ -8064,7 +8064,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://accounts.nintendo.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.bernheim-jeune.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://us.artechhouse.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.staugustine.net/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.atlasobscura.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.atlasobscura.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.wangacomics.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://shfg.wildapricot.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.natur.cuni.cz/chemie/biochem
@@ -10074,7 +10074,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www3.usaintlouis.be/4DACTION/r
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://ancientworldonline.blogspot.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.lecri.be/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://rave.ohiolink.edu/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bilibili.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bilibili.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.wjec.co.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.oolichan.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://piperpublications.co.uk/piperpublications.co.uk/HOME.html
@@ -11103,7 +11103,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.udistrital.edu.co/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.casterman.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.hempen-verlag.de/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.halem-verlag.de/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://heritage.org/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://heritage.org/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.revistasjdc.com/main/index.php/conexagro
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.library.northwestern.edu/libraries-collections/mudd-library/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://meridian4.com/
@@ -17530,7 +17530,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://aids-stiftung.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www2.warwick.ac.uk/fac/arts/ren
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kingjohnshuntinglodge.co.uk/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.teznews.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cma.org.cn/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cma.org.cn/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.blush-lit.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.uni-sz.bg/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://sistemas.uft.edu.br/
@@ -22821,7 +22821,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.tibidaboedicions.cat/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.gmu.ac.ir/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://revistas.um.es/geografia
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.wheatlandpress.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://substack.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://substack.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://fireclaw.uk/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.nanoconvergencejournal.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://cp2.g12.br/ojs/index.php/encontros/index
@@ -23808,7 +23808,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://corporate.mattel.com/brand-po
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kentucky.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.nintendo.tw/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.afisha.lviv.ua/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.esa.int/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.esa.int/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://gsom.spbu.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://social-sciences.biu.ac.il/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www2.aasa.ac.jp/
@@ -30638,7 +30638,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.sens-tonka.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.uffs.edu.br/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.sap.org.ar/publi-archivos-arg.php?menu=item3
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.stateofplaygames.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.BotSentinel.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.BotSentinel.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.wani.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://goutrgv.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://hindi.shubhapallaba.com/

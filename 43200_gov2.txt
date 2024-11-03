@@ -1580,7 +1580,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mohre.gov.ae/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://mn.gov/ohe
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.mozambique.gov.mz/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.pref.shizuoka.jp/c
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cnc.fr/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cnc.fr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mininterior.gob.cl/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://health.hawaii.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.jambi.go.id/
@@ -4868,7 +4868,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://plateaustate.org.ng/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://libya.gov.ly/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.sozi-kultur.saarland.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.mof.gov.sa/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ilo.org/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ilo.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.navarra.es/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.health.gov.sc/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://mfa.gov.ua/
@@ -6602,7 +6602,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.satakunta.fi/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://kre8tif.mdec.my/events/Kre8tif/M-DEC/Perak
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://mmcnaftalanbld.az/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://pastaza.gob.ec/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.noaa.gov/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.noaa.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.lnv.vorarlberg.at/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://vasia.ph/ZTC/theprovince.html
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.kebili.gov.tn/
@@ -8697,7 +8697,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.szekesfehervar.hu/hu
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://northnorthants.gov.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.edostategovt.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.laoiscommunityforum.ie/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.taiwan.cn/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.taiwan.cn/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.moj.gov.jm/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.bjcac.gov.cn/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://gov.chukotka.org/
@@ -16118,7 +16118,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.lokipotok.si/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://gpa.guam.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://ordu.bel.tr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.morongbataan.gov.ph/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.devonlive.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.devonlive.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.southsinai.gov.eg/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://localgovernment.gov.mt/en/lc/Hamrun/Pages/The-Local-Council.aspx
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.belgium.be/en
@@ -16535,7 +16535,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nswrf.com.au/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kirklees.gov.uk/beta
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://drdp-craiova.ro/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.almarj.ly/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ri.gov/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ri.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.south-ayrshire.gov.uk/births-deaths-and-marriages
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.provincialgov.lk/madhyama
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.shanghai.gov.cn/
@@ -22422,7 +22422,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://doa.la.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.newcastle.nhs.uk/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://laikipia.go.ke/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.avannaata.gl/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.defense.gov/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.defense.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://helsenorge.no/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://gironde.fr/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.adm-krsk.ru/
@@ -31010,7 +31010,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.lisburncastlereaghabc.gov
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.narailpolice.gov.bd/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.shropshirearchives.org.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.davaooro.gov.ph/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kremlin.ru/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kremlin.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.pacwip.org/resources/data-resources/solomon-islands-western-province
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.provincia.chieti.it/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.moe.gov.sa/
