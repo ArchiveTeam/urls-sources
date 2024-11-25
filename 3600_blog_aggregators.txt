@@ -142,6 +142,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.postgre
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=http://freedesktop.org/software/pulseaudio/planet/atom.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.freedesktop.org/rss20.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.debianforum.de/atom.xml
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://box.saveweb.org/i/?a=rss&hours=168
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.linux.it/lug/rss.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.ubuntu-it.org/rss20.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://en.planet.wikimedia.org/rss20.xml
