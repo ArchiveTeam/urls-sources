@@ -200,7 +200,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gov.uk/government/world/o
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.peterborough.gov.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://harmonyparty.org.uk/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.cumbria.gov.uk/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://webarchive.nationalarchives.gov.uk/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://webarchive.nationalarchives.gov.uk/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.sturminsternewton-tc.gov.uk/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.somersetwestandtaunton.gov.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.brookfieldmail.co.uk/
@@ -435,7 +435,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.nitonwhitwell.org.uk/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nailsworthtowncouncil.gov.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gov.uk/government/publications/foreign-embassies-in-the-uk
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.aylesburytowncouncil.gov.uk/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.tate.org.uk/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.tate.org.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.northnorthants.gov.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.newchurchparish.co.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.staintondalepc.org.uk/index.htm
@@ -1683,7 +1683,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.scot-homes.gov.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://parishes.lincolnshire.gov.uk/Scotton/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gov.uk/government/organisations/natural-england
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gov.uk/world/organisations/british-embassy-kathmandu
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ucl.ac.uk/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ucl.ac.uk/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.birmingham.gov.uk/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.lakedistrict.gov.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.aspleyheath.org.uk/
@@ -2483,7 +2483,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.berrickandroke.org.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.eastbedlingtonpc.org.uk/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://tewkesbury.gov.uk/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.wem.gov.uk/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bl.uk/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bl.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.widdstobpc.org.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.greensocialist.org.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.forensic.gov.uk/
@@ -2870,7 +2870,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.healthwatchslough.co.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.acolparishcouncil.co.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.arb.org.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.goldcliffcommunitycouncil.co.uk/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.birmingham.ac.uk/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.birmingham.ac.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gov.uk/government/groups/trade-envoys
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gov.uk/world/organisations/british-embassy-rabat
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://portofberwick.co.uk/
@@ -3068,7 +3068,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gov.uk/government/groups/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.selborneparishcouncil.gov.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.poetrylibrary.org.uk/about/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.tenterdentowncouncil.gov.uk/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.gla.ac.uk/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.gla.ac.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cumbria.police.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.glaisdalepc.org.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gov.uk/government/groups/womens-business-council

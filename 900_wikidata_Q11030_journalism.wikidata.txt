@@ -104,6 +104,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www4.nhk.or.jp/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://olegpanfilov.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.augustcole.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.michellegoldberg.net/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.uusijuttu.fi/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://abcnews.go.com/Primetime/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.sliva.org.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://n1info.si/
@@ -149,6 +150,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nytimes.com/by/margalit-f
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://miriamgebhardt.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://profiles.stanford.edu/janine-zacharia
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.abcnews.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ondrejkoch.cz/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://chesstempo.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://der.orf.at/unternehmen/who-is-who/tv/spira100.html
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.eitb.eus/
@@ -176,9 +178,9 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://scholar.harvard.edu/jlepore
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.annawiener.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.statmuse.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://globalvoices.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.foxnews.com/on-air/shepard-smith/index.html
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://gcaw.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://karenrbrooks.com/
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.wsj.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.cnpa.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.susanjanegilman.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.svt.se/nyheter/lokalt/sormland/
@@ -210,6 +212,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://danielmugica.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.tv3.cat/telenoticies
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cbsnews.com/face-the-nation/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://ntv.com.tr/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://laurie-penny.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.upi.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.msnbc.com/msnbc-live-ari-melber
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.itv.com/news/
@@ -224,8 +227,10 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.anasanzmagallon.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://consortiumnews.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.dw.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://shargunov.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://tomzeller.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.france2.fr/emission/cash-investigation
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://heutejournal.zdf.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ushmm.org/exhibition/music/detail.php?content=kulisiewicz
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://blog.aktualne.cz/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.chinauncensored.tv/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.cecianasta.com/
@@ -263,6 +268,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://businessinsider.com.pl/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://dattalion.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.hassenmuller.nl/home.html
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://football.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.charlesgraeber.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.александр-васькин.рф/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.tennisabstract.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://kipiani.org/
@@ -352,6 +358,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.thesportster.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.victoriaturk.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://journalism.nyu.edu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://donlattin.com/index.html
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://tribuna.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://lapalmer.people.ua.edu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.soccerbase.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.pilotguides.com/tv-shows/tough-trucks/
@@ -368,7 +375,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.databasefootball.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://bulgakov.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://kirkhamilton.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.msnbc.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://cn.wsj.com/zh-hans
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.tv4.se/anders-och-knarket
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://olegchornoguz.com.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://svenska.yle.fi/vastnyland
@@ -476,6 +482,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.cbsnews.com/cbsthismorning
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.voiceofoc.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://hankphillippiryan.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.krymsvitlytsia.com.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ushmm.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.lapress.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://thedailyshow.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://forbiddenstories.org/fr/case/story-killers/
@@ -483,9 +490,9 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://webtv.ert.gr/ert1
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.dmi.ae/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.lipsansky.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.friedemannkarig.de/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://cn.wsj.com/zh-hant
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://henrigougaud.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.lucbuergin.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://en.wikiversity.org/wiki/WikiJournal_of_Medicine/Associate_editors
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.pattymccormick.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.philipcaputo.com/
@@ -519,6 +526,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.abraji.org.br/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://facultydirectory.virginia.edu/faculty/sv2r
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.typeinvestigations.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://nbcnightlynews.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.the-independent.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.wsop.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://experts.colorado.edu/display/fisid_166268
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.skuzn.ru/
@@ -612,7 +620,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.blogger.com/profile/17312
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.industryweek.com/Archive.aspx
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://citywire.co.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://zwierciadlo.pl/story/tomasz-jastrun
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.martinmejstrik.cz/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://homegardentv.it/programmi-hgtv/vado-a-vivere-in-sicilia-la-mia-casa-a-1-euro/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.arte.tv/de/videos/111754-000-A/harry-vs-william-der-royale-bruderzwist/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.profootballwriters.org/
@@ -660,7 +667,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.francoisdesmet.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://sport24.ru/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.svt.se/nyheter/lokalt/ost/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://scholar.harvard.edu/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.latinanoticias.pe/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://anl7j.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.pilotguides.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.rallye-info.com/
@@ -705,6 +711,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nile.eg/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://ylotan.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.gulag.memorial.de/person.php?pers=85
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://billkonigsberg.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://huet.blog.lemonde.fr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://pitchfork.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://stephananpalagan.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://gayusatv.org/
@@ -738,6 +745,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://reform.by/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.kanzlei-poppe.eu/rechtsanwaelte/tibor_rode.php
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://3s.tv/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://becklog.zeitgeist-online.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://stephanroiss.at/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://sonna.so/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://alvarova.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://mik-kiev.livejournal.com/
@@ -876,6 +884,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.francefootball.fr/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cbsnews.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.cup2002.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bbc.co.uk/programmes/p00ly0k7
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.davidsladek.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.today.com/3rd-hour-today
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.skisprungschanzen.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.laura-steven.com/
@@ -887,6 +896,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://mikemorrell.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.peterapplebome.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.theguardian.com/news/series/pegasus-project
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.africacheck.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nathanthrall.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.3ain.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://futbolme.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.wisconsinwatch.org/
@@ -894,6 +904,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.insideedition.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://tv.cctv.com/lm/xwzbj/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.schaatsen.nl/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.president.txstate.edu/about-president-trauth/biography.html
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ahc.leeds.ac.uk/media/staff/267/dr-julie-firmstone
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://communication.sdsu.edu/faculty_and_staff/profile/alanna-peebles
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.agj.ch/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.welt.de/
@@ -952,6 +963,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.presseclub-muenchen.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.macworld.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.rtve.es/noticias/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.rodi-db.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.maupassantiana.fr/index.html
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.glagoslav.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.one.co.il/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bdfutbol.com/
@@ -999,6 +1011,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://pages.charlotte.edu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.apuntmedia.es/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.hackshackers.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://ddanilov.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.finearts.txstate.edu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://svenska.yle.fi/aboland
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://pages.charlotte.edu/cheryl-spainhour/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.msnbc.com/for-the-record-with-greta
@@ -1007,6 +1020,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.msnbc.msn.com/id/31510813/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.dubaitv.ae/content/dubaitv/ar-ae/programs/1/38178.html
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://alltagimmittelalter.gnm.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ceskatelevize.cz/porady/1096898594-udalosti-komentare/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.guswatson.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.betvburundi.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.thefirsttv.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.nebpress.com/
@@ -1029,6 +1043,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.eva-demski.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://us.cnn.com/shows/erin-burnett-out-front
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.thelallantop.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.france2.fr/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://wsj.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.startv.com.tr/program/star-haber
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://disclose.ngo/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.france24.com/en/
@@ -1038,8 +1053,8 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.theplayerstribune.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.abigailshrier.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.middleeastmonitor.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ohionews.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.olaymedya.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://pyatnica-news.friday.ru/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mylifetime.com/shows/surviving-r-kelly
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://svenska.yle.fi/vetamix
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://de.wikipedia.org/w/index.php?title=Erik_Reger&oldid=232174821
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://piotrus71.wixsite.com/
@@ -1056,6 +1071,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://bellcatmbguthn3age23lrbseln2lr
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://phillipknightley.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://voetbalstats.nl/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.rtm.gov.my/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.polsoz.fu-berlin.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.stacywillingham.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.maxkolonko.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://liberalarts.iupui.edu/
@@ -1064,7 +1080,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://pennyvincenzi.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www2.uol.com.br/millor/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://beme.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://iwatchafrica.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kooora.com/default.aspx
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://okdiario.com/autor/fernan-gonzalez/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.jeannemarielaskas.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://lfe.lt/
@@ -1203,6 +1218,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bbc.com/zhongwen
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.cnn.com/CNN/Programs/american.morning/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.nathanmccall.net/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.tagesschau.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.oppong.eu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://anamariabraga.globo.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://mariecharrel.fr/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://asturies.com/
@@ -1269,6 +1285,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://graceblakeley.co.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.arnoldbennettsociety.org.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.whoscored.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://frantisekbenes.cz/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://by.tribuna.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://razzball.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://researchsystem.canberra.edu.au/portal/en/persons/nicole-curato(0cf9de6b-c4e9-45d6-b31d-cfd6b37516b5).html
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://mariaressa.com/
@@ -1343,6 +1360,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://australianfootball.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.danwakefield.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.theringer.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://lucyhawking.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.apiaweb.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.lesliekean.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://gol.caracoltv.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.cnbc.com/id/15838394/site/14081545/
@@ -1537,6 +1555,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://svenska.yle.fi/kultur-och-noj
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://news.ichannela.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://eclipse-birt.github.io/birt-website/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://martinehl.cz/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.fotmob.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://douglasmurray.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://martaabramowicz.pl/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://insideclimatenews.org/
@@ -1706,6 +1725,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ashoka.org/en/fellow/asim
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://marshallmcluhan.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.streetpress.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://businesstech.co.za/news
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://awfulannouncing.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://tochman.eu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.sebastianasinsecretos.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://jms.sdsu.edu/faculty/faculty_profile/marcie-bober-michel-ph.d
@@ -1722,7 +1742,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.france.tv/slash/prisons/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://epbr.com.br/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://foreignexchange.tv/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bbc.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mylifetime.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.emilyitami.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.icij.org/investigations/implant-files/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://humanoid.fr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://kulturedchild.com/
@@ -1759,6 +1779,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.daphnewesdorp.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.vtv.vn/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.alhurra.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://g1.globo.com/jornal-hoje/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.polsoz.fu-berlin.de/kommwiss/arbeitsstellen/digitalisierung_partizipation/team/cneuberger/index.html
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.europeandatajournalism.eu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.rosaregas.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.tvnow.de/shows/rtl-direkt-19861
@@ -1810,6 +1831,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bfmtv.com/littoral/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bbc.co.uk/programmes/b006mj5m
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.realsimple.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.zeroone.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.france.tv/france-3/provence-alpes-cote-d-azur/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://sultanalmalki.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.timskorenko.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.nhk.or.jp/ohayou/
@@ -1828,6 +1850,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://jastj.jp/jastj_prize/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://imnews.imbc.com/replay/nwdesk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://chrystiafreeland.liberal.ca/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://alice-corona.eu/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://ua.tribuna.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ft.com/dearlucy/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://journalism.uconn.edu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://en.allpowerlifting.com/
@@ -1837,6 +1860,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.taffyakner.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://becklog.zeitgeist-online.de/curriculum-vitae
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://mddcpress.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.espnscrum.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://by.tribuna.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.lewispants.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cfnepr.com/?lat=en
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.premierleague.com/
@@ -1870,6 +1894,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://tiktocoins.info/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://nebpress.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.svtplay.se/den-svenska-dansbandshistorien
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.shudder.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.schwarzwaelder.at/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.fnbaloncesto.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://about.me/tim_schwab
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.channelnewsasia.com/
@@ -1957,6 +1982,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ditap.cz/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.saveyourvoice.in/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.olegmoroz.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.foxbusiness.com/money-for-breakfast/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://france3-regions.francetvinfo.fr/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://abcnews.go.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.economist.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ewrc-results.com/
@@ -2079,6 +2105,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ronenbergman.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.newsmaxtv.com/Shows/Spicer-and-Co
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.raiplay.it/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.msnbc.com/melissa-harris-perry
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.dostal.sk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cnbc.com/closing-bell/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://waflfootyfacts.net/index.html
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.apuntmedia.es/noticies/
@@ -2096,6 +2123,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://martinovich.by/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://vod.tvp.pl/informacje-i-publicystyka,205/gosc-1930-odcinki,1041179
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.dfj-ev.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.teamusa.com/athletes
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://kashin.guru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.raiplay.it/programmi/mutiprovalatraviata/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://g1.globo.com/globonews/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.jorgezepeda.net/
@@ -2106,6 +2134,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.guillaumepitron.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.motherjones.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://royscranton.net/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.rtlnieuws.nl/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://sj-rt.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.margaretsimons.com.au/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://richardstengel.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.adenahalpern.com/
@@ -2113,7 +2142,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nachtkritik.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.claudiobrachino.it/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://inanews.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://katrinaonstad.ca/
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://cn.wsj.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.pbs.org/wnet/religionandethics
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.staravis.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://languagewriter.com/
@@ -2124,6 +2152,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://spontent.lol/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://siobhanmchugh.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://arabic.rt.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.theguardian.com/news/series/uber-files
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://nymynet.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.foxnews.com/foxreport
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.martin-mejstrik.cz/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.kan.org.il/program/?catId=1069
@@ -2223,6 +2252,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.dantanasa.ro/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.alphatv.gr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.alexanderoetker.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://annehelen.substack.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.maupassantiana.fr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bfmtv.com/marseille/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://monikajaruzelska.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.crimeansport.ru/
@@ -2280,6 +2310,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://sputniczka.blox.pl/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://theins.ru/en
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.sinembargo.mx/sinembargo-al-aire
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bellator.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.finearts.txstate.edu/Art/faculty-staff/full-time/souza--o.html
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://quadruppani.blogspot.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://katerinamagasin.se/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.3ain.net/Article/45828/%D8%AA%D8%B9%D8%B1%D9%81-%D8%B9%D9%84%D9%89-%D9%85%D8%B0%D9%8A%D8%B9%D9%89-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%C2%ABthe-insider%C2%BB-%D9%81%D9%89-%D9%86%D8%B3%D8%AE%D8%AA%D9%87-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9
@@ -2342,7 +2373,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.msnbc.com/politicsnation
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.publish2.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.pressreader.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://football.odessa.ua/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.cnews.id/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://charlesduhigg.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://arturgorski.bloog.pl/?smoybbtticaid=61238e
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.davidbenedictus.co.uk/
@@ -2378,6 +2408,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.france.tv/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.jessicabruder.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.sofiesarenbrant.se/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.all-athletics.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://360tka.sk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.lindsayashford.co.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://tennistemple.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://infodio.com/
@@ -2443,6 +2474,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.fnbaloncesto.com/es/revist
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://футзал.рус/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://777score.co.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.alanclayson.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.anschober.at/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.komitid.fr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.christinalamb.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.marinavalensise.com/
@@ -2454,7 +2486,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.haertling.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.themediaproject.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://metaratings.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.andersrydell.se/
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://jp.wsj.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.worldofvolley.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.hockeydb.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.sallyhayden.net/
@@ -2591,13 +2622,13 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.dw.de/dw/0,,3232,00.html
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bbc.co.uk/programmes/b006mvhd
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.florromeror.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.fernandoolmeda.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.oppong.eu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://emalfatto.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://fiba3x3.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://tyt.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bfmtv.com/lyon/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://civio.es/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.naukatolubie.pl/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://nikolehannahjones.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://viaplay.se/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://bbc.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.janwalc.pl/
@@ -2610,12 +2641,14 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://reshet.tv/News2/Shows/SixWith_
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.tvc.ru/news.aspx
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bbc.co.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.msnbc.com/the-beat-with-ari-melber
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://tomaszraczek.pl/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://pollysamson.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.leighphillips.work/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://paromitapain.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://jms.sdsu.edu/faculty/faculty_profile/alanna-peebles
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.sarahjio.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.stasichild.blogspot.co.uk/p/about_27.html
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://julieshackman.co.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://dongqiudi.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.sports-reference.com/cfb/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://wesleyfenlon.com/
@@ -2634,6 +2667,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://dmoren.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://florianillies.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://ffj-online.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://speedskatingresults.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.bote.ch/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://globoplay.globo.com/jornal-da-manha/t/kSCBL1Twb9/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://mark-oconnell.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.marakou.org/

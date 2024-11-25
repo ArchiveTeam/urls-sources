@@ -1,4 +1,4 @@
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.scirp.org/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.scirp.org/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://crimesciencejournal.biomedcentral.com/articles/most-recent/rss.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://movementecologyjournal.biomedcentral.com/articles/most-recent/rss.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://ccforum.biomedcentral.com/articles/most-recent/rss.xml
@@ -235,7 +235,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://annforsci.biom
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://genesenvironment.biomedcentral.com/articles/most-recent/rss.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://genomicsinform.biomedcentral.com/articles/most-recent/rss.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://bmccancer.biomedcentral.com/articles/most-recent/rss.xml
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.explorationpub.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.explorationpub.com/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://echo.biomedcentral.com/articles/most-recent/rss.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://nutritionandmetabolism.biomedcentral.com/articles/most-recent/rss.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://alzres.biomedcentral.com/articles/most-recent/rss.xml
