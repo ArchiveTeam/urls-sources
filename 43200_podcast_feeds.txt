@@ -1,5 +1,4 @@
 random=RANDOM;deep_extract=1;url=https://www.wrint.de/category/wrintheit/feed/
-random=RANDOM;deep_extract=1;url=http://faif.us/feeds/cast-ogg/
 random=RANDOM;deep_extract=1;url=https://feeds.transistor.fm/deep-dive-with-ali-abdaal
 random=RANDOM;deep_extract=1;url=https://monoxyd.de/category/dieweisheit/feed
 random=RANDOM;deep_extract=1;url=https://fossandcrafts.org/rss-feed.rss
@@ -11,6 +10,7 @@ random=RANDOM;deep_extract=1;url=https://monoxyd.de/category/ex3/feed
 random=RANDOM;deep_extract=1;url=https://feeds.simplecast.com/5JzYp_Kp
 random=RANDOM;deep_extract=1;url=https://sfconservancy.org/casts/the-corresponding-source/feeds/ogg/
 random=RANDOM;deep_extract=1;url=https://feeds.transistor.fm/notoverthinking
+random=RANDOM;deep_extract=1;url=https://faif.us/feeds/cast-ogg/
 random=RANDOM;deep_extract=1;url=https://feeds.acast.com/public/shows/63c765a597a43d0011aee24f
 random=RANDOM;deep_extract=1;url=http://das-sendezentrum.de/feed/
 random=RANDOM;deep_extract=1;url=https://feeds.acast.com/public/shows/program
