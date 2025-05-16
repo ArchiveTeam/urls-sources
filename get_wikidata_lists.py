@@ -1,6 +1,7 @@
 import json
 import os
 import re
+import traceback
 
 import requests
 
@@ -81,23 +82,23 @@ def main(directory: str = '.'):
                         ENDPOINT,
                         params={
                             'query': query,
-                            'format': 'json'
+                            'format': 'csv'
                         },
                         timeout=1000
                     )
                     assert response.status_code == 200
-                    data = json.loads(response.content, strict=False)
+                    data = {
+                        s for s in re.findall(r'<uri>\s*(https?://.+?)\s*</uri>', response.text, flags=re.I)
+                        if 'wikidata.org' not in s
+                    }
                     break
                 except KeyboardInterrupt:
                     raise
                 except Exception as e:
-                    print(str(e))
+                    traceback.print_exc()
                     print('retrying')
-            print(len(data['results']['bindings']))
-            for d in data['results']['bindings']:
-                if 'website' not in d:
-                    continue
-                site = d['website']['value']
+            print(len(data))
+            for site in data:
                 if not re.search('^https?://', site, flags=re.I):
                     continue
                 if site.count('/') == 2:
