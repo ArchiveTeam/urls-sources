@@ -401,7 +401,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://whitehousecommsagency.mil
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://tidesandcurrents.noaa.gov
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://chemdb.niaid.nih.gov
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://gravelocator.cem.va.gov
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://lincs.ed.gov
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://lincs.ed.gov
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://gis.ngdc.noaa.gov
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://staging.ftc.gov
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://edit.cisa.gov
@@ -2071,7 +2071,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://basictraining.af.mil
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://intra.nodc.noaa.gov
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://177fw.ang.af.mil
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://vsaccollab.wip.nlm.nih.gov
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://opm.gov
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://opm.gov
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://dodig.mil
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://pubweb-prod.niaid.nih.gov
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://gsadtest.dea.gov
@@ -2736,7 +2736,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://bts.gov
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://listserv.va.gov
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://woodland.jobcorps.gov
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://navalsafetycenter.navy.mil
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://fmcsa.dot.gov
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://fmcsa.dot.gov
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://brussels.armymwr.com
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://faq.ssa.gov
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://phenology.cr.usgs.gov
@@ -3555,7 +3555,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://sealevel-nexus.jpl.nasa.gov
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://trec.nist.gov
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://ga.usembassy.gov
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://officeofbudget.od.nih.gov
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://moneyfactory.com
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://moneyfactory.com
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://disposal.gsa.gov
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://staging-ca.water.usgs.gov
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://124thfighterwing.ang.af.mil
@@ -3734,7 +3734,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://iebdev12.be-md.ncbi.nlm.nih.go
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://capitraining.nass.usda.gov
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://technology-grc.ndc.nasa.gov
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://science.nichd.nih.gov
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://bush41.org
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://bush41.org
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://zama.armymwr.com
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://idp.mdiarra.identitysandbox.gov
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://wvs.earthdata.nasa.gov
@@ -4474,7 +4474,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://neh.gov
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://gnome.orr.noaa.gov
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://hires.gsfc.nasa.gov
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://vsc.gsa.gov
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://ncdc.noaa.gov
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://ncdc.noaa.gov
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://usrrbsecuretest2.rrb.gov
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://eshop.state.gov
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://intranet.pmel.noaa.gov

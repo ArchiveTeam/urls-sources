@@ -26,7 +26,7 @@ def get_url(url: str) -> str:
 def extract_urls(url: str) -> typing.Set[str]:
     response = get_url(url)
     items = set()
-    for s in re.findall('(https?://[^,"]+)', response):
+    for s in re.findall('(https?://[^,"\s]+)', response):
         if 'web.archive.org' not in s:
             items.add('random=RANDOM;all=1;keep_all=1;depth=1;url='+s)
     return items

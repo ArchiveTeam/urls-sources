@@ -5669,7 +5669,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.northvalenj.org/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://hardeevillesc.gov
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://jonesville.org/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cityofalhambra.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.scportal.us/home/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.scportal.us/home/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://1984.hosting/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.springvaletownship.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ncbon.com/
@@ -5994,7 +5994,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://ncadmin.nc.gov/about-doa/divi
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.watertownsd.us/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.portalesnm.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://stclaircounty.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gadoe.org/Pages/Home.aspx
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gadoe.org/Pages/Home.aspx
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.lovington.org/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.garden-city.org/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.vchamplain.com/
@@ -6438,7 +6438,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://jeffersoncounty.iowa.gov/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://sheldoniowa.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.dextermaine.org/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://townofexeter.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://townofdyer.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://townofdyer.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.co.linn.or.us/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.floridasterling.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.cityofnewberry.com/
@@ -6744,7 +6744,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.delraybeachfl.gov/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.vlct.org/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.co.curry.or.us/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://osageco.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://visitgenevany.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://visitgenevany.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.dps.arkansas.gov/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://extension.msstate.edu/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.vsb.org/

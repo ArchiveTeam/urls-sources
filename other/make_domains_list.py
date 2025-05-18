@@ -72,6 +72,7 @@ if __name__ == '__main__':
         '3600_medical_research.txt',
         '3600_news_crypto_sites.txt',
         '3600_wikidata_Q1331793_media-company.wikidata.txt',
+        '43200_github_GSA_govt-urls.txt',
         '43200_gov2.txt',
         '43200_gov_domains.txt',
         '43200_govt_urls.txt',
