@@ -1,10 +1,8 @@
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://events.ccc.de/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://geocenter.info/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://allatra.tv/new
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://autonome-antifa.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://aktion-widerstand.de/meldungen/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://allatra.tv/en/new
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://geocenter.info/en
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://corona-blog.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.eurozine.com/essays/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.german-foreign-policy.com/
