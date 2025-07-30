@@ -6,7 +6,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://allatra.tv/en/new
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.eurozine.com/essays/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.german-foreign-policy.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://aspeninstitutekyiv.org/en/news/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://bundesdeutsche-zeitung.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://martinsonneborn.de/aktuelles/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://aspeninstitutekyiv.org/news/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://peter-nowak-journalist.de/
