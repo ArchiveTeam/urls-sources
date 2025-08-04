@@ -6109,7 +6109,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://cabrayil-ih.gov.az/en
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ozamagov.gov.do/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.seitc.se.gov.br/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.cjbotosani.ro/
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://dal.ca/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://dal.ca/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.southtyneside.gov.uk/community
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://jubbadadhexe.gov.so/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.regjeringen.no/no/tema/utenrikssaker/nordomr/The-Arctic/id671472
@@ -9326,7 +9326,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nrw-portal.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nunavut.ca/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://eocassam.in/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://Radilic.hr/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://gencat.cat/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://gencat.cat/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mca.gov.ws/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.vuckb.sk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.s-kartli.ge/
@@ -14312,7 +14312,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gov.il/en/departments/nor
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cnipmmr.ro/structura-teritoriala/iasi
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://nakhchivan.az/en
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.fianarantsoa.gov.mg/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.regione.toscana.it/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.regione.toscana.it/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.tambacounda.sn/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.zaregion.gov.na/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.fazenda.rs.gov.br/
@@ -17589,7 +17589,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://en.wikipedia.org/wiki/Isle_of
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://en.wikipedia.org/wiki/Government_of_New_Mexico
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://navi.pref.kanagawa.jp/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mad.gob.ar/
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.artgallery.nsw.gov.au/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.artgallery.nsw.gov.au/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.tokushima-pref.ed.jp/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.katastrophenschutz.steiermark.at/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://spb.stirling.gov.uk/planning/search.asp
@@ -17947,7 +17947,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.meemu.gov.mv/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.moh.gov.ws/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://doe.k12.de.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.provincia-savona.eu/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.regierung-mv.de/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.regierung-mv.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.chk.hr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.dzavhan.gov.mn/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.yamagata-c.ed.jp/
@@ -29988,7 +29988,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.umra.gov.sa/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.menaka.gov.ml/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.software.mvnet.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://kordestan-gov.ir/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.baden-wuerttemberg.de/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.baden-wuerttemberg.de/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://kabarole.go.ug/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.health.gov.mm/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.djiboutiembassyus.org/
@@ -31561,7 +31561,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://doe.delhigovt.nic.in/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://idf.direccte.gouv.fr/Essonne
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.dinglicouncil.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.chhattisgarh.gov.in/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.unitec.ac.nz/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.unitec.ac.nz/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.sakonnakhon.med.trt.go.th/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://molhr.gov.gm/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nj.gov/mvc

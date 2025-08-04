@@ -73,7 +73,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://jnnp.bmj.com/r
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://fppn.biomedcentral.com/articles/most-recent/rss.xml
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.hindawi.com/journals/agmr
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.sciopen.com/journal/rss/2097-3837
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nature.com/natmentalhealth
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nature.com/natmentalhealth
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://clindiabetesendo.biomedcentral.com/articles/most-recent/rss.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://evolution-outreach.biomedcentral.com/articles/most-recent/rss.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://perioperativemedicinejournal.biomedcentral.com/articles/most-recent/rss.xml
