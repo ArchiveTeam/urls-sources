@@ -16178,7 +16178,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.dor.mo.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.justice.gov.nu.ca/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.dpi.gov.gy/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://haut-ogooue.ga/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.education.gouv.fr/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.education.gouv.fr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cedar-rapids.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.eh.mv-regierung.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.loslagos.gob.cl/
@@ -21340,7 +21340,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://shanstateparliament.gov.mm/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gov.uk/government/organisations/local-government-association
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.whitehorse.ca/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.provincia.enna.it/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.aemet.es/es/portada
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.aemet.es/es/portada
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://localgovernment.govmu.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://monagas.cne.gob.ve/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.comune.como.it/
@@ -27439,7 +27439,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.natur.mvnet.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://gov.na/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://barbuda.gov.ag/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.marrakech.ma/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.pref.kagoshima.jp/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.pref.kagoshima.jp/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.sirnak.gov.tr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.kr-pardubicky.cz/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.larne.gov.uk/
