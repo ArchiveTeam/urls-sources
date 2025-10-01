@@ -19,3 +19,5 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.patriotpetition.org/petit
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://martinsellner.info/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.volks-reichstag.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://alabuga.ru/news/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://radio.indymedia.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://nantes.indymedia.org/zines/
