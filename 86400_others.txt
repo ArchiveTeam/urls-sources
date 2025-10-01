@@ -18,3 +18,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.reichsamt-des-innern.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.patriotpetition.org/petitionen/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://martinsellner.info/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.volks-reichstag.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://alabuga.ru/news/
