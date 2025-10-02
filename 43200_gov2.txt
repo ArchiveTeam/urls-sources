@@ -6109,7 +6109,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://cabrayil-ih.gov.az/en
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ozamagov.gov.do/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.seitc.se.gov.br/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.cjbotosani.ro/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://dal.ca/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://dal.ca/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.southtyneside.gov.uk/community
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://jubbadadhexe.gov.so/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.regjeringen.no/no/tema/utenrikssaker/nordomr/The-Arctic/id671472
@@ -11509,7 +11509,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://epds.punjab.gov.in/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.alsace.assemblee-nationale.fr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.marlborough.govt.nz/community/housing/help-with-housing
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.deped.gov.ph/region-vi
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.vision2030.gov.sa/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.vision2030.gov.sa/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.es.govt.nz/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://archiv.debrecen.hu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.isingiro.go.ug/
@@ -17589,7 +17589,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://en.wikipedia.org/wiki/Isle_of
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://en.wikipedia.org/wiki/Government_of_New_Mexico
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://navi.pref.kanagawa.jp/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mad.gob.ar/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.artgallery.nsw.gov.au/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.artgallery.nsw.gov.au/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.tokushima-pref.ed.jp/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.katastrophenschutz.steiermark.at/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://spb.stirling.gov.uk/planning/search.asp

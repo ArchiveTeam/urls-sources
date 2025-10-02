@@ -785,7 +785,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://ad.nl/leiden
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://brisbanetimes.com.au
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://theconversation.com/id/sains
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://playeur.com/t/religion-and-spirituality
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://pymnts.com
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://pymnts.com
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://albawaba.com
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://simcast.com
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://FreedomPlatform.tv
