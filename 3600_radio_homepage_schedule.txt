@@ -447,7 +447,7 @@ random=RANDOM;all=1;url=http://www.radijaskelyje.lt/
 random=RANDOM;all=1;url=https://www.bbc.co.uk/bbcsomerset
 random=RANDOM;all=1;url=https://kxic.iheart.com/schedule/
 random=RANDOM;all=1;url=http://krevlp.org/
-random=RANDOM;all=1;url=http://www.kbur.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=http://www.kbur.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;url=https://powertalk1460.iheart.com/
 random=RANDOM;all=1;url=http://www.kgpc969.org/schedule/
 random=RANDOM;all=1;url=https://www.bbc.co.uk/schedules/p00fzl7p
@@ -2139,7 +2139,7 @@ random=RANDOM;all=1;url=http://kzyx.org/
 random=RANDOM;all=1;url=https://www.3aw.com.au/shows/
 random=RANDOM;all=1;url=http://www.verkehrsradio.at/
 random=RANDOM;all=1;url=https://www.wgbh.org/
-random=RANDOM;all=1;url=https://weekendfm.pl/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=https://weekendfm.pl/
 #REASON=DUPLICATE#random=RANDOM;all=1;url=http://www.radiomundial.com.ve/
 random=RANDOM;all=1;url=https://www.nporadio4.nl/concerten
 random=RANDOM;all=1;url=http://www.melodiesofprayer.com/Web/OurMission.html
@@ -2378,7 +2378,7 @@ random=RANDOM;all=1;url=http://wijzijndno.nl/
 random=RANDOM;all=1;url=http://www.liveonlineradio.net/brunei/bfbs-brunei.htm
 random=RANDOM;all=1;url=https://www.forces.net/radio/stations/bfbs-brize-norton
 random=RANDOM;all=1;url=https://www.alhorya.com/
-random=RANDOM;all=1;url=https://www.abc.net.au/triplej/
+#REASON=DUPLICATE#random=RANDOM;all=1;url=https://www.abc.net.au/triplej/
 random=RANDOM;all=1;url=http://www.kociradio.com/programming
 random=RANDOM;all=1;url=http://www.hometownstation.com/on-air-features/program-schedule
 #REASON=DUPLICATE#random=RANDOM;all=1;url=https://970wfla.iheart.com/

@@ -1558,7 +1558,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://nccdqa.cdc.gov
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://uat.justicegrants.usdoj.gov
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://idp.zmargolis.identitysandbox.gov
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://railroadersleep.fra.dot.gov
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://af.mil
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://af.mil
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://uat.earthdata.nasa.gov
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://solrad-net.gsfc.nasa.gov
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://pfabankfindui-q.app.cloud.gov
@@ -2231,7 +2231,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://peols.marines.mil
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://hmspermits.noaa.gov
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://ready.gov
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://seabass.gsfc.nasa.gov
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://discover.dtic.mil
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://discover.dtic.mil
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://gsaadvantage-dev.fas.gsa.gov
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://preview.ncbi.nlm.nih.gov
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://vijaya-mbda8-294-mbda9.d.commerce.gov
@@ -2352,7 +2352,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://_udp.video.huduser.gov
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://ca.usembassy.gov
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://166aw.ang.af.mil
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://charlie.sam.gov
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://pubmed.ncbi.nlm.nih.gov
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://pubmed.ncbi.nlm.nih.gov
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://usda.staging.platform.usda.gov
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://usafe.af.mil
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://qa.future.its.gov

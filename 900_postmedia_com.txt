@@ -23,7 +23,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.tj.news/northern-light
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.pembrokeobserver.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.leaderpost.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.tj.news/bugle-observer
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.tj.news/miramichi-leader
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.tj.news/miramichi-leader
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nantonnews.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://lfpress.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.wallaceburgcourierpress.com/
@@ -63,7 +63,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.tj.news/greater-saint-joh
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.thesudburystar.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.tj.news/the-tribune
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.pinchercreekecho.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.tj.news/kings-county-record
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.tj.news/kings-county-record
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.greybrucethisweek.ca/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.fairviewpost.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.sprucegroveexaminer.com/
@@ -103,7 +103,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.princegeorgepost.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.peacecountrysun.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.saultthisweek.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://calgaryherald.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.tj.news/telegraph-journal
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.tj.news/telegraph-journal
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://nationalpost.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.thechronicle-online.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.prrecordgazette.com/
@@ -114,5 +114,5 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.thegraphicleader.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.trentonian.ca/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.leducrep.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.standard-freeholder.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.tj.news/victoria-star
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.tj.news/victoria-star
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.chathamdailynews.ca/

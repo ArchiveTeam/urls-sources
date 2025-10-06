@@ -1158,7 +1158,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.richlandtwp.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://cityofwalton.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://maywood-il.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.watervliet.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.newgloucester.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.newgloucester.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://ncwaterquality.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://cityofdearborn.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ncdhhs.gov/dsohf/cherry/
@@ -8410,7 +8410,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://ci.henderson.nc.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.perrymaine.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.cityofulysses.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://cfcnnj.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://co.fairbanks.ak.us/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://co.fairbanks.ak.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://westorange.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://town.oregon.wi.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://townofandrews.org/home/

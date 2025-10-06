@@ -1142,7 +1142,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://grupojoseluismoreno.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.croatia-film.hr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.agorafilms.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.the-works.tv/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.abs-cbn.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.abs-cbn.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.m6.fr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://music.yale.edu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.saltofilm.no/
@@ -3139,7 +3139,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.boringmachines.it/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.illuminationmacguff.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://somaliareport.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://jakaprodukcija.hr/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.sciencesetavenir.fr/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.sciencesetavenir.fr/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.abc12.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.cinecolorfilms.com/cl/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.baldrfilm.nl/
@@ -7539,7 +7539,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.cafeo.tv/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://tv.cctv.com/cctv1/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.safm.co.za/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.opera.krakow.pl/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.blackstar.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.blackstar.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.sunshinecoastdaily.com.au/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.495productions.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.artistafilmi.fi/

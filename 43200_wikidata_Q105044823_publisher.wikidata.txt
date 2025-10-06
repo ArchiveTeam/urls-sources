@@ -9863,7 +9863,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://lubi.edu.lv/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.librosdelko.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.sciencedirect.com/science/journal/2214031X
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://library.aichi-u.ac.jp/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.kab.co.il/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.kab.co.il/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nightdivestudios.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.bibliothek.uni-regensburg.de/ezeit/?2170262
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://bibpurl.oclc.org/web/10145
@@ -17898,7 +17898,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://kotahi.community/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.pureearth.org/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.scienceopen.com/collection/4091206a-7c09-4c88-a6fb-579cd18ec7c9
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.iptd-uzbekistan.uz/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.rote-hilfe.de/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.rote-hilfe.de/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://science.psu.edu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.lancio.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.vnrag.de/
@@ -25295,7 +25295,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.budgetair.nl/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.okayama-u.ac.jp/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://malahapress.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.origin.ea.com/english/index.html
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.epicurious.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.epicurious.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://rbpd.ct.utfpr.edu.br/index.php/rbgpd/index
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://editionsfonfon.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://canterburypress.hymnsam.co.uk/
