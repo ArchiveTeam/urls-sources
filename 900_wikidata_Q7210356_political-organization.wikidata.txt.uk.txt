@@ -173,7 +173,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.queenboroughtc.kentparish
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gov.uk/government/organisations/advisory-committee-on-releases-to-the-environment
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.nelincs.gcsx.gov.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gov.uk/government/groups/anglian-eastern-regional-flood-and-coastal-committee
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.wiltshire.police.uk/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.wiltshire.police.uk/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.rosstc-herefordshire.gov.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.britfordparishcouncil.co.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.cyngortrefamlwch.co.uk/
@@ -298,7 +298,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.shavingtononline.co.uk/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.bamptonoxon-parishcouncil.gov.uk/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.tetbury.gov.uk/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.churchstretton-tc.gov.uk/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.libdems.org.uk/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.libdems.org.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.horncastletowncouncil.co.uk/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.wokingham.gov.uk/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.haddenham-bucks-pc.gov.uk/
@@ -343,7 +343,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gov.uk/government/groups/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://neatisheadpc.norfolkparishes.gov.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.bradwellparishcouncil.co.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gov.uk/government/groups/programme-monitoring-committee-national-sub-committees
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.nerc.ac.uk/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.nerc.ac.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gov.uk/government/groups/committee-to-consider-statutory-guidance-for-trust-special-administrators
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.northtyneside.gov.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gov.uk/government/groups/defence-science-and-technology
@@ -770,7 +770,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gov.uk/government/organis
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bromsgrove.gov.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.healthwatchcoventry.co.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.healthwatch-centralbedfordshire.org.uk/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gov.uk/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gov.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://nashcommunitycouncil.org.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gov.uk/government/groups/defence-safety-and-environment-authority
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.liverpoolmuseums.org.uk/
@@ -812,7 +812,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.slaley.org.uk/healey-paris
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.rppc.org.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://whitlandtowncouncil.co.uk/cy/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.healthwatchealing.co.uk/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.rya.org.uk/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.rya.org.uk/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.waretowncouncil.gov.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.healthwatchtorbay.org.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.lydfordparishcouncil.co.uk/
@@ -1364,7 +1364,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.rctcbc.gov.uk/CY/Home.aspx
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.speldhurstparishcouncil.gov.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gov.uk/government/groups/bis-electronics-sector-team
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.citb.co.uk/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nhs.uk/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nhs.uk/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://northeastca.gov.uk/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.derbyshire.gov.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.stminverhighlands-pc.org.uk/
@@ -1397,7 +1397,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.newtonpopplefordpc.co.uk/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.merseyfire.gov.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.woolbedingwithredford-pc.co.uk/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.publicguardian-scotland.gov.uk/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.polishculture.org.uk/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.polishculture.org.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.manningtreetowncouncil.org.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.imb.org.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.north-wales.police.uk/
@@ -1739,7 +1739,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gov.uk/government/world/o
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.wesham.org.uk/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.northantsfire.gov.uk/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.caiapark.gov.uk/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://bvi.org.uk/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://bvi.org.uk/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.pembstcc.co.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.chapelparishcouncil.co.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ncin.org.uk/home
@@ -1768,7 +1768,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.offwell.eastdevon.gov.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.magorundy.org.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.sunningwellpc.org.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.axmouth.eastdevon.gov.uk/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.avonandsomerset.police.uk/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.avonandsomerset.police.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://ormesbypc.norfolkparishes.gov.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.caradon.gov.uk/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.rother.gov.uk/
@@ -2052,7 +2052,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.wellingtontowncouncil.co.u
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.pembstcc.co.uk/burton-community-council
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.independentnetwork.org.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.shepshedtowncouncil.org.uk/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.scotlibdems.org.uk/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.scotlibdems.org.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.healthwatchsheffield.co.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gov.uk/government/organisations/healthcare-commission
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kent.gov.uk/
@@ -2272,7 +2272,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.hughendenpc.org.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bgs.ac.uk/gsni/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gov.uk/government/organisations/standards-and-testing-agency
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.thorntonincraven.co.uk/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://afghanistanembassy.org.uk/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://afghanistanembassy.org.uk/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nidirect.gov.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gov.uk/world/organisations/british-embassy-brazil
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.darleydale.gov.uk/
@@ -2348,11 +2348,11 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.boxparish.org.uk/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.bexley.gov.uk/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.northtyneside.gov.uk/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.verwood.gov.uk/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.abports.co.uk/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.abports.co.uk/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.martock-pc.gov.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mablethorpeandsutton.org.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.labourinlondon.org.uk/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.parliament.uk/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.parliament.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.healthwatchlewisham.co.uk/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.babergh.gov.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gov.uk/government/groups/rapid-review-panel
@@ -2528,7 +2528,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.malawihighcommission.co.uk
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.denmeadparishcouncil.co.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.llangunnorcommunitycouncil.co.uk/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.leicester.gov.uk/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.hie.co.uk/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.hie.co.uk/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://rcahmw.gov.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.milfordhaventowncouncil.co.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gov.uk/government/groups/defence-nuclear-safety-regulator-dnsr
@@ -3082,7 +3082,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.healthwatchbristol.co.uk/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.coventry.gov.uk/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.rothwelltowncouncil.gov.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://atprestatyn.co.uk/cy/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.theccc.org.uk/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.theccc.org.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.sonningcommonparishcouncil.org.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gov.uk/government/groups/non-governmental-organisation-forum
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.aberdeencity.gov.uk/

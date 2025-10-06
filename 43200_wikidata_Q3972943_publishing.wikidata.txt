@@ -964,7 +964,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.total.net/~amnesie/index.h
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://parler.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.dccomics.com/imprint/dc-vertigo
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://hetnieuwekanaal.nl/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ArcaMax.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ArcaMax.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://simonandschusterpublishing.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.thomasbrussig.de/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.comics-house.com/
@@ -1084,7 +1084,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.editiongravis.de/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.treccani.it/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.pme.ch/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.actionlabcomics.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.slideshare.net/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.slideshare.net/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.sinfactorycomix.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.newsweed.fr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://poesiaelectronica.centroculturadigital.mx/
@@ -2076,7 +2076,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.dccomics.com/minx/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.marvel.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.sitedish.com/art/mining/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://philome.la/GFecteau/la-st-aime/play/index.html
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.sitepoint.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.sitepoint.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://delagrenouillere.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.sairyusha.co.jp/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.lonelyplanet.com/

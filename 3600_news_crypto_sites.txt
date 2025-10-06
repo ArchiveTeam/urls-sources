@@ -11,7 +11,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://e-cryptonews.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://bitcoinist.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://edition.cnn.com/specials/investing/cryptocurrency/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://news.com.au/topics/cryptocurrency/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://coinspeaker.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://coinspeaker.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://cointelegraph.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.fool.com.au/category/sector/cryptocurrencies/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://cryptoslate.com/
@@ -65,7 +65,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://cryptocompare.com/news/list/l
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://coinspectator.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://thebitcoinnews.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://independent.co.uk/topic/cryptocurrency/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://newsbtc.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://newsbtc.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://thenewsminute.com/section/crypto/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://abc.net.au/news/topic/cryptocurrency/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://bqprime.com/crypto/

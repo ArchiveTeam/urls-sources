@@ -4774,7 +4774,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://romewi.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ruston.org/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://olantasc.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.hoffmanestates.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://webapps.myregisteredsite.com/frozen-redirect.html
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://webapps.myregisteredsite.com/frozen-redirect.html
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cityofmadison.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.manliusvillage.org/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://stalbanswv.com/
@@ -5070,7 +5070,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.blairco.org/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://cityofhawarden.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.skowhegan.org/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cityofjohnsonville.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.trcmaine.org/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.trcmaine.org/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://twinvalley.govoffice.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.waukee.org/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.louisacounty.com/
@@ -5614,7 +5614,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://brulewi.gov/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://greatneckvillage.org/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gnfa.com
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.wallingfordvt.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.hugedomains.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.hugedomains.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://cityofprosser.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://whitehallboro.org/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nm.gov/
@@ -6786,7 +6786,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.personcountync.gov/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://grandcountyutah.net/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://cityofelberton.net/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.eastjordancity.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.threeriverscommunity.me/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.threeriverscommunity.me/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.flgov.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.edgeley.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://intermountaincfc.org/

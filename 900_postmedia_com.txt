@@ -11,7 +11,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.facebook.com/L%C3%89toile
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.healthing.ca/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.owensoundsuntimes.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.thestarphoenix.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://financialpost.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://financialpost.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.stratfordbeaconherald.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.vulcanadvocate.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.chathamthisweek.com/
@@ -53,7 +53,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://canoe.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.thecragandcanyon.ca/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.parisstaronline.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.intelligencer.ca/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://driving.ca/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://driving.ca/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kincardinenews.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cochranetimes.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.tj.news/greater-saint-john

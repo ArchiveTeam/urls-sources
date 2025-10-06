@@ -973,7 +973,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://harbury-pc.gov.uk
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://rpc.gov.uk
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://ayrshire.gov.uk
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://walesprobationtrust.gov.uk
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://homeoffice.gov.uk
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://homeoffice.gov.uk
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://niaur.gov.uk
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://westonbywellandparishcouncil.gov.uk
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://littlechalfont-pc.gov.uk
@@ -1315,7 +1315,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://minchinhampton-pc.gov.uk
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://christchurchandeastdorset.gov.uk
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://planning-inspectorate.gov.uk
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://galleywoodparishcouncil.gov.uk
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://aberdeencity.gov.uk
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://aberdeencity.gov.uk
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://kentparishes.gov.uk
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://orchardpark.gov.uk
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://wraxallandfailand-pc.gov.uk
@@ -1725,7 +1725,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://worcestershirets.gov.uk
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://hamptonbishopparishcouncil.gov.uk
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://mhra.gov.uk
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://leeds.gov.uk
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://cps.gov.uk
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://cps.gov.uk
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://landstribunal.gov.uk
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://stratford-dc.gov.uk
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://gerrardscross.gov.uk
@@ -1753,7 +1753,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://molevalley.gov.uk
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://banbury.gov.uk
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://monitor.gov.uk
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://haywardsheath.gov.uk
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://data.gov.uk
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://data.gov.uk
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://hanborough-pc.gov.uk
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://pershore-tc.gov.uk
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://tibshelfparishcouncil.gov.uk
@@ -1976,7 +1976,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://easthunsburyparishcouncil.gov.
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://cuckfield.gov.uk
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://morley.gov.uk
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://selbytowncouncil.gov.uk
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://fco.gov.uk
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://fco.gov.uk
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://sccommissioner.gov.uk
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://kimboltonandstonely-pc.gov.uk
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://camborne-tc.gov.uk
@@ -2952,7 +2952,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://surreyheath-online.gov.uk
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://frant-pc.gov.uk
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://fradleyandstreethayparishcouncil.gov.uk
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://grampian-ero.gov.uk
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://scotland.gov.uk
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://scotland.gov.uk
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://bradninch-tc.gov.uk
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://lymeregistowncouncil.gov.uk
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://secouncils.gov.uk
