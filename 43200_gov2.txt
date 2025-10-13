@@ -35647,3 +35647,14 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.poderjudicialmichoacan.gob
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://pphisindh.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.sanepar.com.br/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://kepriprov.go.id/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://brave1.gov.ua/
+random=RANDOM;all=1;keep_all=1;keep_random=0;depth=1;url=https://interns.brave1.gov.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://market-brave1.delta.mil.gov.ua/
+random=RANDOM;all=1;keep_all=1;keep_random=0;depth=1;url=https://dpa.mod.gov.ua/media-center/news
+random=RANDOM;all=1;keep_all=1;keep_random=0;depth=1;url=https://dpa.mod.gov.ua/en/media-center/news
+random=RANDOM;all=1;keep_all=1;keep_random=0;depth=1;url=https://dpa.mod.gov.ua/media-center/media-about-us
+random=RANDOM;all=1;keep_all=1;keep_random=0;depth=1;url=https://dpa.mod.gov.ua/en/media-center/media-about-us
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://partner.mod.gov.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://recruiting.mod.gov.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://hda.mod.gov.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://uas.gov.ua/
