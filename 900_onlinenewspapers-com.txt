@@ -5059,7 +5059,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.alwaqt.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.lemauricien.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.obiectiv-online.ro/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.enterprisenetworkingmag.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.arvikanyheter.se/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.arvikanyheter.se/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.mcintoshdemocrat.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.desdeelsalvador.com.sv/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.primaonline.it/
@@ -7481,7 +7481,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.halloindo.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.thenorthernecho.co.uk/news/local/southdurham/shildon/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.dagbladdewest.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.sanspo.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.filipstadstidning.se/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.filipstadstidning.se/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.gazetadecluj.ro/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.cdispatch.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.facebook.com/gti.gazette/
@@ -10072,7 +10072,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://patch.com/washington/kirkland
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.easternshorepost.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.repubblica.it/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kenyastar.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nkp.se/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nkp.se/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.middletongazetteonline.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.elheraldo.com.uy/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.queenscountytimes.ca/
@@ -10354,7 +10354,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.jeuneafrique.com/pays/sao
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.noticierouniversal.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.esthervilledailynews.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.indianagazette.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.saffletidningen.se/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.saffletidningen.se/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mylondon.news/all-about/croydon
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.chronicle-independent.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.hancockclarion.com/
@@ -15628,7 +15628,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.sinchew-i.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.bssnews.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.addistribune.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.nashvilleherald.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.fryksdalsbygden.se/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.fryksdalsbygden.se/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.connexionfrance.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.theindianhawk.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.focusnewsmagazine.com/

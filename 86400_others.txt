@@ -1,5 +1,6 @@
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://events.ccc.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://reichsgesetzblatt.justitia-deutschland.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://radio.indymedia.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://allatra.tv/new
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://autonome-antifa.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.reichsamt.info/
@@ -13,11 +14,10 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.german-foreign-policy.com
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://aspeninstitutekyiv.org/en/news/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bundesrath.de/blog/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://aspeninstitutekyiv.org/news/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://alabuga.ru/news/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://peter-nowak-journalist.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.reichsamt-des-innern.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.patriotpetition.org/petitionen/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://martinsellner.info/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.volks-reichstag.de/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://alabuga.ru/news/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://radio.indymedia.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://nantes.indymedia.org/zines/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.volks-reichstag.de/

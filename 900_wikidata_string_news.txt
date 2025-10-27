@@ -11610,7 +11610,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.pobjeda.net/novine
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://newspass.jp/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.neworleanscitybusiness.com
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://digital.lib.hkbu.edu.hk/newsclipping/record.php?ids=NCC-022067
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.tidningenharjedalen.se
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.tidningenharjedalen.se
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://yaikrb.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.aucklandmuseum.com/collections-research/collections/record/am_library-manuscriptsandarchives-16735
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://newtownardschronicle.co.uk
