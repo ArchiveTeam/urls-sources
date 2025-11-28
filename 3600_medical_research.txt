@@ -854,3 +854,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://eurapa.biomedc
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.hindawi.com/journals/crior
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nature.com/bdj
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nature.com/npjdrugdiscov
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://blog.scielo.org/feed
