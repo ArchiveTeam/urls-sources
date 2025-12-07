@@ -72,6 +72,7 @@ if __name__ == '__main__':
         '900_indymedia.txt',
         '900_localnews_SE.txt',
         '900_onlinenewspapers-com.txt',
+        '900_others.txt',
         '900_postmedia_com.txt',
         '900_wikidata_Q11030_journalism.wikidata.txt',
         '900_wikidata_Q11032_newspaper.wikidata.txt',
@@ -97,7 +98,8 @@ if __name__ == '__main__':
         '43200_wikidata_Q5588651_governing-body.wikidata.txt',
         '43200_wikidata_Q7210356_political-organization.wikidata.txt',
         '43200_wikidata_Q16519632_scientific-organization.wikidata.txt',
-        '43200_wikidata_Q101542346_cultural-facility.wikidata.txt'
+        '43200_wikidata_Q101542346_cultural-facility.wikidata.txt',
+        '86400_others.txt'
     ]
     files = sys.argv[1:]
     if len(files) == 0:
