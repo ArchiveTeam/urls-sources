@@ -1,0 +1,7 @@
+random=RANDOM;deep_extract=1;url=https://ajpaction.org/feed/
+random=RANDOM;deep_extract=1;url=https://www.icjpalestine.com/feed/
+random=RANDOM;deep_extract=1;url=https://www.justpeaceadvocates.ca/feed/
+random=RANDOM;deep_extract=1;url=https://elsc.support/feed/
+random=RANDOM;deep_extract=1;url=https://entrepreneursforpalestine.com/feed/
+random=RANDOM;deep_extract=1;url=https://anarchists4palestine.noblogs.org/feed/
+random=RANDOM;deep_extract=1;url=https://standwithus.com/feed/
