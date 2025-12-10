@@ -328,3 +328,9 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.rthk.hk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://hkisland.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.hkparliament.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://hkipf.org.hk/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://flot2017.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.megynkelly.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nasiriaelc.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://makeyev.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://veteranfund.com.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.budapesttimes.hu/

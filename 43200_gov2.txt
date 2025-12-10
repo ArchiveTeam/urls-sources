@@ -35744,3 +35744,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.iat.gov.hk/en/app_n_sh.ht
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.iat.gov.hk/tc/app_n_sh.html
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.iat.gov.hk/sn/app_n_sh.html
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.investhk.gov.hk/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://niun.gov.eg/
+random=RANDOM;deep_extract=1;url=https://nmec.gov.eg/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://decentralization.gov.ua/
