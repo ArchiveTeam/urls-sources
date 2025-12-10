@@ -35732,3 +35732,15 @@ random=RANDOM;deep_extract=1;url=https://www.chp.gov.hk/rss/tne_event_en_RSS.xml
 random=RANDOM;deep_extract=1;url=https://www.ofca.gov.hk/filemanager/ofca/en/rss/index.xml
 random=RANDOM;deep_extract=1;url=https://www.hongkongpost.hk/en/about_us/whats_new/press_release/press_release.xml
 random=RANDOM;deep_extract=1;url=https://www.hongkongpost.hk/en/about_us/whats_new/notices/notices.xml
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ceo.gov.hk/en/new.html
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ceo.gov.hk/tc/new.html
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ceo.gov.hk/sc/new.html
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ceo.gov.hk/en/multimedia.html
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ceo.gov.hk/tc/multimedia.html
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ceo.gov.hk/sc/multimedia.html
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.icac.org.hk/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cgcc.org.hk/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.iat.gov.hk/en/app_n_sh.html
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.iat.gov.hk/tc/app_n_sh.html
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.iat.gov.hk/sn/app_n_sh.html
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.investhk.gov.hk/

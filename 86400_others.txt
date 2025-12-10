@@ -318,3 +318,13 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://csd-berlin.de/
 random=RANDOM;deep_extract=1;url=https://umbruch-bildarchiv.org/feed/
 random=RANDOM;deep_extract=1;url=https://uebermedien.de/feed/
 random=RANDOM;deep_extract=1;url=https://sea-eye.org/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.poleungkuk.org.hk/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.poleungkuk.org.hk/en
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.poleungkuk.org.hk/sc
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ourhkfoundation.org.hk/en
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ourhkfoundation.org.hk/sc
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ourhkfoundation.org.hk/tc/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.rthk.hk/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://hkisland.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.hkparliament.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://hkipf.org.hk/
