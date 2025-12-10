@@ -334,3 +334,9 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nasiriaelc.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://makeyev.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://veteranfund.com.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.budapesttimes.hu/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://fakirpresse.info/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.redsemlac-cuba.net/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://lacostillarota.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://etsc.eu/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://globaltaiwan.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://restofworld.org/

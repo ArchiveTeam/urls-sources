@@ -20,3 +20,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://resolution.soc.go.th/?page_id
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://resolution.soc.go.th/?page_id=74&find_word=&start_date=&end_date=&book_number=&page_no=1
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://krisdika.ocs.go.th/law
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.info.gov.hk/gia/general/today.htm
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ausschreibungen-deutschland.de/
