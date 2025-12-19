@@ -101,3 +101,5 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://michael-von-de
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.die-partei.de/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://piratenpartei.de/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://irisstalzer-herdecke.de/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://afd-cuxland.de/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://weserbergland-afd.de/feed/
