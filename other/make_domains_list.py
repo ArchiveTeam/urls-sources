@@ -73,6 +73,7 @@ if __name__ == '__main__':
         '900_localnews_SE.txt',
         '900_onlinenewspapers-com.txt',
         '900_others.txt',
+        '900_politics_germany.txt',
         '900_postmedia_com.txt',
         '900_wikidata_Q11030_journalism.wikidata.txt',
         '900_wikidata_Q11032_newspaper.wikidata.txt',

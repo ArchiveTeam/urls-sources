@@ -1,4 +1,3 @@
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://rrn.world/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://generationdeutschland.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.syriahr.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.syriahr.com/en/
