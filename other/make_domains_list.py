@@ -100,6 +100,7 @@ if __name__ == '__main__':
         '43200_politics_germany.txt',
         '43200_politics_world.txt',
         '43200_ukraine.txt',
+        '43200_venezuela.txt',
         '43200_wikidata_Q7188_government.wikidata.txt',
         '43200_wikidata_Q163740_nonprofit-organization.wikidata.txt',
         '43200_wikidata_Q178706_institution.wikidata.txt',
