@@ -6,3 +6,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://entrepreneursf
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://anarchists4palestine.noblogs.org/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://standwithus.com/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://israeli.company/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://jfjfp.com/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.palestinebookawards.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://bdsmovement.net/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://bds-kampagne.de/

@@ -23,3 +23,5 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://nmec.gov.eg/fe
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://famille.gouv.ci/mffe/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://sdsegypt2030.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://smc.gov.eg/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.suezcanal.gov.eg/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://nwrc.gov.eg/
