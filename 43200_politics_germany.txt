@@ -103,3 +103,16 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://piratenpartei.de/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://irisstalzer-herdecke.de/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://afd-cuxland.de/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://weserbergland-afd.de/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.fabio-de-masi.de/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.spd-oldenburg.de/category/meldungen-berichte/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.gruene-oldenburg.de/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.spdfraktion.de/artikel/feed
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.spdfraktion.de/node/4978328/podcast
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.spdfraktion.de/presse/pressemitteilungen/feed
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://jakobblankenburg.de/aktuelles/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.junge-union.de/rss/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.oliver-kaczmarek.de/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.macit-mdb.de/blog-feed.xml
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://karllauterbach.de/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://antraege.gruene.de/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://diebasis-partei.de/feed/

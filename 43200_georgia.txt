@@ -13,3 +13,10 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://acb.gov.ge/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://businessombudsman.ge/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://saras.gov.ge/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://pifc.gov.ge/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://rustavi.gov.ge/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mes.gov.ge/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://mandaturi.gov.ge/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://iec.gov.ge/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://tbilisipost.ge/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://tetnuldi.edu.ge/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://justice.gov.ge/

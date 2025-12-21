@@ -86,6 +86,7 @@ if __name__ == '__main__':
         '3600_news_crypto_sites.txt',
         '3600_wikidata_Q1331793_media-company.wikidata.txt',
         '43200_abkhazia.txt',
+        '43200_ccc+hackspaces.txt',
         '43200_georgia.txt',
         '43200_github_GSA_govt-urls.txt',
         '43200_gov2.txt',
@@ -98,11 +99,16 @@ if __name__ == '__main__':
         '43200_govt_urls.txt',
         '43200_hong-kong.txt',
         '43200_palestine.txt',
+        '43200_politics_africa-misc.txt',
+        '43200_politics_americas-misc.txt',
+        '43200_politics_asia-misc.txt',
+        '43200_politics_europe-misc.txt',
         '43200_politics_germany.txt',
-        '43200_politics_world.txt',
+        '43200_politics_other.txt',
         '43200_russia.txt',
         '43200_ukraine.txt',
         '43200_venezuela.txt',
+        '43200_vietnam.txt',
         '43200_wikidata_Q7188_government.wikidata.txt',
         '43200_wikidata_Q163740_nonprofit-organization.wikidata.txt',
         '43200_wikidata_Q178706_institution.wikidata.txt',
@@ -113,7 +119,9 @@ if __name__ == '__main__':
         '43200_wikidata_Q7210356_political-organization.wikidata.txt',
         '43200_wikidata_Q16519632_scientific-organization.wikidata.txt',
         '43200_wikidata_Q101542346_cultural-facility.wikidata.txt',
-        '86400_others.txt'
+        '86400_others.txt',
+        '604800_ccc.txt'
+        '604800_others.txt'
     ]
     files = sys.argv[1:]
     if len(files) == 0:

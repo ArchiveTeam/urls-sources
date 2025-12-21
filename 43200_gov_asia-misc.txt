@@ -1,3 +1,6 @@
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://kgd.gov.kz/kk
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://kgd.gov.kz/ru
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://kgd.gov.kz/en
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://president.az/en/rss
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://president.az/az/rss
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://president.az/ru/rss

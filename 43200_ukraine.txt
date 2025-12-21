@@ -85,3 +85,16 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://cabinet.tax.gov.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://eu4pfm.com.ua/en/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://eu4pfm.com.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://krlife.com.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ukrainainfo.com.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.vplyv.org.ua/feed
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://unn.ua/rss/news_uk.xml
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://unn.ua/en/rss/news_en.xml
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://unn.ua/ru/rss/news_ru.xml
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://kyivindependent.com/news-archive/rss/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://defence-ua.com/rss/feed.xml
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://kyiv.news/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://amcu.gov.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://amnu.gov.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://nais.gov.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://winwin.gov.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://zak.tax.gov.ua/

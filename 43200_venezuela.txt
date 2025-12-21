@@ -29,3 +29,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.armada.mil.ve/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.aviacion.mil.ve/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ejercito.mil.ve/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://ceofanb.mil.ve/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cebm.gob.ve/

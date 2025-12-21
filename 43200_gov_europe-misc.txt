@@ -19,3 +19,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.constcourt.bg/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.sars.gov.bg/news/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://stz.riew.gov.bg/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://recuperarportugal.gov.pt/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mvp.gov.ba/

@@ -1,0 +1,11 @@
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://c3tactile.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://legal.cccv.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://c3loc.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://chaospost.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://c3ioc.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://c3lingo.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://speakers.c3lingo.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://c3heaven.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://c3sign.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://c3signal.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://c3voc.de/events/
