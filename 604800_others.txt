@@ -43,3 +43,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://blog.koehntopp
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://spacetimetech.wordpress.com/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://artschoolpalestine.com/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://civicsacademy.co.za/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://electiontaskforce.org/feed/

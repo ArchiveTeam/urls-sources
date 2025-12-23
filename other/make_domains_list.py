@@ -75,6 +75,7 @@ if __name__ == '__main__':
         '900_others.txt',
         '900_politics_germany.txt',
         '900_postmedia_com.txt',
+        '900_russia.txt',
         '900_wikidata_Q11030_journalism.wikidata.txt',
         '900_wikidata_Q11032_newspaper.wikidata.txt',
         '900_wikidata_Q1193236_news-media.wikidata.txt',
