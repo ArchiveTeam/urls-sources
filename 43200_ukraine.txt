@@ -98,3 +98,5 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://amnu.gov.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://nais.gov.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://winwin.gov.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://zak.tax.gov.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://osvita.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://tyzhden.ua/feed/

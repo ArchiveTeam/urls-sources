@@ -229,7 +229,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://dresdencontemporaryart.com/de
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://dresdencontemporaryart.com/en
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.unser-mitteleuropa.com/feed
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://euneighbourseast.eu/feed/
-random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.ichongqing.info/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://wpath.org/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://i-like-israel.de/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://cognitivesciencesociety.org/feed/
@@ -412,3 +411,18 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://warroom.org/fe
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.levernews.com/rss/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://protectdemocracy.org/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://guyanachronicle.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.realclearpolicy.com/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.shora-gc.ir/fa/rss/allnews
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.shia-news.com/fa/rss/allnews
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://nonprofitquarterly.org/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.zdg.md/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://feldzug.net/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://calendify.com/now
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://serbiantimes.info/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.doorbraak.eu/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://catholicweekly.com.au/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://blog.character.ai/rss/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://diss-duisburg.de/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://cnsmaryland.org/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.krisis.org/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://nowlebanon.com/feed/
