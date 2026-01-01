@@ -20,3 +20,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.service.bu
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.bundeskanzler.de/service/rss/bk-de/1859752/feed.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.bundeskanzler.de/service/rss/bk-de/1859760/feed.xml
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.monopolkommission.de/de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bundestag.de/presse/pressemitteilungen

@@ -8,3 +8,4 @@ random=RANDOM;all=0;depth=0;url=http://publication.pravo.gov.ru/documents/monthl
 random=RANDOM;all=0;depth=0;url=http://publication.pravo.gov.ru/documents/daily?index=1&pageSize=200
 random=RANDOM;all=0;depth=0;url=http://publication.pravo.gov.ru/documents/weekly?index=1&pageSize=200
 random=RANDOM;all=0;depth=0;url=http://publication.pravo.gov.ru/documents/monthly?index=1&pageSize=200
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://rcc.ru/

@@ -20,3 +20,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://iec.gov.ge/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://tbilisipost.ge/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://tetnuldi.edu.ge/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://justice.gov.ge/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://netgazeti.ge/

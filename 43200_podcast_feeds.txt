@@ -33,3 +33,4 @@ random=RANDOM;deep_extract=1;url=https://sfconservancy.org/casts/the-correspondi
 random=RANDOM;deep_extract=1;url=https://www.wrint.de/category/zum_thema/feed/
 random=RANDOM;deep_extract=1;url=https://zeitsturz.podigee.io/rssfeed
 random=RANDOM;deep_extract=1;url=https://logbuch-netzpolitik.de/feed/mp3
+random=RANDOM;deep_extract=1;url=https://damals-tm-podcast.de/?feed=damalstm-mp3
