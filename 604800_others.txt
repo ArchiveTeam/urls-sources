@@ -58,3 +58,12 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://fluechtlingsrat-berlin.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://noi.md/md/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://noi.md/ru/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://stmatrona.com/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://machine-vs-rage.net/blog/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.schul-it-navigator.de/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.niedersachsen-gegen-antisemitismus.de/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.wuebben-stiftung-bildung.org/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://amfn.de/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://calnewport.com/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://effektiveraltruismus.de/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://alignmentalignment.ai/caaac
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://strongminds.org/feed/
