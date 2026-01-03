@@ -102,3 +102,5 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://osvita.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://tyzhden.ua/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gorod.cn.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.zhitomir.info/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.5.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.057.ua/

@@ -60,3 +60,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://nfsa.gov.eg/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://nide.gov.eg/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://tecc.ahri.gov.eg/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://gothi.gov.eg/?feed=rss2
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://puntlandparliament.com/feed/
