@@ -1,4 +1,3 @@
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://events.ccc.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://reichsgesetzblatt.justitia-deutschland.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://radio.indymedia.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://allatra.tv/new
@@ -443,7 +442,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.accessnow.
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.belltower.news/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://daslamm.ch/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://nationalgeographic.de/feed/
-random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.datenschutzverein.de/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.katholisches-datenschutzzentrum.de/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://slavonic.org/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.nds-fluerat.org/feed/
@@ -457,3 +455,13 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://jobs.80000hours.org/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://proveg.org/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://gfi.org/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.pornhub.com/blog
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.justiceinfo.net/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://trialinternational.org/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://tarnkappe.info/feed
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bischofskonferenz.at/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gdp.de/bund/de
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://awb.co.za/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.anc1912.org.za/
+random=RANDOM;all=1;keep_all=1;depth=1;url=hhttps://www.white-power.org/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://covertactionmagazine.com/feed/
+random=RANDOM;all=1;url=https://cdn.honey.io/ab/ssd.json

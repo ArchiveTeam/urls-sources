@@ -67,3 +67,9 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://calnewport.com
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://effektiveraltruismus.de/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://alignmentalignment.ai/caaac
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://strongminds.org/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://activeclub.org/articles/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.selbstlautkollektiv.com/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://hebammenverband.de/feed
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://blog.adoptuskids.org/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://bsides.org/events/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://verbotengut.at/feed/

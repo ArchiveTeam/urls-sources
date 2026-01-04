@@ -15,7 +15,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://c3awareness.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://wiki.c3gelb.de/doku.php?id=start&do=recent
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://c3space.de/blog/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://cert.ccc.de/
-random=RANDOM;all=1;url=https://cdn.honey.io/ab/ssd.json
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://c3fl.de/blog/page/1/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://ccc-ch.ch/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://c3w.at/
@@ -23,3 +22,5 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.chaos-darmstadt.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://chaosdorf.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://chaosfurs.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://cyber4edu.org/c4e/wiki/start?do=recent
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://chaospott.de/blog/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ha.si/

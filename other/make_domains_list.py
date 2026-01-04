@@ -108,6 +108,7 @@ if __name__ == '__main__':
         '43200_politics_asia-misc.txt',
         '43200_politics_europe-misc.txt',
         '43200_politics_germany.txt',
+        '43200_politics_germany-regional.txt',
         '43200_politics_other.txt',
         '43200_russia.txt',
         '43200_taiwan.txt',
