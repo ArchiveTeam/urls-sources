@@ -6,6 +6,7 @@ random=RANDOM;deep_extract=1;url=https://monoxyd.de/category/dieweisheit/feed
 random=RANDOM;deep_extract=1;url=https://fossandcrafts.org/rss-feed.rss
 random=RANDOM;deep_extract=1;url=https://monoxyd.de/category/diewahrheit/feed
 random=RANDOM;deep_extract=1;url=https://sive.rs/podcast.rss
+random=RANDOM;deep_extract=1;url=https://logbuch-netzpolitik.de/feed/mp3
 random=RANDOM;deep_extract=1;url=https://opensourcesecuritypodcast.libsyn.com/rss
 random=RANDOM;deep_extract=1;url=https://www.wrint.de/category/wissenschaft/feed/
 random=RANDOM;deep_extract=1;url=https://librelounge.org/atom-feed.atom
@@ -22,6 +23,8 @@ random=RANDOM;deep_extract=1;url=https://podcast.leipziger-buchmesse.de/feed.xml
 random=RANDOM;deep_extract=1;url=https://feeds.megaphone.fm/hubermanlab
 random=RANDOM;deep_extract=1;url=https://feeds.simplecast.com/7y1CbAbN
 random=RANDOM;deep_extract=1;url=https://manifest.fm/rss
+random=RANDOM;deep_extract=1;url=https://zeitsturz.podigee.io/rssfeed
+random=RANDOM;deep_extract=1;url=https://damals-tm-podcast.de/?feed=damalstm-mp3
 random=RANDOM;deep_extract=1;url=https://www.wrint.de/category/zur_person/feed/
 random=RANDOM;deep_extract=1;url=https://ukw.fm/feed/mp3/
 random=RANDOM;deep_extract=1;url=https://feeds.buzzsprout.com/1817535.rss
@@ -31,6 +34,3 @@ random=RANDOM;deep_extract=1;url=https://www.wrint.de/category/flaschen/feed/
 random=RANDOM;deep_extract=1;url=https://www2.uibk.ac.at/downloads/c115/zeit/zeit_ogg.xml
 random=RANDOM;deep_extract=1;url=https://sfconservancy.org/casts/the-corresponding-source/feeds/mp3/
 random=RANDOM;deep_extract=1;url=https://www.wrint.de/category/zum_thema/feed/
-random=RANDOM;deep_extract=1;url=https://zeitsturz.podigee.io/rssfeed
-random=RANDOM;deep_extract=1;url=https://logbuch-netzpolitik.de/feed/mp3
-random=RANDOM;deep_extract=1;url=https://damals-tm-podcast.de/?feed=damalstm-mp3

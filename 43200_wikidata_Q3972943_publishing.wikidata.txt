@@ -147,7 +147,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.gimrecords.de/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.alamy.de/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.editions-soleildeminuit.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.webpoesie.com/Diseur/accueil3.htm
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://nafo-ofan.org/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://nafo-ofan.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.pressmart.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://sylviaioannoufoundation.org/el
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.dshir.co.il/

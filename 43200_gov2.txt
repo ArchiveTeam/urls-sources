@@ -5171,7 +5171,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.zoundweogo.gouv.bf/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.lphs.gov.my/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mos.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.mahasarakham.go.th/en
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mfa.gov.ge/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mfa.gov.ge/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://sangguniangpanlalawigan.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.caycuma.gov.tr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.dmsu.gov.ua/en/home/department-migration-service-Kharkiv-region.html
@@ -15912,7 +15912,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.vrtojba.si/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gov.vc/government/departments
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mohd.gov.mm/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.abc.ca.gov/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://abkhazia.gov.ge/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://abkhazia.gov.ge/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://doe-bahamas.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.wilayadetlemcen.dz/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://en.wikipedia.org/wiki/Yevlakh_District
@@ -20222,7 +20222,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.laregion.fr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://governor.vi.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ipj-alba.ro/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://nccegh.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://economy.ge/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://economy.ge/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.pieria.gov.gr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.mef.gub.uy/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.potosi.bo/
@@ -20829,7 +20829,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mn.marubeni.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://namangan.gov.uz/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://en.gouv.mc/State-Institutions/The-State-Institutions/The-Government/Ministries/The-Ministry-of-State​
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.estprovince.rw/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://mof.ge/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://mof.ge/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.congresonl.gob.mx/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://bayburt.gov.tr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.morgantownwv.gov/
@@ -27989,7 +27989,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.aviatim.ro/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.kiribatifish.org.ki/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.sakhalin1.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.savannakhetcity.org.la/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://mes.gov.ge/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://mes.gov.ge/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.tunet.cu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.valley6.gov.eg/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://bursaism.saglik.gov.tr/
@@ -28872,7 +28872,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kemenper inian.go.id/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://mn.gov/puc
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.moh.gov.cy/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://maakuntasuunnitelma.etelasavo.fi/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://justice.gov.ge/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://justice.gov.ge/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.danilovgrad.me/index.php/en
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.kurigram.gov.bd/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.cultura.gob.ec/
