@@ -11442,7 +11442,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.korvac.org/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.warwick.ac.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.rebellion.co.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.motorolasolutions.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://research.fs.usda.gov/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://research.fs.usda.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://antropologie.zcu.cz/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.lincoln.ac.uk/home/ad
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.whitestar.it/
@@ -13969,7 +13969,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.politische-bildung.nrw.de
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mtsu.edu/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.c3magazine.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.unicid.br/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://geology.utah.gov/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://geology.utah.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.marcialpons.es/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://seesharppress.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://biomed.au.dk/
@@ -31060,7 +31060,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://klimatkalkyl-pub.ea.trafikver
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://doi.org/10.21464/fi
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://janpora.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cnusports.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://history.sd.gov/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://history.sd.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://ibnaljawzi.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ircica.univ-lille1.fr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.yuhs.or.kr/history/museum/dongeun/intro/
@@ -33653,7 +33653,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bloomsbury.com/uk/academi
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.apadivisions.org/division-30
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.pluslucis.org/index.html
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://wydawnictwo-dango.pl/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://hiu.state.gov/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://hiu.state.gov/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.celersms.com/radar-ru.htm
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.papyrology.org/Publications/BASP/BASPGen.htm
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.sternberg-press.com/
