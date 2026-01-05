@@ -14035,7 +14035,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://agendaempresa.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.svt.se/nyheter/lokalt/stockholm/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.vtcng.com/otherpapersbvt/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.kmjnow.com/
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.thenewpeople.net/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.thenewpeople.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.saurashtrasamachar.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.thegreenvilleadvocate.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.dfa.co.za/
