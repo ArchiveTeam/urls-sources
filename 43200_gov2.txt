@@ -1960,7 +1960,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.trebnje.cc/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://nagykanizsa.hu/varosunk/onkormanyzat
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.dmeassam.gov.in/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ontarioimmigration.ca/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.minv.sk/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.minv.sk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ac.gov.br/ageac
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://archive.gov.uz/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.rionegro.gov.ar/
@@ -22331,7 +22331,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://duma.lipetsk.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.apit.gov.in/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.moa.gov.cy/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ombudsman.act.gov.au/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://sokoj.rs/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://sokoj.rs/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.visitdebrecen.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://arequipa.muniperu.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nmhomelandsecurity.org/

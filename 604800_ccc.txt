@@ -20,7 +20,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://ha.si/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://c3lingo.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://wiki.c3gelb.de/doku.php?id=start&do=recent
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://c3loc.de/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://c3w.at/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://c3w.at/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://legal.cccv.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ccc.de/de/club/erfas
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://chaosfurs.org/

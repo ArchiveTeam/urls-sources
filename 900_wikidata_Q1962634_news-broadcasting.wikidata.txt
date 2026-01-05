@@ -1,4 +1,5 @@
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://news.tvbs.com.tw/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://sports.sbt.com.br/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ndtv.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.sinembargo.mx/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.tvonenews.tv/
