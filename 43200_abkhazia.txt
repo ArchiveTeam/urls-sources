@@ -25,3 +25,5 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://vs-ra.org/novosti
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://minturizm.apsny.land/ap/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://gms.apsny.land/ap/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://gki.apsny.land/ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://gazeta-ra.info/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://abkhazinform.com/

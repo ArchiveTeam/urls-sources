@@ -1,0 +1,2 @@
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.judicial.gov.tw/tw/mp-1.html
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.judicial.gov.tw/en/mp-2.html

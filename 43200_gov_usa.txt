@@ -1,0 +1,2 @@
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://prhome.war.gov/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.goldenfleet.navy.mil/

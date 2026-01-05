@@ -1,0 +1,6 @@
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://chadema.or.tz/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://humatalwatan.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://egysdp.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://rpp-eg.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://altagamoa.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://eladlparty.com/

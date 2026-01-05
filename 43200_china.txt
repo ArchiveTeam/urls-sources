@@ -1,0 +1,10 @@
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.workercn.cn/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.ichongqing.info/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nrta.gov.cn/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cnr.cn/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.chinanews.com.cn/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://m.haiwainet.cn/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.xuexi.cn/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://cn.chinadaily.com.cn/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.cppcc.gov.cn/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://en.cppcc.gov.cn/
