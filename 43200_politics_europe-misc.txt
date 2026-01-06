@@ -36,3 +36,10 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://piratenpartij.nl/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://socialistii.md/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://svobodny-svet.cz/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://partialibertarianska.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.pl.md/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.sbb.ba/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://bosanskinacionalisti.org/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://sps.ba/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://npsrs.org/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://socijalisti.ba/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://pomak.ba/?feed=rss2

@@ -20,3 +20,5 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://plovdiv.riew.gov.bg/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.minfin.bg/en/rss
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.parliament.bg/feed/laws
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.parliament.bg/feed/plenary
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://hirlevel.egov.hu/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://sdbih.ba/feed

@@ -90,6 +90,7 @@ if __name__ == '__main__':
         '43200_ccc+hackspaces.txt',
         '43200_china.txt',
         '43200_demoscene.txt',
+        '43200_eu.txt',
         '43200_georgia.txt',
         '43200_github_GSA_govt-urls.txt',
         '43200_gov2.txt',

@@ -61,3 +61,5 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://venezuelanalys
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.elchiguirebipolar.net/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://gobernacion.merida.gob.ve/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.sahum.gob.ve/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mpppst.gob.ve/mpppstweb/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://observatorio.gob.ve/feed/
