@@ -12,7 +12,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mwri.gov.eg/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://sudan.gov.sd/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://gopp.gov.eg/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://presidence.gov.mg/
-random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.metfp.gov.mg/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://niun.gov.eg/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://tecc.ahri.gov.eg/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.pn.gov.mg/
@@ -33,6 +32,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://mped.gov.eg/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://smc.gov.eg/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.arabicacademy.gov.eg/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://gothi.gov.eg/?feed=rss2
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://micc.gov.mg/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://fsi.gov.eg/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://catr.gov.eg/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://nwrc.gov.eg/
@@ -41,6 +41,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://micc.gov.mg/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://sdsegypt2030.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://nide.gov.eg/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://asa.gov.eg/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.metfp.gov.mg/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.eeaa.gov.eg/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://tims.gov.eg/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.eeic.gov.eg/en/home
@@ -48,12 +49,11 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.drfc.gov.m
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mahfouzmuseum.gov.eg/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://uhia.gov.eg/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.biblio.micc.gov.mg/
-random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://micc.gov.mg/feed/
-random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.ceni-madagascar.mg/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ebdaaalex.gov.eg/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://aca.gov.eg/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://fra.gov.eg/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.eeic.gov.eg/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.ceni-madagascar.mg/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.suezcanal.gov.eg/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.minae.gov.mg/rss
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://nmec.gov.eg/feed/
