@@ -35,3 +35,11 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.bpb.de/rss
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.bpb.de/rss-feed/203612.rss
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.bpb.de/rss-feed/344517.rss
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://diskriminierung-umfrage.de/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.bundesrat.de/SiteGlobals/Functions/RSSFeed/RSSGenerator_Announcement.xml
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.bundesrat.de/SiteGlobals/Functions/RSSFeed/RSSGenerator_PBPrintout.xml
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.bundesrat.de/SiteGlobals/Functions/RSSFeed/RSSGenerator_Publication.xml
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.bundesrat.de/SiteGlobals/Functions/RSSFeed/RSSGenerator_Event.xml
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.bundesrat.de/SiteGlobals/Functions/RSSFeed/RSSGenerator_Event_Ausschuss.xml
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.bundesrat.de/SiteGlobals/Functions/RSSFeed/RSSGenerator_top_plenumkompakt.xml
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.evergabe-online.de/search.html?4&publishDateRange=ALL
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.service.bund.de/Content/DE/Ausschreibungen/Suche/Formular.html?nn=4641482&resultsPerPage=100&sortOrder=dateOfIssue_dt+desc&jobsrss=true

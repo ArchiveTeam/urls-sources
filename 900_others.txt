@@ -18,3 +18,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.cgtn.com/s
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.cgtn.com/subscribe/rss/section/travel.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.cgtn.com/subscribe/rss/section/nature.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.cgtn.com/subscribe/rss/section/gstringer.xml
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://vergabe.niedersachsen.de/Satellite/company/welcome.do
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.evergabe-online.de/search.html?4&publishDateRange=ALL
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ted.europa.eu/en/search/result?FT=&scope=ACTIVE&simpleSearchRef=true
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://prozorro.gov.ua/uk/search/tender?text=
