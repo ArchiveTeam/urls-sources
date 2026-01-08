@@ -22,3 +22,16 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.bmi.bund.d
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.service.bund.de/Content/DE/Stellen/Suche/Formular.html?nn=4642046&type=0&resultsPerPage=100&templateQueryString=Bundesamt+f%C3%BCr+Sicherheit+in+der+Informationstechnik&sortOrder=dateOfIssue_dt+desc&city_zipcode=53175+Bonn&jobsrss=true
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.bsi.bund.de/SiteGlobals/Functions/RSSFeed/RSSNewsfeed/RSSNewsfeed_Podcast_Update_verfuegbar.xml
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.lobbyregister.bundestag.de/startseite
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://arbeitsmarktmonitor.arbeitsagentur.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bpb.de/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.bpb.de/rss-feed/133223.rss
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.bpb.de/rss-feed/62409.rss
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.bpb.de/rss-feed/133222.rss
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.bpb.de/rss-feed/230153.rss
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.bpb.de/rss-feed/230868.rss
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.bpb.de/rss-feed/325589.rss
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.bpb.de/rss-feed/511378.rss
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.bpb.de/rss-feed/518453.rss
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.bpb.de/rss-feed/203612.rss
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.bpb.de/rss-feed/344517.rss
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://diskriminierung-umfrage.de/feed/

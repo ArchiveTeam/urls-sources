@@ -62,3 +62,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.hcc.gov.mg/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://masrafeyoun.ebi.gov.eg/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://ebi.gov.eg/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://hsi.gov.eg/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://elms-one.gothi.gov.eg/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://elahrarhp.gov.eg/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://banhahp.gov.eg/?feed=rss2

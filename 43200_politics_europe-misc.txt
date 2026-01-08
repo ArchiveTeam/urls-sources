@@ -43,3 +43,16 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://sps.ba/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://npsrs.org/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://socijalisti.ba/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://pomak.ba/?feed=rss2
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://hrsbih.org/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://sbih.ba/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://nasarijec.ba/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://fronta.ba/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.sdp.ba/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://mladi.sds.rs/?feed=rss2
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.sds.rs/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://dodik.net/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://naprijed.ba/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://nes.ba/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.demos-rs.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://bhikf.ba/
+random=RANDOM;all=1;keep_all=1;depth=1;url=hhttps://stanivukovicdrasko.com/

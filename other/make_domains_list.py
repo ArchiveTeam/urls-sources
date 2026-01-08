@@ -87,10 +87,12 @@ if __name__ == '__main__':
         '3600_news_crypto_sites.txt',
         '3600_wikidata_Q1331793_media-company.wikidata.txt',
         '43200_abkhazia.txt',
+        '43200_belarus.txt',
         '43200_ccc+hackspaces.txt',
         '43200_china.txt',
         '43200_demoscene.txt',
         '43200_eu.txt',
+        '43200_forums.txt',
         '43200_georgia.txt',
         '43200_github_GSA_govt-urls.txt',
         '43200_gov2.txt',
@@ -126,6 +128,7 @@ if __name__ == '__main__':
         '43200_wikidata_Q7210356_political-organization.wikidata.txt',
         '43200_wikidata_Q16519632_scientific-organization.wikidata.txt',
         '43200_wikidata_Q101542346_cultural-facility.wikidata.txt',
+        '86400_nolympia.txt',
         '86400_others.txt',
         '604800_ccc.txt'
         '604800_others.txt'

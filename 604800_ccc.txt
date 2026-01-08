@@ -37,3 +37,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://codefor.de/blog/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.codeforniederrhein.de/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://blog.hackeriet.no/feed.xml
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://wiki.hackeriet.no/start?do=recent
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.hacksaar.de/
