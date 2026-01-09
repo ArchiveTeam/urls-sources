@@ -152,3 +152,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://investors.spotify.com/home/de
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://engineering.atspotify.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.opensanctions.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://august.md/novosti/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ai-2027.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://airwars.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://aiboost-project.eu/

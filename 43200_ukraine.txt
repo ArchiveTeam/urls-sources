@@ -134,3 +134,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://zmiev-rayrada.gov.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://alt.zmiev-rayrada.gov.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://alt.zhovkivska-rayrada.gov.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://alt.zhashkiv-osvita.gov.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://land.gov.ua/
