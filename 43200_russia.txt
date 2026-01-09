@@ -31,3 +31,12 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://cfo.gov.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://makeyev.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://terkv.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://dnronline.su/novosti/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ktcr.lpr-reg.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://proverki.gov.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://knd.ac.gov.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://laos.mid.ru/ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://archives.zo.gov.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://avchernov.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://energy.lpr-reg.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://nfsp.ru/?page_id=45
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://vz.ru/

@@ -578,3 +578,15 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://alignment.openai.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://status.openai.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ni.com/en.html
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://community.spotify.com/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://yetkinreport.com/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.infosperber.ch/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://soldat-und-technik.de/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.apotheken-umschau.de/rss/topthemen.xml
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://feeds.feedburner.com/SonicstatecomNews
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://news.uthscsa.edu/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.rote-flora.de/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://hrvatskonebo.org/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.etilaatroz.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://noticias.up.pt/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://defence.hu/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://awarewomenartists.com/

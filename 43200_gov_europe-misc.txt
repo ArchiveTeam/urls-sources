@@ -27,3 +27,10 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.narodnaskupstinars.net/la
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://hnsbih.ba/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.predsjednikrs.rs/sr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.predsjednikrs.rs/en/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.katasztrofavedelem.hu/10417/RSS_hirek
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.katasztrofavedelem.hu/10463/RSS_kozlemenyek
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.katasztrofavedelem.hu/10467/RSS_meghivok
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.katasztrofavedelem.hu/10464/RSS_hattersugarzas
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.katasztrofavedelem.hu/10466/RSS_VESZ
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.katasztrofavedelem.hu/10465/RSS_tuzgyujtasi_tilalom
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.katasztrofavedelem.hu/35825/rss-magazin

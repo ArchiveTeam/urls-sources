@@ -151,3 +151,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://hrblog.spotify.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://investors.spotify.com/home/default.aspx
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://engineering.atspotify.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.opensanctions.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://august.md/novosti/

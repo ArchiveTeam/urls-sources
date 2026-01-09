@@ -56,3 +56,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://nes.ba/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.demos-rs.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://bhikf.ba/
 random=RANDOM;all=1;keep_all=1;depth=1;url=hhttps://stanivukovicdrasko.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://akel.org.cy
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://novinky.jakubvalenta.cz/rss.xml
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.vrijspreker.nl/wp/

@@ -122,3 +122,15 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://polvet.gov.ua/uk/home/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://uamoderna.com/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://privatization.gov.ua/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gym9.ck.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://slv.gov.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://cnap.mlt.gov.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://alt.zvenrda.gov.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://alt.zvenrada.gov.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://alt.zomvo.gov.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://alt.zolorayon.gov.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://alt.zolochiv-rda.gov.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://alt.zol-rayrada.gov.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://zmiev-rayrada.gov.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://alt.zmiev-rayrada.gov.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://alt.zhovkivska-rayrada.gov.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://alt.zhashkiv-osvita.gov.ua/
