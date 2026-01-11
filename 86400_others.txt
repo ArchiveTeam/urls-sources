@@ -490,9 +490,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.neopresse.
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://blackout-news.de/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://apollo-news.net/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.tichyseinblick.de/feed
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://polymarket.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://polymarket.com/breaking
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://polymarket.com/new
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.losreporteros.mx/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://muzeulbucurestiului.ro/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://putereaacincea.ro/feed/

@@ -85,6 +85,7 @@ if __name__ == '__main__':
         '3600_govinfo.txt',
         '3600_medical_research.txt',
         '3600_news_crypto_sites.txt',
+        '3600_others.txt',
         '3600_wikidata_Q1331793_media-company.wikidata.txt',
         '43200_abkhazia.txt',
         '43200_belarus.txt',
