@@ -76,3 +76,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.epd.gov.hk
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.hkfew.org.hk/en/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.mardep.gov.hk/filemanager/en/share/news/rss1.xml
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://rthk.hk/rthk/news/rss/e_expressnews_efinance.xml
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://hub.hku.hk/

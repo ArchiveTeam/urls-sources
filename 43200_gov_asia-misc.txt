@@ -4,3 +4,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://kgd.gov.kz/kk
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://president.az/ru/rss
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://kgd.gov.kz/ru
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://kgd.gov.kz/en
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://moh.gov.bt/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://bfda.gov.bt/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://nisi.kg/

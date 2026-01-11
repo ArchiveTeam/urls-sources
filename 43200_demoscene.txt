@@ -6,3 +6,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.pouet.net/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.demoparty.net/news.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.pouet.net/export/lastbbsposts.rss.php
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.demoparty.net/demoparties.xml
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.genesis8bit.fr/news-fr.rss
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://amstrad.eu/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.fulcrum-demo.org/feed/

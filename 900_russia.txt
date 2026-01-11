@@ -9,3 +9,5 @@ random=RANDOM;all=0;depth=0;url=http://publication.pravo.gov.ru/documents/monthl
 random=RANDOM;all=0;depth=0;url=http://publication.pravo.gov.ru/documents/weekly
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=http://publication.pravo.gov.ru/api/rss?pageSize=200
 random=RANDOM;all=0;depth=0;url=http://publication.pravo.gov.ru/documents/daily?index=1&pageSize=100
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://gazetanovgorod.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://krasnodarmedia.su/
