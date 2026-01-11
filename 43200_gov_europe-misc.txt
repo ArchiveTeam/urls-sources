@@ -34,3 +34,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.katasztrof
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.katasztrofavedelem.hu/10466/RSS_VESZ
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.katasztrofavedelem.hu/10465/RSS_tuzgyujtasi_tilalom
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.katasztrofavedelem.hu/35825/rss-magazin
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://politiaromana.ro/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://hipo.gov.hu/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://hipo.gov.hu/en

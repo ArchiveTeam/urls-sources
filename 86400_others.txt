@@ -589,3 +589,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://defence.hu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://awarewomenartists.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://infrastructuretoday.co.in/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://polygraph.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.santannapisa.it/en
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://fpc.org.uk/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://bgazrt.hu/

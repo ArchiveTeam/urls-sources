@@ -40,3 +40,5 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://avchernov.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://energy.lpr-reg.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://nfsp.ru/?page_id=45
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://vz.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://tvzvezda.ru/news
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://gkecopoldnr.ru/

@@ -155,3 +155,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://august.md/novosti/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://ai-2027.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://airwars.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://aiboost-project.eu/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://budapestdesignweek.hu/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://european-alternatives.eu/latest
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.ahrexpomexico.com/feed/
