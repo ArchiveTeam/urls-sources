@@ -24,3 +24,17 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://c3loc.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://legal.cccv.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ccc.de/de/club/erfas
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://chaosfurs.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://chaostreff-backnang.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://datenburg.org/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://chaostreff-gun.de/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://complb.de/post/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://chaostreff-osnabrueck.de/de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://chaostreff-osnabrueck.de/en/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ccc-p.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://chaoszone.cz/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://chaotikum.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://codefor.de/blog/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.codeforniederrhein.de/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://blog.hackeriet.no/feed.xml
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://wiki.hackeriet.no/start?do=recent
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.hacksaar.de/
