@@ -9,10 +9,13 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://blog.attraktor
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://eventphone.de/blog/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://bornhack.dk/news/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://wiki.ccchb.de/wiki/Spezial:Letzte_%C3%84nderungen
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.chaostreff-dortmund.de/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://wiki.blinkenarea.org/index.php/Special:RecentChanges?hidebots=1&limit=50&days=7&enhanced=1&urlversion=2
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://calendify.com/@CCC/events
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.hacknology.de/index.xml
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://koeln.ccc.de/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://chaostreffbern.ch/feeds/chaosbern_rss.xml
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://labitat.dk/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://events.ccc.de/feed
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://wiki.chaosdorf.de/Special:RecentChanges?hidebots=1&limit=50&days=7&enhanced=1&urlversion=2
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://wiki.c-base.org/dokuwiki/start?do=recent
@@ -21,6 +24,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://ccc-ffm.de/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://port39.de/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://bits-und-baeume.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://wiki.hackerspaces.org/Special:RecentChanges?hidebots=1&limit=50&days=7&enhanced=1&urlversion=2
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://events.hackeriet.no/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://di.day/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://hamburg.ccc.de/blog/index.xml
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://c3re.de/
@@ -30,7 +34,3 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.binary-kit
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://wiki.hackerspaces.org/Special:Log
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://ccc.ac/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.haecksen.org/feed/
-random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://chaostreffbern.ch/feeds/chaosbern_rss.xml
-random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.chaostreff-dortmund.de/feed/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://events.hackeriet.no/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://labitat.dk/

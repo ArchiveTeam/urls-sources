@@ -3,6 +3,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://midiaindependente.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://lille.indymedia.org/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://chicago.indymedia.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://de.indymedia.org/editorialliste
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://de.indymedia.org/RSS/newswire.xml
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://argentina.indymedia.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://nantes.indymedia.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://de.indymedia.org/
@@ -13,4 +14,3 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://barcelona.indymedia.org/newsw
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://athens.indymedia.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://barcelona.indymedia.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.indymedia.nl/
-random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://de.indymedia.org/RSS/newswire.xml

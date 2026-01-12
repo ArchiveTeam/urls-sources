@@ -1,5 +1,5 @@
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://fairspielen.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nolympia-hamburg.de/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://nolympia.berlin/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://nolympia-colonia.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://fairspielen.de/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://nolympia-muenchen.de/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://nolympia.berlin/

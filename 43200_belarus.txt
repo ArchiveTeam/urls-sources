@@ -1,9 +1,9 @@
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://park.bntu.by/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://100ideas.by/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://brpo.by/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://government.gov.by/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://government.gov.by/node/1
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://government.gov.by/en
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://government.gov.by/en/news
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://government.gov.by/be/news
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://government.gov.by/news
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://government.gov.by/en
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://government.gov.by/be/news
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://government.gov.by/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://park.bntu.by/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://government.gov.by/node/1
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://brpo.by/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://government.gov.by/en/news
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://100ideas.by/
