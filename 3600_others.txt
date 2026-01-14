@@ -3,3 +3,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://polymarket.com/breaking
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://polymarket.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://polymarket.com/new
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://radar.cloudflare.com/?dateRange=1d
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://netzpolitik.org/ticker/

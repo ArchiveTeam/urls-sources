@@ -59,3 +59,5 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://svobodny-svet.cz/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.demos-rs.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://bhikf.ba/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://partialibertarianska.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://marxiste.be/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://revolution.scot/

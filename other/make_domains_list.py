@@ -109,6 +109,7 @@ if __name__ == '__main__':
         '43200_govt_urls.txt',
         '43200_hong-kong.txt',
         '43200_iran.txt',
+        '43200_macau.txt',
         '43200_mil.txt',
         '43200_palestine.txt',
         '43200_politics_africa-misc.txt',

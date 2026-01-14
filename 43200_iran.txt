@@ -9,3 +9,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://spreadingjustice.org/fa/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.hra-news.org/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://iranpdp.org/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://iaba.us/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://iran.unfpa.org/

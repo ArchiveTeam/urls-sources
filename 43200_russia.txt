@@ -42,3 +42,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://may9.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://dfo.gov.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://kazaki-40.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://cfo.gov.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://chistopol-rt.ru/

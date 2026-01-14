@@ -158,3 +158,13 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://european-alternatives.eu/late
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.blender.org/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://verbotengut.at/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://calnewport.com/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://zurich.fablab.ch/feed/
+random=RANDOM;all=1;url=https://fablog.zurich.fablab.ch/kalender/kalender.php
+random=RANDOM;all=1;url=https://labmanager.zurich.fablab.ch/kalender/kalender.php
+random=RANDOM;all=1;url=https://www.diako-krankenhaus.de/
+random=RANDOM;all=1;url=https://mixxx.org/news/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.crowdsupply.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.datacenterwatch.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bermenchek.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.socialeurope.eu/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kyivgovtechcentre.org/
