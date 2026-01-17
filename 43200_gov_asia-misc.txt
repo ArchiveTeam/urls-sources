@@ -25,3 +25,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.pmo.gov.pk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://president.gov.pk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://kp.gov.pk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://ajk.gov.pk/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://na.gov.pk/

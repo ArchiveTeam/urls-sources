@@ -3,3 +3,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://jspnepal.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://jdu.org.in/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.marxist.pk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://revolusioner.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://irancpi.net/

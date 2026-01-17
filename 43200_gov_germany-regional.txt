@@ -16,3 +16,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.verkehrsministerkonferenz
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.vermittlungsausschuss.de/SiteGlobals/Functions/RSSFeed/RSSGenerator_PressRelease_VA.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.vermittlungsausschuss.de/SiteGlobals/Functions/RSSFeed/RSSGenerator_Event_VA.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://karriere.niedersachsen.de/Stellenangebote.html?typ=&berufsgruppen=&besoldungsentgeltgruppeIds=&schulabschluss=&plz=&entfernung=&suchwort=
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nilas.niedersachsen.de/portala/browse.tt.html

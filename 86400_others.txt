@@ -609,3 +609,12 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://popularresistance.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.thenewcivilrightsmovement.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.borderreport.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://blog.mozilla.org/en/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://security.paloaltonetworks.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.paloaltonetworks.com/blog/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://events.paloaltonetworks.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://x.ai/news
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://zonaroja.com.mx/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://acropolismultimedios.mx/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://minbane.wordpress.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://healthpolicy-watch.news/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.debrecensun.hu/

@@ -120,6 +120,7 @@ if __name__ == '__main__':
         '43200_politics_other.txt',
         '43200_russia.txt',
         '43200_taiwan.txt',
+        '43200_uganda.txt',
         '43200_ukraine.txt',
         '43200_venezuela.txt',
         '43200_vietnam.txt',

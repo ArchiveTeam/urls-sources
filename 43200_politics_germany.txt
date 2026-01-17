@@ -129,3 +129,10 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://spenden.afd.de
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.fabio-de-masi.de/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://spd-neukirchen-vluyn.de/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.spd-fraktion-nrw.de/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://jan-wenzel-schmidt.de/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://andrebock.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://cdu-seevetal.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cdu-egestorf.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nils-schmid.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cdu-hanstedt.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://cdu-harburg-land.de/

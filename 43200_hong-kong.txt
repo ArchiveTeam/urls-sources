@@ -77,3 +77,15 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.epd.gov.hk
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.hkfew.org.hk/en/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.mardep.gov.hk/filemanager/en/share/news/rss1.xml
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://rthk.hk/rthk/news/rss/e_expressnews_efinance.xml
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cmab.gov.hk/en/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cmab.gov.hk/tc/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cmab.gov.hk/sc/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.elegislation.gov.hk/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.elegislation.gov.hk/?_lang=zh-Hant-HK
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.elegislation.gov.hk/?_lang=sc
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.hkeconomy.gov.hk/tc/home/index.htm
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.hkeconomy.gov.hk/en/home/index.htm
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.hkeconomy.gov.hk/chs/home/index.htm
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.had.gov.hk/en/index.htm
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.had.gov.hk/tc/index.htm
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.had.gov.hk/chs/index.htm
