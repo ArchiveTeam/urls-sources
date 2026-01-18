@@ -1,0 +1,4 @@
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://inuit.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://siumut.gl/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://dk.siumut.gl/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ia.gl/

@@ -175,3 +175,12 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cepa.or.ug/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://democraticfront.ug/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.informationszentrum-mobilfunk.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://investors.paloaltonetworks.com/news-and-events/news-releases
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.dommune.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.madinamerica.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://humanityinaction.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://humanityinaction.org/country/usa/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://humanityinaction.org/country/poland/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://humanityinaction.org/country/the-netherlands/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://humanityinaction.org/country/germany/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://humanityinaction.org/country/denmark/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://humanityinaction.org/country/bosnia-herzegovina/
