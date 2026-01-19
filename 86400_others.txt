@@ -618,3 +618,5 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://acropolismultimedios.mx/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://minbane.wordpress.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://healthpolicy-watch.news/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.debrecensun.hu/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.govloop.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://unpo.org/

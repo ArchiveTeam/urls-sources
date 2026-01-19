@@ -136,3 +136,10 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cdu-egestorf.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nils-schmid.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cdu-hanstedt.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://cdu-harburg-land.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cdu-fraktion-hessen.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.spd-fraktion-hessen.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gruene-hessen.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://fdp-fraktion-hessen.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.spd-hessen.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://das-gruene-internet.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nina-eisenhardt.de/

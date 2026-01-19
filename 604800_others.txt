@@ -184,3 +184,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://humanityinaction.org/country/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://humanityinaction.org/country/germany/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://humanityinaction.org/country/denmark/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://humanityinaction.org/country/bosnia-herzegovina/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ichkeria.net/
