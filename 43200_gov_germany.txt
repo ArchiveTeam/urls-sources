@@ -43,3 +43,15 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.bundesrat.
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.bpb.de/rss-feed/518453.rss
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.lobbyregister.bundestag.de/startseite
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.bpb.de/rss-feed/133222.rss
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://opencode.de/de
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://opencode.de/en
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://opencode.de/en/events
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://opencode.de/de/veranstaltungen
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.zendis.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.zendis.de/en
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.zendis.de/en/career
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.zendis.de/karriere
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.zendis.de/newsroom
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.zendis.de/en/newsroom
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://deutschland-stack.gov.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.allianz-fuer-cybersicherheit.de/Webs/ACS/DE/Home/home_node.html

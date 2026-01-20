@@ -77,3 +77,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://minturizm.apsny.land/ap/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.genproc.apsny.land/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gazeta-ra.info/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://gki.apsny.land/ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://aps-abkhazia.su/

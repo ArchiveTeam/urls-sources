@@ -312,3 +312,13 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://alt.obuhivrda.gov.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://luganskua.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://kupyanska-rda.gov.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://sd.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://j-mama.imi.org.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ch.tax.gov.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://talan.bank.gov.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://bank.gov.ua/ua/news/all
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://bank.gov.ua/en/news/all
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://darg.gov.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://kh-consumer.gov.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ildu.mil.gov.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://militaryland.net/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://sumy.tax.gov.ua/
