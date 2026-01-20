@@ -54,3 +54,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.zendis.de/karriere
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.zendis.de/newsroom
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.zendis.de/en/newsroom
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://deutschland-stack.gov.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.allianz-fuer-cybersicherheit.de/Webs/ACS/DE/Home/home_node.html
