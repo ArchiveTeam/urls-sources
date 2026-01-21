@@ -86,3 +86,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.catacombeditalia.va/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.museopropagandafide.va/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.archiviostoricopropaganda.va/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.santuarioloreto.va/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.yearoffaith.va/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ufn.va/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.cfn.va/
