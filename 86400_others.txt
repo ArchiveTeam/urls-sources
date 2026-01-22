@@ -625,3 +625,11 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://ai.meta.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.deutsche-rentenversicherung.de/DRV/DE/Home/home_node.html
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.oeffentliche-it.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.compactmag.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://news.typo3.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://novonordiskfonden.dk/en/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://novonordiskfonden.dk/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.airandspaceforces.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.freiewelt.net/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.publix.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.coreweave.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://investors.coreweave.com/overview/default.aspx
