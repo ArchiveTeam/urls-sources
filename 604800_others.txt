@@ -188,3 +188,9 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://ichkeria.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://neurips.cc/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://laurensouthern.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://paideia-eu.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://blog.dropbox.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.jugendfuereuropa.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://events.dropbox.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://berlin.askapunk.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://rhine.askapunk.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://eintopf.info/

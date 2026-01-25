@@ -23,3 +23,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://mdfe.brandenburg.de/mdfe/de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.brandenburg.de/de/portal/bb1.c.473964.de
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.it-ausschreibung.de/ausschreibungen
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.niedersachsen.de/startseite/service/presse/presseinformationen/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.landtag.brandenburg.de/de/startseite/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://wahlen.brandenburg.de/wahlen/de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.statistik.bayern.de/presse/mitteilungen/index.html
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.stmi.bayern.de/wahlen-und-abstimmungen/kommunalwahlen/

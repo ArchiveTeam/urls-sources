@@ -10,3 +10,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.xuexi.cn/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.ichongqing.info/feed/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cnr.cn/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://english.cri.cn/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.chinadaily.com.cn/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.chinadailyasia.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://chinaplus.cri.cn/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://ent.chinadaily.com.cn/
