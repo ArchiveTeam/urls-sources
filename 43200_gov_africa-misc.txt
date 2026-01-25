@@ -65,3 +65,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://banhahp.gov.eg
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://nmec.gov.eg/feed/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://aswan.gov.eg/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.hcc.gov.mg/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.african-court.org/wpafc/

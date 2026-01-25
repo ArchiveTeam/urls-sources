@@ -24,3 +24,16 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://govinfohub.go.ug/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://abim.go.ug/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://abudhabi.mofa.go.ug/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://abuja.mofa.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://uac.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://addisababa.mofa.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.agriculture.go.ug/press-releases/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://alebtong.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://algiers.mofa.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ugandainvest.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ucb.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ugandawildlife.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://amudat.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://amuria.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://amuru.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ankara.mofa.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://apac.go.ug/
