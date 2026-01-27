@@ -1,0 +1,4 @@
+#random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://melbournecitygreens.com/feed/
+
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://hotnews.ro/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.euractiv.ro/
