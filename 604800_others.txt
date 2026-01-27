@@ -194,3 +194,14 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://events.dropbox.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://berlin.askapunk.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://rhine.askapunk.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://eintopf.info/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ai.meta.com/blog/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.digicert.com/blog
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://aiforpeaceafrica.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ajenafrica.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://kenya.ai/blog/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://disinfo.africa/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://aiexpoafrica.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.aieverythingkenya.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://aijc.africa/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mmpeacemonitor.org/en/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kofiannanfoundation.org/
