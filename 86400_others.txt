@@ -642,3 +642,13 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://news.zoom.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=uhttps://whistleblowersblog.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://kurdistan-report.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.corporatejetinvestor.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.llama.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.transparencycoalition.ai/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://americaninnovatorsnetwork.com/news/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.technet.org/technet-media/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://blog.palantir.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://nashaniva.com/ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.culturalsurvival.org/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://xchange.org/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://asiasociety.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://kachinnews.com/
