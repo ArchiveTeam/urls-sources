@@ -47,3 +47,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mfachechnya.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://thechechenpress.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://obzor.io/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://epp.genproc.gov.ru/en/gprf/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://rusgencons-erbil.mid.ru/ru/
