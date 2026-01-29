@@ -43,3 +43,5 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://berlin.mofa.go.ug/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://brussels.mofa.go.ug/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://budaka.go.ug/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://bududa.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://buhweju.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://bugweri.go.ug/
