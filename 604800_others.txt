@@ -205,3 +205,5 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.aieverythingkenya.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://aijc.africa/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://mmpeacemonitor.org/en/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kofiannanfoundation.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ajenafrica.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://blog.whatsapp.com/

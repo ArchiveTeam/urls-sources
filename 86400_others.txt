@@ -652,3 +652,10 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.culturalsurvival.org/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://xchange.org/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://asiasociety.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://kachinnews.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ihd.org.tr/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ihd.org.tr/en/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://hntrbrk.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://techpoint.africa/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kurdpress.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.anthropic.com/news
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://proton.me/blog/
