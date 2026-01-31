@@ -14,3 +14,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://blagoevgrad.bsp.bg/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://pleven.bsp.bg/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://m.president.bg/bg/index
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://m.president.bg/en/index
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://rusofili.bg/

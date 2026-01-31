@@ -12,3 +12,15 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://iaba.us/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://iran.unfpa.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://farahpahlavi.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.leader.ir/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://sepahnews.ir/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.sepahnews.ir/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.asriran.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.jahannews.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ettelaat.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.etemadonline.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.entekhab.ir/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.alef.ir/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.borna.news/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://newspaper.hamshahrionline.ir/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://eslahatnews.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mashreghnews.ir/
