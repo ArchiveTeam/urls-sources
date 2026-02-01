@@ -55,3 +55,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://busia.go.ug/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://cscu.go.ug/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.defence.go.ug/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://dei.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://gomba.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://dgsm.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://diasporaaffairs.go.ug/
