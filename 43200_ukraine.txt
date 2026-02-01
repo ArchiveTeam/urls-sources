@@ -356,4 +356,5 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://zp.npu.gov.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://zt.npu.gov.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://ccu.gov.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://dei.gov.ua/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://pidtrymka.mvs.gov.ua
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://pidtrymka.mvs.gov.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://moigorod.od.ua/news
