@@ -58,3 +58,8 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://dei.go.ug/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://gomba.go.ug/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://dgsm.go.ug/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://diasporaaffairs.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.psfuganda.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://cairo.mofa.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://copenhagen.mofa.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://chamberuganda.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://canberra.mofa.go.ug/
