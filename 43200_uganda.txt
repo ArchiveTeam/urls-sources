@@ -63,3 +63,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://cairo.mofa.go.ug/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://copenhagen.mofa.go.ug/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://chamberuganda.go.ug/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://canberra.mofa.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://doha.mofa.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://daressalaam.mofa.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://dpp.go.ug/news/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.education.go.ug/
