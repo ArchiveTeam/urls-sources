@@ -112,6 +112,7 @@ if __name__ == '__main__':
         '43200_greenland.txt',
         '43200_hong-kong.txt',
         '43200_iran.txt',
+        '43200_japan.txt',
         '43200_macau.txt',
         '43200_moldova.txt',
         '43200_mil.txt',

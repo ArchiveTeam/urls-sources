@@ -262,3 +262,5 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.fdp-lsa.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://spdsachsenanhalt.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cdulsa.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://klimaliste0711.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://fdp-oldenburg.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.fdp-fraktion-oldenburg.de/

@@ -56,3 +56,5 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://psyrus.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://rao.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://kremlinpalace.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://rosvois.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://izborsk-club.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://nstarikov.ru/
