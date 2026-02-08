@@ -209,3 +209,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://ajenafrica.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://blog.whatsapp.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://blog.ecosia.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.haiku-os.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://pvorussia.ru/
