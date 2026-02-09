@@ -89,3 +89,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.hkeconomy.gov.hk/chs/home
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.had.gov.hk/en/index.htm
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.had.gov.hk/tc/index.htm
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.had.gov.hk/chs/index.htm
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.hkreaders.com/

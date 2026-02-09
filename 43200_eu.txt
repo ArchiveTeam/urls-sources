@@ -4,3 +4,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://ec.europa.eu/transparency/exp
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.eppwomen.eu/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=view-source:https://commission.europa.eu/node/45170/rss_en
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://commission.europa.eu/index_en
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://manuela-ripa.eu/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.eppgroup.eu/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.eufunds.bg/

@@ -55,3 +55,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.zendis.de/newsroom
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.zendis.de/en/newsroom
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://deutschland-stack.gov.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.allianz-fuer-cybersicherheit.de/Webs/ACS/DE/Home/home_node.html
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.opendesk.eu/de
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bundeswahlleiterin.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.forschung-it-sicherheit-kommunikationssysteme.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bmftr.bund.de/DE/Home/home_node.html

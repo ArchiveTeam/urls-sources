@@ -46,3 +46,15 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://chistopol-rt.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mfachechnya.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://thechechenpress.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://obzor.io/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://epp.genproc.gov.ru/en/gprf/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://rusgencons-erbil.mid.ru/ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://nvo.ng.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.russiapost.su/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://psy.su/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://denis-pushilin.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://psyrus.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://rao.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://kremlinpalace.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://rosvois.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://izborsk-club.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://nstarikov.ru/
