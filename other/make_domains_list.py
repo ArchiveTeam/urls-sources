@@ -128,6 +128,7 @@ if __name__ == '__main__':
         '43200_romania.txt',
         '43200_russia.txt',
         '43200_taiwan.txt',
+        '43200_thailand.txt',
         '43200_transnistria.txt',
         '43200_uganda.txt',
         '43200_ukraine.txt',
