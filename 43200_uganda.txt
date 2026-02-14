@@ -70,3 +70,11 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.education.go.ug/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.eoc.go.ug/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.era.go.ug/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://fia.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://gomba.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://grow.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://hmu.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://geneva.mofa.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://guangzhou.mofa.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://hoima.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://hoimacity.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ict.go.ug/

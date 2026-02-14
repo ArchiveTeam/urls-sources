@@ -48,3 +48,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.frontiermyanmar.net/en/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://zogam.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://mminsurance.gov.mm/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://mrtv.gov.mm/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://burmese.monnews.org/
