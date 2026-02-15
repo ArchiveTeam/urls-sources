@@ -78,3 +78,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://guangzhou.mofa.go.ug/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://hoima.go.ug/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://hoimacity.go.ug/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://ict.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://iganga.go.ug/
