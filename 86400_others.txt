@@ -671,3 +671,9 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://fafen.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://shafaq.com/en
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://shafaq.com/ku
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://shafaq.com/ar
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://tuit.uz/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://actualitati.md/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://attaque.noblogs.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://darknights.noblogs.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://warzonedistro.noblogs.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://affverzet.wordpress.com/
