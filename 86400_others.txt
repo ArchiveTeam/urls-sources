@@ -677,3 +677,8 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://attaque.noblogs.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://darknights.noblogs.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://warzonedistro.noblogs.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://affverzet.wordpress.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://lanemesi.noblogs.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://europeanleadershipnetwork.org/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.globaldefensecorp.com/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://centrasia.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://endoflife.date/
