@@ -22,3 +22,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://courts.gov.ps/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.courts.gov.ps/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://dftp.gov.ps/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://gafyc.gov.ps/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://prisonersforpalestine.org/
