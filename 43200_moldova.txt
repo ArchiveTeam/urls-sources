@@ -5,3 +5,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://gov.md/ru
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://politia.md/ro
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://politia.md/en
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://politia.md/ru
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://moldovalive.md/
