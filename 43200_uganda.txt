@@ -86,3 +86,10 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://invite.go.ug/f
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://ira.go.ug/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://ugandabankers.org/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.parliament.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://jsc.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://judiciary.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://kabale.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://juba.mofa.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://kabarole.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://kagadi.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kakumiro.go.ug/

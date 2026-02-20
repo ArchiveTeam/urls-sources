@@ -682,3 +682,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://europeanleadershipnetwork.org
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.globaldefensecorp.com/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://centrasia.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://endoflife.date/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://76crimes.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://anwaltverein.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.thehandbasket.co/
