@@ -61,3 +61,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://nstarikov.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://rvio.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://special.roscosmos.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://nomad.su/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://zema.su/
