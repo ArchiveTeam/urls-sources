@@ -35,3 +35,4 @@ random=RANDOM;deep_extract=1;url=https://www2.uibk.ac.at/downloads/c115/zeit/zei
 random=RANDOM;deep_extract=1;url=https://sfconservancy.org/casts/the-corresponding-source/feeds/mp3/
 random=RANDOM;deep_extract=1;url=https://www.wrint.de/category/zum_thema/feed/
 random=RANDOM;deep_extract=1;url=https://erdeumwelt.podigee.io/feed/mp3
+random=RANDOM;deep_extract=1;url=https://podcast.play.date/index.xml
