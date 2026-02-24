@@ -28,3 +28,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://wahlen.brandenburg.de/wahlen/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.statistik.bayern.de/presse/mitteilungen/index.html
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.stmi.bayern.de/wahlen-und-abstimmungen/kommunalwahlen/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://ratsinfo.dresden.de/info.asp
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nsgb.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.zukunftniedersachsen.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kulturstiftung-des-bundes.de/

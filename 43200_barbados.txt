@@ -11,3 +11,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://uppbarbados.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.foreign.gov.bb/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://pmo.gov.bb/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://energy.gov.bb/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://lescbarbados.com/

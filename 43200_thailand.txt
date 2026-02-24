@@ -29,3 +29,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.rakchart.or.th/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://landofdharmaparty.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://fair-party.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ntpp.or.th/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.coffeeparliament.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://thailand.prd.go.th/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bangkokbiznews.com/
