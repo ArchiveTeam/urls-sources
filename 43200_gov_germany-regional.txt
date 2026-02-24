@@ -21,3 +21,5 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://hessischer-landtag.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://starweb.hessen.de/portal/browse.tt.html
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://mdfe.brandenburg.de/mdfe/de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.brandenburg.de/de/portal/bb1.c.473964.de
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.it-ausschreibung.de/ausschreibungen
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.niedersachsen.de/startseite/service/presse/presseinformationen/

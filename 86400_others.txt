@@ -628,3 +628,11 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.compactmag.com/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://badges.vencord.dev/badges.json
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://annas-archive.gl/dyn/torrents.json
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://annas-archive.li/dyn/torrents.json
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://news.typo3.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://novonordiskfonden.dk/en/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://novonordiskfonden.dk/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.airandspaceforces.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.freiewelt.net/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.publix.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.coreweave.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://investors.coreweave.com/overview/default.aspx
