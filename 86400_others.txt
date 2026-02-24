@@ -626,3 +626,5 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.deutsche-rentenversicheru
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.oeffentliche-it.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.compactmag.com/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://badges.vencord.dev/badges.json
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://annas-archive.gl/dyn/torrents.json
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://annas-archive.li/dyn/torrents.json
