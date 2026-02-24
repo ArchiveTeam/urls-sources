@@ -95,3 +95,8 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://kagadi.go.ug/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kakumiro.go.ug/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://kalangala.go.ug/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://kaliro.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://kalungu.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://kamuli.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://kanungu.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://kapchorwa.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://kapelebyong.go.ug/
