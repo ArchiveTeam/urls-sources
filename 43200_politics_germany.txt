@@ -143,3 +143,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://fdp-fraktion-hessen.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.spd-hessen.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://das-gruene-internet.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nina-eisenhardt.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://cdultnds.de/aktuelles/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://spd-fraktion-niedersachsen.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gruene-bw.de/

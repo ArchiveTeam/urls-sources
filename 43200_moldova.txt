@@ -1,0 +1,7 @@
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.procuratura.md/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://gov.md/ro
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://gov.md/en
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://gov.md/ru
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://politia.md/ro
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://politia.md/en
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://politia.md/ru
