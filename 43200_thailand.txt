@@ -32,3 +32,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ntpp.or.th/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.coffeeparliament.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://thailand.prd.go.th/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bangkokbiznews.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.thaipbs.or.th/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://world.thaipbs.or.th/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://policywatch.thaipbs.or.th/

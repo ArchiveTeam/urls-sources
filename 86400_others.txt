@@ -691,3 +691,8 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.thehandbasket.co/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://thecitypaperbogota.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://uebermorgen-programm.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://claude.com/blog/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.itebo.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://moderndiplomacy.eu/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.generonumero.media/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://bezcenzure.hr/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://decode.thaipbs.or.th/

@@ -65,3 +65,13 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://zema.su/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://berezniki.su/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.zaprava.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://rvs.su/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.jw-russia.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://taganrogprav.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.forum-mil.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://rassvet-party.info/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://history.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://kaliningradtoday.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://gnicpm.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://rospatriotcentr.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://onlinespb.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://prosvet.su/

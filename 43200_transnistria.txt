@@ -31,3 +31,12 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://benderygs.gospmr.org/?cat=4
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://imushestvo.gospmr.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://kladr.warn.gospmr.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://obnovlenie.info/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mid.gospmr.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://minzdrav.gospmr.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://russia.gospmr.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://alania-pmr.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://konkurs-drujba.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.abkhazia-pmr.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://government.gospmr.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://okk.gospmr.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://pravopmr.ru/
