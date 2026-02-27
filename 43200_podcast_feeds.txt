@@ -36,3 +36,10 @@ random=RANDOM;deep_extract=1;url=https://sfconservancy.org/casts/the-correspondi
 random=RANDOM;deep_extract=1;url=https://www.wrint.de/category/zum_thema/feed/
 random=RANDOM;deep_extract=1;url=https://erdeumwelt.podigee.io/feed/mp3
 random=RANDOM;deep_extract=1;url=https://podcast.play.date/index.xml
+random=RANDOM;deep_extract=1;url=https://freakshow.fm/feed/mp3
+random=RANDOM;deep_extract=1;url=https://das-sendezentrum.de/feed/m4a/
+random=RANDOM;deep_extract=1;url=https://forschergeist.de/feed/m4a/
+random=RANDOM;deep_extract=1;url=https://raumzeit-podcast.de/feed/mp3/
+random=RANDOM;deep_extract=1;url=https://lexfridman.com/feed/podcast/
+random=RANDOM;deep_extract=1;url=https://damals-tm-podcast.de/?feed=damalstm-mp3
+random=RANDOM;deep_extract=1;url=https://feeds.megaphone.fm/TBIEA4386204774
