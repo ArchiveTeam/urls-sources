@@ -1,0 +1,1 @@
+random=RANDOM;url=https://ziglang.org/download/community-mirrors.txt
