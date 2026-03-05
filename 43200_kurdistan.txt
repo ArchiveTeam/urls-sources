@@ -1,0 +1,13 @@
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://pdki.org/english/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://pazadik.net/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://pjak.net/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.sazmanixebat.com/kurdi/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.sazmanixebat.com/english/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.sazmanixebat.com/farsi/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.komalainternational.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.lawan.info/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.komala.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.komala.org/fa
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.komala.org/en
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.komala.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://komalah.org/

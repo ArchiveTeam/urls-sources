@@ -231,7 +231,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.fw-bayern.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://bayernspd.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gruene-bayern.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.csu.de/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gruene-bw.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cdu-bw.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.spd-bw.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.fdpbw.de/
@@ -264,3 +263,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cdulsa.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://klimaliste0711.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://fdp-oldenburg.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.fdp-fraktion-oldenburg.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://die-heimat.de/aktuelles/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gar-bw.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.fuerslaendleinberlin.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://cdufraktion-bw.de/
