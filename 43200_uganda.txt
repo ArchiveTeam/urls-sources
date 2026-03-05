@@ -135,3 +135,8 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://manafwa.go.ug/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://maracha.go.ug/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://masakacity.go.ug/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://masindi.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mbale.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mayugetc.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mbalecity.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://op.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mbararacity.go.ug/
