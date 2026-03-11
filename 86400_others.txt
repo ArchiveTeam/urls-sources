@@ -697,3 +697,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.generonumero.media/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://bezcenzure.hr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://decode.thaipbs.or.th/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://aimnews.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://impactalpha.com/

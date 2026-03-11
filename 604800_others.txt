@@ -217,3 +217,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.forschungsnetzwerk-anonym
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://schwarz-digits.de/presse
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://blog.westerndigital.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.european-police.eu/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://omidyar.com/latest-updates/
