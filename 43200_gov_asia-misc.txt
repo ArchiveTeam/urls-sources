@@ -34,3 +34,9 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://bpppa.gob.pk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.airforce.lk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://arg.gov.af/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://tdap.gov.pk/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mof.portal.gov.bd/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mof.gov.bd/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://emrd.gov.bd/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.emrddashboard.gov.bd/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.erd.gov.lk/index.php?lang=en
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://energymin.gov.lk/index.php/main/

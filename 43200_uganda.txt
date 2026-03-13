@@ -140,3 +140,5 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://mayugetc.go.ug/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://mbalecity.go.ug/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://op.go.ug/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://mbararacity.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mglsd.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mia.go.ug/

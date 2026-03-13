@@ -698,3 +698,12 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://bezcenzure.hr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://decode.thaipbs.or.th/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://aimnews.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://impactalpha.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mppn.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.chevron.com/newsroom
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.grammarly.com/blog/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://superhuman.com/press
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.db.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://investor-relations.db.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bnpparibas.de/en/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://group.bnpparibas/en/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://schwarz-digits.de/en/presse
