@@ -95,6 +95,7 @@ if __name__ == '__main__':
         '43200_bulgaria.txt',
         '43200_ccc+hackspaces.txt',
         '43200_china.txt',
+        '43200_colombia.txt',
         '43200_demoscene.txt',
         '43200_eu.txt',
         '43200_forums.txt',
