@@ -1,0 +1,4 @@
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.foreignaffairs.gov.fj/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://judiciary.gov.fj/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.justice.gov.fj/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.rbf.gov.fj/

@@ -1,0 +1,17 @@
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://prachanda.com.np/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://cpnmc.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://nepalicongress.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://rspnepal.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://rpp.org.np/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://janamatparty.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://peoplesocialist.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://karnali.gov.np/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://lsp.org.np/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ehimalayatimes.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://nwpp.org.np/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.rastriyajanamorcha.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ajp.org.np/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://kathmandupost.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ssparty.org.np/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.unp.org.np/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://rastriyamuktipartynepal.org/
