@@ -1,0 +1,6 @@
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ccop.gov.la/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://na.gov.la/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mod.gov.la/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mps.gov.la/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.laoofficialgazette.gov.la/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mpt.gov.la/
