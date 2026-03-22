@@ -20,3 +20,9 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.finance.gov.lb/ar-lb
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.general-security.gov.lb/ar/activities/gm
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://ghobeiry.gov.lb/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://institutdesfinances.gov.lb/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://litani.gov.lb/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://lp.gov.lb/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://lpdc.gov.lb/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ministryinfo.gov.lb/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://moim.gov.lb/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://moph.gov.lb/

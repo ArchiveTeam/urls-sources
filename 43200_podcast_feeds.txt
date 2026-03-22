@@ -43,3 +43,4 @@ random=RANDOM;deep_extract=1;url=https://raumzeit-podcast.de/feed/mp3/
 random=RANDOM;deep_extract=1;url=https://lexfridman.com/feed/podcast/
 random=RANDOM;deep_extract=1;url=https://damals-tm-podcast.de/?feed=damalstm-mp3
 random=RANDOM;deep_extract=1;url=https://feeds.megaphone.fm/TBIEA4386204774
+random=RANDOM;deep_extract=1;url=https://api.substack.com/feed/podcast/462466.rss

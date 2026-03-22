@@ -298,3 +298,9 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.fdp-muenchen-nord.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://julis-bw.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://julis.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gruene-muenchen.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://cdu-fraktion-rlp.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.fdp-fraktion-rlp.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.spdfraktion-rlp.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gruene-fraktion-rlp.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.junge-union-rlp.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://julisrlp.de/

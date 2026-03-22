@@ -713,3 +713,5 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://mustafazahidi.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://defence-industry.eu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://thepaymentsassociation.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://action.freespeechcoalition.com/age-verification-bills/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://greenberetpac.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://nvidianews.nvidia.com/

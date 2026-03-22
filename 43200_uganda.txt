@@ -143,3 +143,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://mbararacity.go.ug/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://mglsd.go.ug/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://mia.go.ug/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://mlhud.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://msabagabo.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mswnh.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mubende.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mukonomunicipalcouncil.go.ug/

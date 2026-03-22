@@ -1,0 +1,9 @@
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.miniszterelnok.hu/en/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.miniszterelnok.hu/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.fidesz.hu/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.semjenzsolt.hu/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.parlament.hu/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.parlament.hu/en/web/house-of-the-national-assembly
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://kdnp.hu/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://dkp.hu/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mszp.hu/
