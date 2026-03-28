@@ -367,3 +367,12 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://eu-ua.kmu.gov.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://eu-ua.kmu.gov.ua/en/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.molfar.institute/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.molfar.institute/en/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://kostopil-rada.gov.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://dream.gov.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://milomb.gov.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://dcz.gov.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mkrada.gov.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.oschadbank.ua/news
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://dpss.gov.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://dpss.gov.ua/en
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.razomforukraine.org/

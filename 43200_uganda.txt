@@ -151,3 +151,10 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://mwe.go.ug/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://nagrc.go.ug
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://nairobi.mofa.go.ug/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://nakasongola.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://nbrb.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ncdc.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ncs.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://newyork.mofa.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ntoroko.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://nwoya.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://owc.go.ug/

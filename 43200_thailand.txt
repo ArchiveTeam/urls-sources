@@ -35,3 +35,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bangkokbiznews.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.thaipbs.or.th/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://world.thaipbs.or.th/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://policywatch.thaipbs.or.th/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://info.mfa.go.th/

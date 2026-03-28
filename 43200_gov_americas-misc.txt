@@ -11,3 +11,5 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://health.gov.gy/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gacetaoficial.gob.cu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.fgr.gob.cu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.presidencia.gob.cu/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://factchecking.jne.gob.pe/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://congresohidalgo.gob.mx/

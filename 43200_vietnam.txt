@@ -10,3 +10,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://english.hochiminh.vn/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://ru-dangcongsan.nhandan.vn/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://es-dangcongsan.nhandan.vn/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.tapchicongsan.org.vn/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://vtcnews.vn/

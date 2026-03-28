@@ -29,3 +29,8 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.delegptpse.eu/www/
 random=RANDOM;all=1;keep_all=1;depth=1;url=hhttps://premiomariosoares.delegptpse.eu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cdu.pt/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://cidadehoje.sapo.pt/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://diariocriminal.sapo.pt/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://noticiasdacovilha.pt/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://diariodabairrada.sapo.pt/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://diariodistrito.sapo.pt/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://eco.sapo.pt/
