@@ -26,3 +26,14 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://lpdc.gov.lb/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://ministryinfo.gov.lb/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://moim.gov.lb/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://moph.gov.lb/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mouwahidoundruze.gov.lb/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mpt.gov.lb/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://nacc.gov.lb/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://nna-leb.gov.lb/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://uat.moysdigitalplatform.gov.lb/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://web.vte.gov.lb/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cib.gov.lb/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cnss.gov.lb/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://en.dgo.gov.lb/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.radioliban.gov.lb/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://fr.radioliban.gov.lb/

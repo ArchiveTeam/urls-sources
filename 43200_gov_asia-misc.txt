@@ -40,3 +40,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://energymin.gov.lk/index.php/ma
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.energy.gov.lk/en/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.energy.gov.lk/si/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.energy.gov.lk/ta/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://doe.gov.ph/

@@ -7,3 +7,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.parlament.hu/en/web/house
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://kdnp.hu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://dkp.hu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://mszp.hu/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://miniszterelnok.hu/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://miniszterelnok.hu/en/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://legyelavaltozas.hu/

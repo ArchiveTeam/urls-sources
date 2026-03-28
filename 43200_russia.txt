@@ -82,3 +82,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://trdoblest.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://npr.su/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://ассоциациятуризм.рф/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://milportal.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://фондкультурныхинициатив.рф/

@@ -18,3 +18,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.zdravadruzba.si/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://prerod.si/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.zeleni.si/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://suvereni.si/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.sms.si/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://slovenskaskupnost.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://voltslovenija.org/
