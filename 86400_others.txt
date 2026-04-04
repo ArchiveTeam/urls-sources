@@ -713,3 +713,13 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://mustafazahidi.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://defence-industry.eu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://thepaymentsassociation.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://action.freespeechcoalition.com/age-verification-bills/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://greenberetpac.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://nvidianews.nvidia.com/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://thehagueonline.com/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.whatsonweibo.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://blog.ui.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://antisemitism.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://balticreporter.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kfa-eh.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://garryslist.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.military.africa/

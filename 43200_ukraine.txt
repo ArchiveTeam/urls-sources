@@ -362,3 +362,8 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://kyivtest.org.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://nmc-vfpo.gov.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://info.edbo.gov.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.inforesurs.gov.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://bucha-rada.gov.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://eu-ua.kmu.gov.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://eu-ua.kmu.gov.ua/en/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.molfar.institute/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.molfar.institute/en/

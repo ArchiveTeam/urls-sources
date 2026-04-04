@@ -20,3 +20,16 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://cige.gov.krd/ar
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.erbil.gov.krd/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://france.gov.krd/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://journal.ka.gov.krd/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://krso.gov.krd/ku/news
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://krso.gov.krd/ar/news
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://krso.gov.krd/en/news
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://presidency.gov.krd/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://raparin.gov.krd/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://slemani.gov.krd/so/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://slemani.gov.krd/ar/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://soran.gov.krd/en/news
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://soran.gov.krd/hewal
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://spain.gov.krd/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.parliament.krd/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://uk.gov.krd/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://us.gov.krd/
