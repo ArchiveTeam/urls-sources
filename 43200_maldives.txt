@@ -1,0 +1,12 @@
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://elections.gov.mv/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://elections.gov.mv/en
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://presidency.gov.mv/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mda.mv/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://gazette.gov.mv/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://maldivesvoice.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://agoffice.gov.mv/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://agoffice.gov.mv/en
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://jumhooree.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.adhaalath.org.mv/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mdp.org.mv/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mdp.org.mv/en

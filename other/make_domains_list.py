@@ -122,6 +122,7 @@ if __name__ == '__main__':
         '43200_laos.txt',
         '43200_lebanon.txt',
         '43200_macau.txt',
+        '43200_maldives.txt',
         '43200_moldova.txt',
         '43200_mil.txt',
         '43200_myanmar.txt',
