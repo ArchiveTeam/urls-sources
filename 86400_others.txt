@@ -724,3 +724,8 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kfa-eh.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://garryslist.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.military.africa/
 random=RANDOM;all=1;keep_all=1;depth=1;any_domain=1;url=https://red.anthropic.com/2026/mythos-preview/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.roblox.com/sitemap-games-1.xml
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.roblox.com/sitemap-games-2.xml
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.roblox.com/sitemap-games-3.xml
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.roblox.com/sitemap-games-4.xml
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.roblox.com/sitemap-games-5.xml
