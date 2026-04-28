@@ -158,3 +158,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://newyork.mofa.go.ug/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://ntoroko.go.ug/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://nwoya.go.ug/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://owc.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://paris.mofa.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://npa.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://pdpo.go.ug/
