@@ -88,6 +88,7 @@ if __name__ == '__main__':
         '3600_others.txt',
         '3600_wikidata_Q1331793_media-company.wikidata.txt',
         '43200_abkhazia.txt',
+        '43200_antigua+barbuda.txt',
         '43200_australia+oceania.txt',
         '43200_bangladesh.txt',
         '43200_barbados.txt',
