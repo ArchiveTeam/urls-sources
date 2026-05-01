@@ -778,3 +778,13 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://security.paloaltonetworks.com
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.demokratie-leben.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://press.siemens.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://lacipres.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://tanakra.net/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.apm-azawad.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://islandpressbox.com/
+random=RANDOM;all=1;url=https://mrshu.github.io/github-statuses/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://auftrag-select.com/notices
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mach.de/de
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.prensa-latina.cu/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.aip.ci/
+random=RANDOM;all=1;url=https://days-since-openclaw-cve.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://blog.python.org/

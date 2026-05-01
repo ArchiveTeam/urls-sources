@@ -376,3 +376,5 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.oschadbank.ua/news
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://dpss.gov.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://dpss.gov.ua/en
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.razomforukraine.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://war-sanctions.gur.gov.ua/news
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.lvivherald.com/

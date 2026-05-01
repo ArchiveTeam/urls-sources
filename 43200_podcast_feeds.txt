@@ -73,3 +73,7 @@ random=RANDOM;deep_extract=1;url=https://egovernment-podcast.com/feed/aac/
 random=RANDOM;deep_extract=1;url=https://anchor.fm/s/440483e8/podcast/rss
 random=RANDOM;deep_extract=1;url=https://hybr.de/feed/mp3/
 random=RANDOM;deep_extract=1;url=https://linuxmatters.sh/episode/index.xml
+random=RANDOM;deep_extract=1;url=https://feeds.lagedernation.org/feeds/cbn-mp3.xml
+random=RANDOM;deep_extract=1;url=https://anchor.fm/s/111c8b434/podcast/rss
+random=RANDOM;deep_extract=1;url=https://www.wfmu.org/podcast/TD.xml
+random=RANDOM;deep_extract=1;url=https://anchor.fm/s/10ee44c10/podcast/rss

@@ -31,3 +31,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.drnh.gov.tw/?Lang=zh-tw
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.drnh.gov.tw/?Lang=en
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.hcshb.gov.tw/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://alerts.ncdr.nat.gov.tw/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://health.kcg.gov.tw/

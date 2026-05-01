@@ -28,3 +28,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://ppnacia.eu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://nepokornabalgaria.bg/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://partianazelenite.bg/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://progresivnabulgaria.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://cpdp.bg/

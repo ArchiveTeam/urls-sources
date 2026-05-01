@@ -250,3 +250,8 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://blog.univie.ac.at/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.marketlinks.bg/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://digitalgroundgame.org/blog
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.globaldetentionproject.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.allamericanspeakers.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cassoa.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.rightscon.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.rock-am-ring.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.metabunk.org/

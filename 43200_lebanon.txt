@@ -39,3 +39,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.radioliban.gov.lb/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://fr.radioliban.gov.lb/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.tarchich.gov.lb/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.councilforsouth.gov.lb/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.lebanese-forces.com/

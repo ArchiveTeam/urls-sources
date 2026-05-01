@@ -25,3 +25,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://gafyc.gov.ps/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://prisonersforpalestine.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://anarchists4palestine.noblogs.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://handala-redwanted.ps/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://freedomflotilla.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.urgencepalestine.ch/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://al-awdapalestine.org/

@@ -46,3 +46,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://blog.freieslabor.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://chemnitzer.linux-tage.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://blog.selfnet.de/en/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://blog.emfcamp.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://events.diday.org/
