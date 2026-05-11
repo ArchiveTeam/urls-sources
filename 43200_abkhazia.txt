@@ -9,6 +9,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://asra.apsny.land/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.sgb.apsny.land/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.asra.apsny.land/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://abkhazinform.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://aps-abkhazia.su/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.csya.ge/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://apsadgil.info/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ochamchira.apsny.land/
@@ -52,6 +53,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.repatriate.apsny.land/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://repatriate.apsny.land/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://gazeta-ra.info/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://абхазия.рф/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://genproc.apsny.land/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://minselhoz.apsny.land/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://gms.apsny.land/ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://abkhazworld.com/aw/
@@ -74,9 +76,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://minturizm.apsny.land/ap/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://kpra.apsny.land/ap/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.apsnypress.info/ru/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://gms.apsny.land/ap/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.genproc.apsny.land/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.genproc.apsny.land/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gazeta-ra.info/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://gki.apsny.land/ru/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://aps-abkhazia.su/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://genproc.apsny.land/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://apsua.tv/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://apsua.tv/

@@ -8,6 +8,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://praha.pirati.cz/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.50pluspartij.nl/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://nes.ba/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://mladi.sds.rs/?feed=rss2
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://revolution.scot/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://pirati.cz/feeds/atom
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.pl.md/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://akel.org.cy
@@ -18,6 +19,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://meerdirectedem
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://rights-liberties-justice.uk/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://piraten.lu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.vitekzprcice.cz/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://marxiste.be/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://spd.cz/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.doorbraak.eu/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://sps.ba/feed/
@@ -26,6 +28,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=hhttps://stanivukovicdrasko.com/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://socijalisti.ba/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://naprijed.ba/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://nasarijec.ba/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://cyprusgreens.org/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://novinky.jakubvalenta.cz/rss.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://ionceban.md/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://arnhem.vvd.nl/
@@ -38,10 +41,14 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://pdabih.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://ciprianciucu.ro/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.christenunie.nl/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://jsmelevice.cz/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.pvv.nl/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://amsterdam.piratenpartij.nl/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.tdpkibris.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.pbp.ie/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://fronta.ba/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.antoine-valentin.fr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://arnhem.pvv.nl/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://lesrepublicainsauvergnerhonealpes.fr/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://nebojsavukanovic.info/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://npsrs.org/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://hrsbih.org/feed/
@@ -56,10 +63,3 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://svobodny-svet.cz/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.demos-rs.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://bhikf.ba/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://partialibertarianska.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://marxiste.be/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://revolution.scot/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://cyprusgreens.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.antoine-valentin.fr/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://lesrepublicainsauvergnerhonealpes.fr/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.pvv.nl/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.tdpkibris.org/

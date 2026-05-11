@@ -495,7 +495,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://veterinaryonco
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.sciopen.com/journal/rss/2576-2508
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nature.com/bjcreports
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.sciopen.com/journal/rss/2398-7294
-random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://molecularneurodegeneration.biomedcentral.com/articles/most-recent/rss.xml
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://molecularneurodegeneration.biomedcentral.com/articles/most-recent/rss.xml
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nature.com/npjscifood
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nature.com/commsbio
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.sciopen.com/journal/rss/2096-5958

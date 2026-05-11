@@ -1,7 +1,9 @@
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://mfa.gov.ge/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.interpressnews.ge/en/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://rustavi.gov.ge/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://info9.ge/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://treasury.ge/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mdfgeorgia.ge/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://matsne.gov.ge/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://netgazeti.ge/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://pog.gov.ge/
@@ -25,5 +27,3 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.economy.ge/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.abkhazia.gov.ge/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://pifc.gov.ge/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://iec.gov.ge/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://mdfgeorgia.ge/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://info9.ge/

@@ -1,11 +1,13 @@
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://rrn.world/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://prozorro.gov.ua/uk/search/tender?text=
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://status.cloud.microsoft/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.syriahr.com/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.cgtn.com/subscribe/rss/section/tech-sci.xml
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.syriahr.com/en/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://rojevakurd.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kurdistan24.net/en
-random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.cgtn.com/subscribe/rss/section/business.xml
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.cgtn.com/subscribe/rss/section/business.xml
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://connectivity.office.com/status
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.cgtn.com/subscribe/rss/section/travel.xml
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.aljazeera.com/xml/rss/all.xml
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.evergabe-online.de/search.html?4&publishDateRange=ALL
@@ -19,9 +21,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://ted.europa.eu/en/search/resul
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://serbiantimes.info/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.cgtn.com/subscribe/rss/section/china.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.cgtn.com/subscribe/rss/section/gstringer.xml
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.githubstatus.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.cgtn.com/subscribe/rss/section/opinion.xml
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://serbiantimes.info/en/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.cgtn.com/subscribe/rss/section/culture.xml
-random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://status.cloud.microsoft/
-random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://connectivity.office.com/status
-random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.githubstatus.com/
