@@ -14,3 +14,8 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.chinadaily.com.cn/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.chinadailyasia.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://chinaplus.cri.cn/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://ent.chinadaily.com.cn/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.rednet.cn/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.stats.gov.cn/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.stats.gov.cn/english/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://jtyst.xinjiang.gov.cn/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.hunan.gov.cn

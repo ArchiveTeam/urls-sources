@@ -67,3 +67,5 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.hcc.gov.mg/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.african-court.org/wpafc/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://mof.gov.eg/en/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.petroleum.gov.eg/en/Pages/HomePage.aspx
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cena.bj/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://judiciaryzambia.com/

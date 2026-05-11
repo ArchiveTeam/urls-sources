@@ -83,3 +83,11 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://npr.su/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://ассоциациятуризм.рф/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://milportal.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://фондкультурныхинициатив.рф/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://foto.patriarchia.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ruskline.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ato.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://kaliningradfirst.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://africancorpus.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://minobrnauki.gov.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://org.gnicpm.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.moypolk.ru/
