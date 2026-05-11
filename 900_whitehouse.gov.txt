@@ -55,3 +55,6 @@ all=1;deep_extract=1;random=RANDOM;depth=1;keep_random=0;keep_all=1;any_domain=1
 all=1;deep_extract=1;random=RANDOM;depth=1;keep_random=0;keep_all=1;any_domain=1;https://www.whitehouse.gov/wp-json/whitehouse/v1/social/tiktok
 all=1;deep_extract=1;random=RANDOM;depth=1;keep_random=0;keep_all=1;any_domain=1;https://www.whitehouse.gov/wp-json/whitehouse/v1/social/facebook
 all=1;deep_extract=1;random=RANDOM;depth=1;keep_random=0;keep_all=1;any_domain=1;https://www.whitehouse.gov/wp-json/whitehouse/v1/social/instagram
+all=1;deep_extract=1;random=RANDOM;depth=1;keep_random=0;keep_all=1;any_domain=1;https://www.whitehouse.gov/wp-json/whitehouse/v1/social/linkedin
+all=1;deep_extract=1;random=RANDOM;depth=1;keep_random=0;keep_all=1;any_domain=1;https://www.whitehouse.gov/wp-json/whitehouse/v1/inbox-messages
+all=1;deep_extract=1;random=RANDOM;depth=1;keep_random=0;keep_all=1;any_domain=1;https://www.whitehouse.gov/wp-json/whitehouse/v1/polls
