@@ -132,7 +132,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.ellak.g
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.kernel.org/rss20.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet-im.com/rss20.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.freegamedev.net/feed/
-random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.ubuntu.com/rss20.xml
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planet.ubuntu.com/feed.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://de.planet.wikimedia.org/rss20.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://planete.april.org/rss20.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://ru.planet.wikimedia.org/rss20.xml
