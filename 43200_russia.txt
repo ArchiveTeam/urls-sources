@@ -46,7 +46,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://chistopol-rt.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://ruskline.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://foto.patriarchia.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.forumfreerussia.org/en/
-random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.themoscowtimes.com/rss/news
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.themoscowtimes.com/rss/news
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://energy.lpr-reg.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.newkaliningrad.ru/news/rss.xml
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://psyrus.ru/

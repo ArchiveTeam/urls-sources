@@ -5945,7 +5945,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://rcnsc.ndu.edu
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://vehiclestdb.fas.gsa.gov
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://ch.usembassy.gov
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://sample2.edit.usembassy.gov
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://informeddelivery.usps.com
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://informeddelivery.usps.com
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://espoarchive.nasa.gov
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://guam.tricare.mil
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://news.uscg.mil

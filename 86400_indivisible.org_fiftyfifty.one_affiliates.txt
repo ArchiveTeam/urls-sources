@@ -98,7 +98,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;any_domain=1;url=http://indivisible-wa8.c
 random=RANDOM;all=1;keep_all=1;depth=1;any_domain=1;url=https://indivisiblesaratogaadk.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;any_domain=1;url=http://www.unitedwestay.org/
 random=RANDOM;all=1;keep_all=1;depth=1;any_domain=1;url=http://indivisiblesoco.org/
-random=RANDOM;all=1;keep_all=1;depth=1;any_domain=1;url=http://www.newyorkersforjustice.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;any_domain=1;url=http://www.newyorkersforjustice.com/
 random=RANDOM;all=1;keep_all=1;depth=1;any_domain=1;url=https://indivisibleohiofive.wordpress.com/
 random=RANDOM;all=1;keep_all=1;depth=1;any_domain=1;url=https://www.rebootourdemocracy.net/
 random=RANDOM;all=1;keep_all=1;depth=1;any_domain=1;url=http://resistersct.org/
@@ -217,7 +217,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;any_domain=1;url=http://www.statewideindi
 random=RANDOM;all=1;keep_all=1;depth=1;any_domain=1;url=https://andreigenzel.com/
 random=RANDOM;all=1;keep_all=1;depth=1;any_domain=1;url=https://pctvct.org/
 random=RANDOM;all=1;keep_all=1;depth=1;any_domain=1;url=https://dancingdog.biz/
-random=RANDOM;all=1;keep_all=1;depth=1;any_domain=1;url=https://www.bros4america.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;any_domain=1;url=https://www.bros4america.com/
 random=RANDOM;all=1;keep_all=1;depth=1;any_domain=1;url=https://www.indivisiblewesthills.org/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;any_domain=1;url=http://www.girightshotline.org/
 random=RANDOM;all=1;keep_all=1;depth=1;any_domain=1;url=https://sewica.com/

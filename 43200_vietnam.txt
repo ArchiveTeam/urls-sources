@@ -1,5 +1,5 @@
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://mattran.org.vn/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://vtcnews.vn/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://vtcnews.vn/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://mucangchai.yenbai.gov.vn/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://dangcongsan.vn/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://en-dangcongsan.nhandan.vn/

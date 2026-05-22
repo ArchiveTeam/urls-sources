@@ -84,7 +84,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://center.gov.by/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://government.gov.by/node/1
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://brpo.by/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.belarp.by/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://president.gov.by/en
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://president.gov.by/en
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://grodno-region.gov.by/ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.belinterexpo.by/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.belarus.by/ru/
@@ -101,4 +101,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://100ideas.by/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://ecoportal.gov.by/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://kultura.gov.by/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://berestovitsa.gov.by/by/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.belarus.by/en/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.belarus.by/en/

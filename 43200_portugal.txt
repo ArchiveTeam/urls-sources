@@ -2,14 +2,14 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://jornaldeportalegre.sapo.pt/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://jornalconcelhodepalmela.sapo.pt/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.presidencia.pt/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://partidopopularmonarquico.pt/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://cidadehoje.sapo.pt/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://cidadehoje.sapo.pt/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://psdparlamentoeuropeu.pt/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://jornaldeabrantes.sapo.pt/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://militante.ps.pt/home
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.psd.pt/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://lisboa.pcp.pt/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://jornaldesantarem.sapo.pt/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://noticiasdacovilha.pt/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://noticiasdacovilha.pt/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://jornaldebeja.sapo.pt/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://andrepestana.pt/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://greensavers.sapo.pt/
@@ -30,7 +30,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://honrarportugal.pt/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://psoeiras.ps.pt/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://adn.com.pt/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.delegptpse.eu/www/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://eco.sapo.pt/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://eco.sapo.pt/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://partidochega.pt/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://lisboa.cdu.pt/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://mas.org.pt/
@@ -40,6 +40,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://diariodabairrada.sapo.pt/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://luismarquesmendes.pt/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://alternativa.mas.org.pt/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cdu.pt/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://sol.iol.pt/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://sol.iol.pt/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://leiriainformacao.sapo.pt/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://diariodistrito.sapo.pt/

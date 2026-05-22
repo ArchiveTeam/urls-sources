@@ -649,7 +649,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://militarykidsconnect.dcoe.mil
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.erdc.hpc.mil
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://afsec.usaf.afpims.mil
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://amcom.aep.army.mil
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.carlisle.army.mil
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.carlisle.army.mil
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://128arw.usaf.afpims.mil
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://gcss.army.mil
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://milreviewbds.mil
@@ -938,7 +938,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://vce.army.mil
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.support-dev.pacom.mil
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.efmp.amedd.army.mil
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ags03.sec.usace.army.mil
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.samhouston.army.mil
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.samhouston.army.mil
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://bwe.dmdc.osd.mil
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://dtsa.mil
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.pscc.army.mil
@@ -4101,7 +4101,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.forms.documentservices.dl
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://ar.afcec-cloud.af.mil
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.mcasiwakunijp.usmc.afpims.mil
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.afosr.af.mil
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://coastguard.dodlive.mil
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://coastguard.dodlive.mil
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.3rdmeb.marines.mil
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.music.usaf.afpims.mil
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.pptsgs.osi.apps.mil
@@ -7180,7 +7180,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ahrpo.army.mil
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://403wg.afrc.af.mil
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://spatialdata.sam.usace.army.mil
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.epec.saw.usace.army.mil
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cybercoe.army.mil
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cybercoe.army.mil
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://bic.marines.mil
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.govportal.lastwall.mil
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.maxwell.usaf.afpims.mil
@@ -7466,7 +7466,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://assets.h2f.wp2.mil
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.copilot.apps.mil
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://tripler.tricare.mil
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ibasp-public.ria.army.mil
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://airman.dodlive.mil
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://airman.dodlive.mil
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://marforstrat.marines.mil
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://defensetravel.dod.afpims.mil
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nrlvpnc.nrl.navy.mil
@@ -7912,7 +7912,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://avhe-portsmouth.health.mil
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://ecs.mil
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://esd.dcsa.mil
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ukraineoversight.dod.afpims.mil
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://strategicstudiesinstitute.army.mil
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://strategicstudiesinstitute.army.mil
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.admin.zdxeleven.mil
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://whs.mil
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://web.files.ccpo.ecs.mil
@@ -8276,7 +8276,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://webdvof.apps.kubic.nga.mil
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.account.docusign.mil
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://aflink.usaf.afpims.mil
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.egsb.el.erdc.dren.mil
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.apd.army.mil
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.apd.army.mil
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.908aw.usaf.afpims.mil
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.pptwrs.osi.apps.mil
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.afrlwww.navydsrc.hpc.mil
@@ -12926,7 +12926,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://reserve.uscg.afpims.mil
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://sso.abi.army.mil
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.8af.af.mil
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.swl.usace.afpims.mil
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://home.army.mil
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://home.army.mil
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.jenkins.lift.mhpcc.hpc.mil
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gonkulator.apps.dso.mil
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.dcaa.dod.afpims.mil
@@ -16348,7 +16348,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.techtransfer.nrl.navy.mil
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://vte.mil
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.drumcorps.marines.mil
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://pof.usace.afpims.mil
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://swf-wc.usace.army.mil
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://swf-wc.usace.army.mil
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://robots.diligentoneplatform.mil
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://pentagon.mil
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://sublant.navy.afpims.mil

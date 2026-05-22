@@ -8,7 +8,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.working.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.woodstocksentinelreview.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.facebook.com/L%C3%89toile-187928336499/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://ottawasun.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.healthing.ca/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.healthing.ca/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.owensoundsuntimes.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.thestarphoenix.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://financialpost.com/
@@ -20,7 +20,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.tj.news/northern-light
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://ottawacitizen.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.shorelinebeacon.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.timminstimes.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.pembrokeobserver.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.pembrokeobserver.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.leaderpost.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.tj.news/bugle-observer
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.tj.news/miramichi-leader
@@ -28,7 +28,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.tj.news/bugle-observer
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://lfpress.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.wallaceburgcourierpress.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mitchelladvocate.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.thegrowthop.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.thegrowthop.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.flyercity.ca/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://canadianfamilyoffices.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.hannaherald.com/
@@ -38,7 +38,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.remembering.ca/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.melfortjournal.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.northernnews.ca/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.clintonnewsrecord.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://canoe.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://canoe.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://windsorstar.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://montrealgazette.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.tillsonburgnews.com/

@@ -5,7 +5,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://sofia.bsp.bg/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://partianazelenite.bg/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://ppnacia.eu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://bstv.bg/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://fakti.bg/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://fakti.bg/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gov.bg/en
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://text.president.bg/bg/index
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://m.president.bg/en/index
@@ -14,7 +14,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://nepokornabalgaria.bg/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.mmikov.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.zname.info/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://onb-bg.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://bntnews.bg/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://bntnews.bg/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://blagoevgrad.bsp.bg/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://lovech.bsp.bg/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://progresivnabulgaria.com/

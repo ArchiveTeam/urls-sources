@@ -11,14 +11,14 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.verfassungsschutz.de/DE/s
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.bundesrat.de/SiteGlobals/Functions/RSSFeed/RSSGenerator_Announcement.xml
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://deutschland-stack.gov.de/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://wid.cert-bund.de/content/public/securityAdvisory/rss
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kulturstiftung-des-bundes.de/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kulturstiftung-des-bundes.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://opencode.de/en
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.bpb.de/rss-feed/230868.rss
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.monopolkommission.de/de/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.bsi.bund.de/SiteGlobals/Functions/RSSFeed/RSSNewsfeed/RSSNewsfeed_Presse_Veranstaltungen.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.bundeskanzler.de/service/rss/bk-de/1859752/feed.xml
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.forschung-it-sicherheit-kommunikationssysteme.de/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bundeswahlleiterin.de/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bundeswahlleiterin.de/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.gigabitfoerderung.gov.de/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.bpb.de/rss-feed/230153.rss
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.bpb.de/rss-feed/203612.rss

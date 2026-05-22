@@ -41,7 +41,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.aktuellhallbarhet.se/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.tidningenvastsverige.se/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://bjarenu.se/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mariestadstidningen.se/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.tidningenharjedalen.se/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.tidningenharjedalen.se/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.jp.se/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.molndalsposten.se/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.tv4.se/
@@ -69,7 +69,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.provinstidningen.se/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.avestatidning.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://sormlandsbygden.se/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.sydsvenskan.se/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.fastighetsnytt.se/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.fastighetsnytt.se/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.tranastidning.se/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://dalabygden.se/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://8sidor.se/
@@ -121,7 +121,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kpwebben.se/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.smalandsdagblad.se/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.dagenssamhalle.se/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.vn.se/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://lansposten.se/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://lansposten.se/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.hn.se/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kt-kuriren.se/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.skaraborgslanstidning.se/
@@ -144,7 +144,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nyhetsbyranjarva.se/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.lt.se/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ltz.se/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mitti.se/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.vastgotabladet.se/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.vastgotabladet.se/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kkuriren.se/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.fryksdalsbygden.se/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.vk.se/

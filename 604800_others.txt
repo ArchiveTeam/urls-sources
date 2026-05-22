@@ -199,7 +199,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://alignmentalignment.ai/caaac
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://agdo.noblogs.org/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://lombroso.noblogs.org/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://technopolice.fr/feed/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.metabunk.org/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.metabunk.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://childrenprivacylaws.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://blogs.esa.int/eolaunches/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://humanityinaction.org/
@@ -237,8 +237,8 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://rdi.berkeley.edu/blog
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://stmatrona.com/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://techfrombelow.de/treffen/index.xml
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://actionnetwork.blog/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://blog.linuxmint.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://airwars.org/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://blog.linuxmint.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://airwars.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://transferstelle-cybersicherheit.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://ai.meta.com/blog/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://august.md/novosti/

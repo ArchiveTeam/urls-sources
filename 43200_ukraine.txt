@@ -317,7 +317,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://alt.mezhyrich.lbd-osv.gov.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://partner.mod.gov.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://rv.tax.gov.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://alt.volovec-osvita.gov.ua/
-random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://tyzhden.ua/feed/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://tyzhden.ua/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://alt.osvita.malinivska-sr.gov.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://alt.radazhashkiv.gov.ua/news/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://alt.zhashkiv-osvita.gov.ua/

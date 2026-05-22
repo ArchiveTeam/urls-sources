@@ -243,7 +243,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.obn.ba/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.teledoce.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.irishmirror.ie/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://dennikn.sk/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.inquirer.com/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.inquirer.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.lebanon24.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.teleliban.com.lb/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.radiomaria.org.mz/

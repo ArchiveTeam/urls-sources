@@ -85,7 +85,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://ncs.go.ug/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://mlhud.go.ug/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://iganga.go.ug/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://statehouse.go.ug/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://ugandaradionetwork.net/a/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://ugandaradionetwork.net/a/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://finance.go.ug/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://nagrc.go.ug
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://addisababa.mofa.go.ug/

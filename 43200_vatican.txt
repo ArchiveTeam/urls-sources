@@ -62,7 +62,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.camposanto.va/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.erzbruderschaft.va/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.villepontificie.va/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.iubilaeummisericordiae.va/
-random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.synod.va/
+#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.synod.va/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://migrants-refugees.va/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.collegioteutonico.va/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.ppoomm.va/
