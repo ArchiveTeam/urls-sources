@@ -29,3 +29,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://nrparty.kr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://unikoreaparty.kr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://unikorea.go.kr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://rokaf.airforce.mil.kr/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://epidgames.oqupie.com/portal/2399
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.1365.go.kr/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://read365.edunet.net/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.humanrights.go.kr/
