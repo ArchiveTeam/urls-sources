@@ -24,3 +24,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://koalicjaobywatelska.pl/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://pkw.gov.pl/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://rozwoj.plus/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://mateuszmorawiecki.pl/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://nowybiuletyn.uodo.gov.pl/

@@ -87,3 +87,4 @@ random=RANDOM;deep_extract=1;url=https://anchor.fm/s/1030b7698/podcast/rss
 random=RANDOM;deep_extract=1;url=https://anchor.fm/s/c1373798/podcast/rss
 random=RANDOM;deep_extract=1;url=https://www.hafenradio.org/feed/mp3/
 random=RANDOM;deep_extract=1;url=https://podcasts.darmstadt.social/@thinkpadmuseum/feed.xml
+random=RANDOM;deep_extract=1;url=https://www.tfradio.net/feed/podcast/

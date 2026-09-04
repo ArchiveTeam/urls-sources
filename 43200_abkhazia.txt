@@ -89,3 +89,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://djin.sukhumcity.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://gov.index.abkhazia.su/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://index.abkhazia.su/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://abaza.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://customsra.com/

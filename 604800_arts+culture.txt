@@ -99,3 +99,12 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.festival-perspectives.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://museumsdienst-hamburg.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cfcbilbao.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://garynuman.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://landshuter-kurzfilmfestival.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://kronika.hu/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://bizcommunity.gamescom.global/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.c3s.cc/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://usk.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.eventsforgamers.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.schokoladen-mitte.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.plastic-bomb.eu/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://magazynprototyp.art/

@@ -57,3 +57,8 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://news.immigration.gov.tw/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://news.ner.gov.tw/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.amnesty.tw/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.post.gov.tw/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://eoc.taichung.gov.tw/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://travel.taichung.gov.tw/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://english.taichung.gov.tw/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.society.taichung.gov.tw/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://cc.tc.edu.tw/

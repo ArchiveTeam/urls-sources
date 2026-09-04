@@ -807,3 +807,17 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.crowdsupply.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.iclcit.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.windkraft-journal.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://ollama.com/blog
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://yenidemokratgenclik9.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://demilitarize.org.uk/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://rebellyon.info/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.pressegauche.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://sabot.media/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://advis.veranstaltungen.kommunix.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://stadtgestalten.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://status.systemausfall.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.aisi.gov.uk/blog
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kdgoe.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://inimoigusedeestis.ee/
+random=RANDOM;all=1;url=https://leave-russia.org/news
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.siwiarchiv.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.europe.pro/

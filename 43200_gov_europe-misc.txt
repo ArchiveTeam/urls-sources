@@ -40,3 +40,10 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://hnsbih.ba/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://gds.blog.gov.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.katasztrofavedelem.hu/10466/RSS_VESZ
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://cnccfp.fr/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.oiguskantsler.ee/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.oiguskantsler.ee/en
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.oiguskantsler.ee/ru
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.valimised.ee/et
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.valimised.ee/en
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.valimised.ee/ru
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://president.ee/en
