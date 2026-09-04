@@ -13,17 +13,15 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://justitia-int.o
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://therestartproject.org/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://humanityinaction.org/country/denmark/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://parliamentwatch.ug/
-random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.bochumgegenrechts.de/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://rettetdeutschland.com/feed
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://laurensouthern.net/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://qa.blog.documentfoundation.org/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://unterbau.org/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://slab.org/feed/
-random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://arbeidersstemmen.wordpress.com/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://digitalgroundgame.org/blog
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://blog.westerndigital.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=hhttps://szera.eu/
-random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://anonradio.net/feed/
+random=RANDOM;all=1;depth=1;deep_extract=1;url=https://anonradio.net/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://sovereigncloudstack.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://humanityinaction.org/country/usa/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://blogs.esa.int/concordia/
@@ -44,8 +42,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://bsides.org/events/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://activeclub.org/articles/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cncf.io/reports/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://ajenafrica.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://19feb-hanau.org/
-random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://sindicatdebarri.org/index.php/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://adamder.org.tr/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://freimaurerloge-schwerin.de/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.girlscout.or.jp/feed/
@@ -106,7 +102,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://livada-moldove
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://mmpeacemonitor.org/en/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kyivgovtechcentre.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mocataipei.org.tw/tw
-random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.women-in-exile.net/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://rdi.berkeley.edu/events
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://itself.blog/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://progress.openai.com/
@@ -166,7 +161,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://rim-marktforsc
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://neurips.cc/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://blog.adoptuskids.org/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://aijc.africa/
-random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.recherche-nord.com/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.zur-treue-berlin.de/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://pauseai.info/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://blog.nordfriesland-online.de/
@@ -187,8 +181,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://pretix.eu/abou
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://eintopf.info/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://confidence.spotify.com/blog
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://alignmentalignment.ai/caaac
-random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://agdo.noblogs.org/feed/
-random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://lombroso.noblogs.org/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://technopolice.fr/feed/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.metabunk.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://childrenprivacylaws.com/
@@ -207,7 +199,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://ai-2027.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://blogs.esa.int/exploration/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cepa.or.ug/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://events.dropbox.com/
-random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://xrebellion.at/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://ataarelief.org/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.arbeitsagentur.de/news
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://terra-drone.net/global/
@@ -230,13 +221,11 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://frauenpolitisc
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://rdi.berkeley.edu/blog
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://stmatrona.com/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://techfrombelow.de/treffen/index.xml
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://actionnetwork.blog/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://blog.linuxmint.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://airwars.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://transferstelle-cybersicherheit.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://ai.meta.com/blog/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://august.md/novosti/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.globaldetentionproject.org/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://outbritain.co.uk/feed/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.madinamerica.com/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://rpmuseum.de/
@@ -317,10 +306,8 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.asiahouse.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://about.nike.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://freevpnastro.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://federacionanarquistauruguaya.uy/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://vvn-bda-lueneburg.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://btlonline.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.digitalisierung-und-gemeinwohl.de/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://systemausfall.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://worldpolicesummit.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://veteranenkultur.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://bigbrotherawards.de/
