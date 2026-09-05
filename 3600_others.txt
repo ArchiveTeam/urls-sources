@@ -17,3 +17,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://noblogs.org/activity/
 random=RANDOM;all=1;url=https://kuma.accol.li/status/aimonitor
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://status.kdgoe.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://status.itebo.de/
+random=RANDOM;url=https://www.samsung.com/us/apps/samsung-members/terms-of-service/
+random=RANDOM;url=https://www.vizio.com/en/terms/terms-of-service
+random=RANDOM;url=https://us.lgappstv.com/main/terms
