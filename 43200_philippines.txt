@@ -1,0 +1,3 @@
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://cityofdasmarinas.gov.ph/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nup.org.ph/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://angmasa.org/

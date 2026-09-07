@@ -80,3 +80,13 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://minturizm.apsny.land/ap/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gazeta-ra.info/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://gki.apsny.land/ru/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://apsua.tv/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mfaapsny.org/en/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mfaapsny.org/ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mfaapsny.org/tu/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mfaapsny.org/ar/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://aps.abkhazia.su/press-tsentr
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://djin.sukhumcity.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://gov.index.abkhazia.su/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://index.abkhazia.su/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://abaza.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://customsra.com/

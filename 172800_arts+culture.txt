@@ -60,3 +60,10 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://erickimphotography.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kulturajih.cz/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kaltblut-magazine.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://soultracks.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gamescom.global/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://lfbrecht.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.punkadeka.it/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://katapult-mv.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://katapult-verlag.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://wochenendrebell.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.initiative-musik.de/

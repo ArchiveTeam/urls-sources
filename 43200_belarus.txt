@@ -167,3 +167,5 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://union.by/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bobrlife.by/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://kadetmogilev.by/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://kadet.by/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://tops.gpk.gov.by/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://lenadmin.gov.by/

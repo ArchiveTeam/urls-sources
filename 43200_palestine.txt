@@ -61,3 +61,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://daysofpalestine.ps/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.eupac.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://resilientramallah.ramallah.ps/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://wein.ramallah.ps/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ismfrance.org/
+random=RANDOM;all=1;keep_all=0;keep_random=1;deep_extract=1;url=https://whofundedgenocide.com/sitemap.xml
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://global.palestineaction.org/news/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://europalestine.com/
