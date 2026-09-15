@@ -1,3 +1,13 @@
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://cityofdasmarinas.gov.ph/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nup.org.ph/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://angmasa.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ubjp.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://officialgazette.bangsamoro.gov.ph/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://bangsamoro.gov.ph/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://parliament.bangsamoro.gov.ph/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.comelec.gov.ph/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mpw.bangsamoro.gov.ph/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://abotparty.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.iag.org.ph/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.luwaran.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bangonbangsamoro.com/
