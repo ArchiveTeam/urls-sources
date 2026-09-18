@@ -403,3 +403,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://ркрп.рус/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://fakel-prometeya.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://forum-spb.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://forum-spb.ru/en/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://region15.ru/

@@ -22,8 +22,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.aim.am/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://npp.am/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://armenpress.am/hy
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://armenpress.am/en
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://sovanews.tv/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://sovanews.tv/en/home/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://ajbever.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://strongarmenia.am/hy
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://strongarmenia.am/ru
