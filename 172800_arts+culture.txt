@@ -26,7 +26,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://dresdencontemporaryart.com/en
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://baroegopenair.nl/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.amazona.de/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://letterformarchive.org/
-random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.matrixsynth.com/feeds/posts/default
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.matrixsynth.com/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://mechatronicart.ch/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://kulturamedialna.org/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://makezine.com/feed/
@@ -67,3 +67,11 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://katapult-mv.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://katapult-verlag.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://wochenendrebell.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.initiative-musik.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.peek-a-boo-magazine.be/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.soundspheremag.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.synthtopia.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.unsound.pl/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.crockefeller.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://zentralwerk.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.monopol-magazin.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.eai.org/

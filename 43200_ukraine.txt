@@ -472,3 +472,5 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://dsbt.gov.ua/en/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://chor.gov.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://pol.dcz.gov.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://dot.gov.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://yes-ukraine.org/en/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://yes-ukraine.org/ua/

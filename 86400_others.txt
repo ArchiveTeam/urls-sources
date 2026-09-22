@@ -770,3 +770,14 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://inimoigusedeestis.ee/
 random=RANDOM;all=1;url=https://leave-russia.org/news
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.siwiarchiv.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.europe.pro/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://kommunaler-notbetrieb.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bei-abriss-aufstand.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://blog.soziserver.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://elnet-deutschland.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.flocksafety.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://juedischeunion.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kampf-der-nibelungen.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://sonnenkreuz.net/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://marzahn-hellersdorf.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://denikreferendum.cz/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://amazonwatch.org/

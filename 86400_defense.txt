@@ -63,3 +63,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://hal-india.co.in/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.firepoint.info/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://firepoint.technology/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://firepoint.technology/en/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.sncorp.com/

@@ -1,4 +1,4 @@
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://blog.artsper.com/en/
+andom=RANDOM;all=1;keep_all=1;depth=1;url=https://blog.artsper.com/en/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://blog.artsper.com/fr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://blog.artsper.com/de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://blog.artsper.com/it/
@@ -108,3 +108,11 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.eventsforgamers.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.schokoladen-mitte.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.plastic-bomb.eu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://magazynprototyp.art/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.xaviernaidoo.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.alterbauhof.at/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://hallesche-stoerung.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.lastecca.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://fanzino.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.zwickauer-demokratie-buendnis.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.harvestworks.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.jbo.de/
