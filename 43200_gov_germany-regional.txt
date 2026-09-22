@@ -35,3 +35,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.berlin.de/polizei/polizei
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://integrationsbeauftragter.bayern.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://lpb.sachsen-anhalt.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://migrationsbeauftragter-niedersachsen.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ppfreiburg.polizei-bw.de/

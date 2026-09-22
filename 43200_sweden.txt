@@ -136,3 +136,15 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://arbetarpartiet.se/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.orebropartiet.se/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.val.se/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.government.se/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ambitionsverige.se/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://linitiativ.se/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://burlov.skp.se/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://malmo.skp.se/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://stockholm.skp.se/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.annatmalmo.se/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://sthlmsvansterallians.se/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://internationalsocialist.net/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://stockholm.piratpartiet.se/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://event.sd.se/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://press.kristdemokraterna.se/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://nordiskradio.se/
