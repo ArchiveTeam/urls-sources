@@ -321,3 +321,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://bundesromaverband.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.saveourseeds.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://pro-gaeubahn.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://bahn-fuer-alle.de/
+random=RANDOM;all=1;keep_all=1;depth=2;keep_random=2;url=https://www.cultura.gob.es/cultura/areas/propiedadintelectual/mc/s2cpi/enlaces.html
