@@ -20,7 +20,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://diariocriminal.sapo.pt/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://gouveiamelopresidente.pt/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.psdmadeira.pt/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://ps.pt/
-random=RANDOM;all=1;keep_all=1;depth=1;url=hhttps://premiomariosoares.delegptpse.eu/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://premiomariosoares.delegptpse.eu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://seguropresidente.pt/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.partidoliberalsocial.pt/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://portal.azores.gov.pt/

@@ -20,7 +20,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://unterbau.org/f
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://slab.org/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://digitalgroundgame.org/blog
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://blog.westerndigital.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=hhttps://szera.eu/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://szera.eu/
 random=RANDOM;all=1;depth=1;deep_extract=1;url=https://anonradio.net/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://sovereigncloudstack.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://humanityinaction.org/country/usa/
