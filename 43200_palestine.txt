@@ -1,6 +1,5 @@
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.pfa.ps/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://prisonersforpalestine.org/
-random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://anarchists4palestine.noblogs.org/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.courts.gov.ps/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://dftp.gov.ps/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://jfjfp.com/feed/
@@ -17,7 +16,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://bds-kampagne.de/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://israeli.company/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://gafyc.gov.ps/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.icjpalestine.com/feed/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://anarchists4palestine.noblogs.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://palestinalibera.it/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.president.ps/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://standwithus.com/feed/
