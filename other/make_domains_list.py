@@ -218,6 +218,7 @@ if __name__ == '__main__':
         '86400_others.txt',
         '86400_sports.txt',
         '86400_ukraine-war-stats.txt',
+        '151200_attac.txt',
         '151200_leftist.txt',
         '172800_arts+culture.txt',
         '604800_arts+culture.txt',
