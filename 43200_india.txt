@@ -5,3 +5,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://nagaland.neva.gov.in/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://sportsauthorityofindia.gov.in/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.goa.gov.in/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://dip.goa.gov.in/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://itifarmagudi.goa.gov.in/

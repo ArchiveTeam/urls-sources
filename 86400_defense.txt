@@ -64,3 +64,11 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.firepoint.info/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://firepoint.technology/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://firepoint.technology/en/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.sncorp.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.sofexjordan.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://milremrobotics.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.lpp-holding.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://lp-praha.cz/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.archer-lpp.cz/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://zofitech.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://tcz.cz/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.lpp-soft.cz/

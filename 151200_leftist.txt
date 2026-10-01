@@ -203,3 +203,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://voixpopulaire.ch/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://casettarossa.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://unit.abbiamoundominio.org/author/unit.html
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.laterratrema.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://berlin.dieplattform.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://leftcoastrightwatch.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bgr-darmstadt.de/

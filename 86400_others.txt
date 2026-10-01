@@ -781,3 +781,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://sonnenkreuz.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://marzahn-hellersdorf.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://denikreferendum.cz/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://amazonwatch.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://bundesverband.taxi/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://centralafricatimes.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://fridaysforfuture.de/

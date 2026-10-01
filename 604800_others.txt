@@ -336,3 +336,8 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://zoes-bund.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://pro-choice.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.lobbyistenfuerkinder.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://fest-antifa.net/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.aktive-buergerschaft.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.schlesien-heute.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://dfkschlesien.pl/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://a20-nie.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://niewieder.com/
