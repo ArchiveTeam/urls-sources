@@ -7,3 +7,5 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://gov.st/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://principe.gov.st/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://cipstp.st/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.pcd-stp.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mci-ps.st/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.tcontas.st/

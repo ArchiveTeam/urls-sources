@@ -116,3 +116,12 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://fanzino.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.zwickauer-demokratie-buendnis.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.harvestworks.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.jbo.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://sommerfestival-der-kulturen.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://forum-der-kulturen.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.dreifragezeichen.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kleo.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.newlit.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.shakira.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ledzeppelin.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://jazztronicafest.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://alicecooper.com/

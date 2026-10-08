@@ -4,3 +4,12 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ethiopia-insight.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://prosperity.org.et/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://pmo.gov.et/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://tplfofficial.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ethioreference.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://qbo-abo-wbo.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://dfmc.mod.gov.et/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://oromoliberationfront.org/english/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://oromoliberationfront.org/aforomo/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ethiopanorama.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://fnnmedia.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ethionegari.com/category/news/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mereja.net/

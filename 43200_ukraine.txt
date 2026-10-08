@@ -474,3 +474,17 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://pol.dcz.gov.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://dot.gov.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://yes-ukraine.org/en/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://yes-ukraine.org/ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://hochunaiti.com/en
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://hochunaiti.com/ru
+random=RANDOM;all=1;depth=1;url=https://hochunaiti.com/es
+random=RANDOM;all=1;depth=1;url=https://hochunaiti.com/fr
+random=RANDOM;all=1;depth=1;url=https://hochunaiti.com/ar
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://antikor.info/en/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://antikor.info/ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://antikor.info/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.auc.org.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://oleshki.in.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.khartiia.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://centrecom.nas.gov.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://openscience.nas.gov.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ptima.nas.gov.ua/

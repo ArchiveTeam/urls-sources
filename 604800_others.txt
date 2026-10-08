@@ -20,7 +20,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://unterbau.org/f
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://slab.org/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://digitalgroundgame.org/blog
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://blog.westerndigital.com/
-random=RANDOM;all=1;keep_all=1;depth=1;url=hhttps://szera.eu/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://szera.eu/
 random=RANDOM;all=1;depth=1;deep_extract=1;url=https://anonradio.net/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://sovereigncloudstack.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://humanityinaction.org/country/usa/
@@ -336,3 +336,8 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://zoes-bund.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://pro-choice.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.lobbyistenfuerkinder.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://fest-antifa.net/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.aktive-buergerschaft.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.schlesien-heute.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://dfkschlesien.pl/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://a20-nie.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://niewieder.com/

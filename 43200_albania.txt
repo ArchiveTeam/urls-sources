@@ -8,3 +8,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://pd.al/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://asp.gov.al/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://psd.al/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://kujto.al/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mjedisi.gov.al/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mjedisi.gov.al/en/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://akpyje.gov.al/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://akpyje.gov.al/en/

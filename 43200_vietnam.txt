@@ -13,3 +13,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://vietnamembassy-usa.org/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.baobariavungtau.com.vn/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://lanhsuvietnam.gov.vn/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://vietnamembassy-uae.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://vietnamembassy-singapore.org/

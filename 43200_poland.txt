@@ -25,3 +25,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://pkw.gov.pl/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://rozwoj.plus/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://mateuszmorawiecki.pl/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://nowybiuletyn.uodo.gov.pl/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://krakow.kbw.gov.pl/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://krakow.wyborcza.pl/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.koronamlodych.pl/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://turbopolska2027.pl/

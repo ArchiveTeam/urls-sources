@@ -15,3 +15,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.defensoria.gob.bo/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://minagri.gob.cl/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.archives.gov.on.ca/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.finanzas.gob.ec/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://inefi.gob.do/

@@ -24,7 +24,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://spd.cz/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.doorbraak.eu/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://sps.ba/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.vrijspreker.nl/wp/
-random=RANDOM;all=1;keep_all=1;depth=1;url=hhttps://stanivukovicdrasko.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://stanivukovicdrasko.com/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://socijalisti.ba/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://naprijed.ba/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://nasarijec.ba/
