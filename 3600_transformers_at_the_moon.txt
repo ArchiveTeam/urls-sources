@@ -1,0 +1,6 @@
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;http://www.transformertoys.co.uk/feeds/rss/news.xml
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;http://www.transformertoys.co.uk/feeds/rss/cartoon.xml
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;http://www.transformertoys.co.uk/feeds/rss/comic.xml
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;http://www.transformertoys.co.uk/feeds/rss/video.xml
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;http://www.transformertoys.co.uk/feeds/rss/new-discussion.xml
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;http://www.transformertoys.co.uk/feeds/rss/recent-discussion.xml
