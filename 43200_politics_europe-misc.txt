@@ -4,7 +4,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://kozwartepiet.n
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://sbih.ba/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://dodik.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.sdp.ba/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://praha.pirati.cz/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.50pluspartij.nl/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://nes.ba/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://mladi.sds.rs/?feed=rss2
