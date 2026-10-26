@@ -1,3 +1,4 @@
+import os
 import re
 import sys
 import typing
@@ -23,13 +24,16 @@ def main(files: typing.List[str]):
                         value = argument.split('=', 1)[1]
                         if value.count('/') == 2:
                             value += '/'
-                        result = re.search(r'^https?://(?:www2?\.)([^/%]+)/', value)
+                        result = re.search(r'^https?://(?:www2?\.)?([\w-]+(?:\.[\w-]+)+)\.?(?=[/:\?#]|$)', value, flags=re.I)
                         if result:
                             result = result.group(1)
                             result = result.strip('.')
                             while '..' in result:
                                 result = result.replace('..', '.')
-                            result = str(result.encode('idna'), 'utf8')
+                            try:
+                                result = str(result.encode('idna'), 'utf8')
+                            except UnicodeError:
+                                break
                             domains.add(result.lower())
                         break
         print('Found', len(domains)-found)
@@ -56,6 +60,7 @@ def main(files: typing.List[str]):
 
 if __name__ == '__main__':
     default_files = [
+        '600_ukr_net_sites.txt',
         '900_50states-com_news.txt',
         '900_abyz.txt',
         '900_arxiv.txt',
@@ -87,6 +92,7 @@ if __name__ == '__main__':
         '900_wikidata_Q11032_newspaper.wikidata.txt',
         '900_wikidata_Q1193236_news-media.wikidata.txt',
         '900_wikidata_Q1962634_news-broadcasting.wikidata.txt',
+        '900_wikidata_Q7210356_political-organization.wikidata.txt.uk.txt',
         '900_wikidata_string_news.txt',
         '900_world-newspapers-com.txt',
         '3600_github_gabefair_News-and-Culture-Websites.txt',
@@ -185,6 +191,7 @@ if __name__ == '__main__':
         '43200_sao-tome-and-principe.txt',
         '43200_slovakia.txt',
         '43200_slovenia.txt',
+        '43200_south-africa.txt',
         '43200_south-korea.txt',
         '43200_south-ossetia.txt',
         '43200_sweden.txt',
@@ -231,4 +238,7 @@ if __name__ == '__main__':
     files = sys.argv[1:]
     if len(files) == 0:
         files = default_files
+    if os.path.exists('domains_list_extra.txt'):
+        with open('domains_list_extra.txt', 'r') as f:
+            files.extend(line.strip() for line in f if len(line.strip()) > 0)
     main(files)
