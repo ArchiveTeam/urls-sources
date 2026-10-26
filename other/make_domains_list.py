@@ -136,6 +136,7 @@ if __name__ == '__main__':
         '43200_gov_africa-misc.txt',
         '43200_gov_americas-misc.txt',
         '43200_gov_asia-misc.txt',
+        '43200_gov_czechia.txt',
         '43200_gov_domains.txt',
         '43200_gov_europe-misc.txt',
         '43200_gov_germany.txt',
@@ -178,6 +179,7 @@ if __name__ == '__main__':
         '43200_niger.txt',
         '43200_palestine.txt',
         '43200_philippines.txt',
+        '43200_pol_czechia.txt',
         '43200_poland.txt',
         '43200_politics_africa-misc.txt',
         '43200_politics_americas-misc.txt',
@@ -233,6 +235,8 @@ if __name__ == '__main__':
         '604800_arts+culture.txt',
         '604800_ccc.txt',
         '604800_others.txt',
+        '604800_pol_czechia.txt',
+        '604800_pol_czechia_2028_elections.txt',
         '604800_sports.txt'
     ]
     files = sys.argv[1:]
