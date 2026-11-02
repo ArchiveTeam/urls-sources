@@ -255,6 +255,7 @@ if __name__ == '__main__':
         '151200_leftist.txt',
         '172800_arts+culture.txt',
         '604800_arts+culture.txt',
+        '604800_big-tech.txt',
         '604800_ccc.txt',
         '604800_civil_spain.txt',
         '604800_defense.txt',
