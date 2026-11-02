@@ -135,6 +135,7 @@ if __name__ == '__main__':
         '43200_gov_africa-misc.txt',
         '43200_gov_americas-misc.txt',
         '43200_gov_asia-misc.txt',
+        '43200_gov_bulgaria.txt',
         '43200_gov_czechia.txt',
         '43200_gov_domains.txt',
         '43200_gov_europe-misc.txt',
