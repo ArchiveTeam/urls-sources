@@ -253,6 +253,7 @@ if __name__ == '__main__':
         '604800_arts+culture.txt',
         '604800_ccc.txt',
         '604800_defense.txt',
+        '604800_leftist.txt',
         '604800_others.txt',
         '604800_pol_bosnia+herzegovina.txt',
         '604800_pol_brazil.txt',
