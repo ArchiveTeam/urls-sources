@@ -72,3 +72,5 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.archer-lpp.cz/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://zofitech.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://tcz.cz/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.lpp-soft.cz/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.tectonicdefense.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://milmag.pl/
