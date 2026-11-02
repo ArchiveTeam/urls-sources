@@ -1,0 +1,7 @@
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mudrejsivyhrava.sk/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mladi.sas.sk/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mladeps.sk/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://generaciad.sk/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://poprad.stank.sk/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://madarskeforum.sk/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nova.sk/
