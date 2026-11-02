@@ -1,0 +1,5 @@
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://cameraoncampus.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://hkn.co.il/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://rotter.net/enews/news.php
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mida.org.il/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://en.mida.org.il/
