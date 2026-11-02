@@ -488,3 +488,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.khartiia.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://centrecom.nas.gov.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://openscience.nas.gov.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://ptima.nas.gov.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://kiev-chamber.org.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://terytoria.org.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://international.terytoria.org.ua/

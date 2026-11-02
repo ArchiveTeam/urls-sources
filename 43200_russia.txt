@@ -449,3 +449,8 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.redcross-irkutsk.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.redcross-irkutsk.org/en/pages/index_en.html
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cchp.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://vesti-kaliningrad.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://yandex.cloud/en/blog
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://bryansktoday.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://uglegorsk.news/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://bryansku.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://victorbut.ru/

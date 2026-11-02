@@ -1723,3 +1723,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://senioren-union-oberbayern.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.csu-landesgruppe.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.csu-europagruppe.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.herzkammer.bayern/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://fw-landtag.de/

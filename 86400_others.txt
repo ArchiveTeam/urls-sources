@@ -784,3 +784,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://amazonwatch.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://bundesverband.taxi/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://centralafricatimes.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://fridaysforfuture.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://vng.nl/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://itsperu.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://patchtheplanet.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://incidentdatabase.ai/
