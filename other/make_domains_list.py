@@ -192,6 +192,7 @@ if __name__ == '__main__':
         '43200_palestine.txt',
         '43200_philippines.txt',
         '43200_pol_bosnia+herzegovina.txt',
+        '43200_pol_bulgaria.txt',
         '43200_pol_brazil.txt',
         '43200_pol_bulgaria.txt',
         '43200_pol_czechia.txt',
