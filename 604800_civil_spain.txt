@@ -1,0 +1,7 @@
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://okupanel.csolarosa.net/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://euforia.org.es/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://tribunalciudadanodejusticia.wordpress.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://legal15m.wordpress.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://frentedeestudiantes.es/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.solidaridadobrera.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://laplaza.solarnethub.com/
