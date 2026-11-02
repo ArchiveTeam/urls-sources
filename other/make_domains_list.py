@@ -129,7 +129,6 @@ if __name__ == '__main__':
         '43200_eu.txt',
         '43200_fragdenstaat_de.txt',
         '43200_georgia.txt',
-        '43200_germany-2026-local-elections.txt',
         '43200_github_GSA_govt-urls.txt',
         '43200_gov2.txt',
         '43200_gov3.txt',
