@@ -140,6 +140,7 @@ if __name__ == '__main__':
         '43200_gov_europe-misc.txt',
         '43200_gov_germany.txt',
         '43200_gov_germany-regional.txt',
+        '43200_gov_slovakia.txt',
         '43200_gov_usa.txt',
         '43200_govt_urls.txt',
         '43200_greece.txt',
