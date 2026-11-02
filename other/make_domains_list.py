@@ -136,10 +136,7 @@ if __name__ == '__main__':
         '43200_gov_americas-misc.txt',
         '43200_gov_asia-misc.txt',
         '43200_gov_bulgaria.txt',
-<<<<<<< HEAD
-=======
         '43200_pol_brazil.txt',
->>>>>>> 5eea770 (brazil)
         '43200_gov_czechia.txt',
         '43200_gov_domains.txt',
         '43200_gov_europe-misc.txt',
@@ -191,7 +188,6 @@ if __name__ == '__main__':
         '43200_palestine.txt',
         '43200_philippines.txt',
         '43200_pol_bosnia+herzegovina.txt',
-        '43200_pol_bulgaria.txt',
         '43200_pol_brazil.txt',
         '43200_pol_bulgaria.txt',
         '43200_pol_czechia.txt',
@@ -252,7 +248,6 @@ if __name__ == '__main__':
         '604800_ccc.txt',
         '604800_others.txt',
         '604800_pol_bosnia+herzegovina.txt',
-        '604800_pol_bulgaria.txt',
         '604800_pol_brazil.txt',
         '604800_pol_bulgaria.txt',
         '604800_pol_czechia.txt',
