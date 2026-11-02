@@ -196,6 +196,7 @@ if __name__ == '__main__':
         '43200_pol_bulgaria.txt',
         '43200_pol_czechia.txt',
         '43200_pol_peru.txt',
+        '43200_pol_serbia.txt',
         '43200_pol_slovakia.txt',
         '43200_poland.txt',
         '43200_politics_africa-misc.txt',
@@ -256,6 +257,7 @@ if __name__ == '__main__':
         '604800_pol_bulgaria.txt',
         '604800_pol_czechia.txt',
         '604800_pol_czechia_2028_elections.txt',
+        '604800_pol_serbia.txt',
         '604800_pol_slovakia.txt',
         '604800_pol_slovakia_2027_elections.txt',
         '604800_sports.txt'
