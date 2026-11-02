@@ -182,6 +182,7 @@ if __name__ == '__main__':
         '43200_philippines.txt',
         '43200_pol_bulgaria.txt',
         '43200_pol_czechia.txt',
+        '43200_pol_peru.txt',
         '43200_pol_slovakia.txt',
         '43200_poland.txt',
         '43200_politics_africa-misc.txt',

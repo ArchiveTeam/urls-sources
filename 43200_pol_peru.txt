@@ -1,0 +1,10 @@
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://renovacionpopular.com.pe/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://podemosperu.pe/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://partidopatrioticodelperu.pe/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://podemosperu.org.pe/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.avanzapais.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ppcperu.pe/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://frepap.org.pe/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://partidomorado.pe/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.alianzavenceremospex.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://progresemos.pe/
