@@ -104,6 +104,7 @@ if __name__ == '__main__':
         '3600_others.txt',
         '3600_ukraine-war-stats.txt',
         '3600_wikidata_Q1331793_media-company.wikidata.txt',
+        '21600_news_brazil.txt',
         '43200_abkhazia.txt',
         '43200_albania.txt',
         '43200_algeria.txt',
