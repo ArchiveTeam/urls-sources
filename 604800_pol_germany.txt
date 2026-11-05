@@ -1,0 +1,2 @@
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://chemnitz.linksjugend-sachsen.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mieterpartei-jetzt.de/

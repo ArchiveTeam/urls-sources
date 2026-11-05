@@ -1,0 +1,10 @@
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://israelpolicyforum.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mishpattzedek.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.aniveata.org.il/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://orothashachar.org.il/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://eomzone.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://hatikun.org.il/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.yahaad.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.yahaad.com/ar
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.yahaad.com/en
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kshare.co.il/

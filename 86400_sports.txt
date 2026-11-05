@@ -14,3 +14,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.chessdom.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://dis.fide.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gto.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://climbingzine.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.f1-fansite.com/

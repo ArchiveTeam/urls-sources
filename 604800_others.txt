@@ -342,3 +342,12 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://dfkschlesien.pl/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://a20-nie.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://niewieder.com/
 random=RANDOM;all=1;keep_all=1;depth=2;keep_random=2;url=https://www.cultura.gob.es/cultura/areas/propiedadintelectual/mc/s2cpi/enlaces.html
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://56k.es/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://civic-data.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://blog.mojeek.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://stats.opencode.ai/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://omarchy.org/news/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://blog.alerts.in.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://blog.humblebundle.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://thisweek.gnome.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://verinice.com/

@@ -1,0 +1,9 @@
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://trnava-vuc.sk/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.tsk.sk/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://psk.sk/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.unsk.sk/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kosickazupa.sk/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bbsk.sk/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.minv.sk/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.teraz.sk/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.stansapolicajtom.sk/

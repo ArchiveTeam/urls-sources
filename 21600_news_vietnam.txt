@@ -1,0 +1,5 @@
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://baoquankhu7.vn/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://baoquankhu5.vn/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://baoquankhu4.com.vn/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://baoquankhu9.com.vn/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://quankhu3.vn/

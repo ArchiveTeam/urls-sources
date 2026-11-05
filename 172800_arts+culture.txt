@@ -75,3 +75,10 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.crockefeller.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://zentralwerk.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.monopol-magazin.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.eai.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://laut.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.powermetal.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.rockstargames.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kakaogamescorp.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bohemia.net/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.square-enix-games.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.designscene.net/

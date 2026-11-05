@@ -43,3 +43,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://nolog.cz/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://nolog.cz/en/
 random=RANDOM;all=1;depth=1;url=https://nublogs.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.campact.de/blog/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.genz-regelt.de/

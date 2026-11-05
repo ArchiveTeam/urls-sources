@@ -1716,3 +1716,11 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.spd-blankenburg-heinersdo
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.spd-fraktion-steglitz-zehlendorf.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://spd-berlinermitte.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.spdfraktion-osnabrueck.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nrwspd-landesgruppe.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cdugg.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.seniorenunion-gg.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://senioren-union-oberbayern.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.csu-landesgruppe.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.csu-europagruppe.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.herzkammer.bayern/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://fw-landtag.de/
