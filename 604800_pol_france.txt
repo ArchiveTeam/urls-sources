@@ -176,3 +176,14 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://973.mouvementdemocrate.fr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://976.mouvementdemocrate.fr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://udi-uc-senat.fr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.groupeliot.fr/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://d-fi.lafranceinsoumise.fr/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://desintox.lafranceinsoumise.fr/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://impots.lafranceinsoumise.fr/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://paris.lafranceinsoumise.fr/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.stop-immigration.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.stop-hausse-carburant.fr/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.parents-vigilants.fr/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.non-vote-etrangers.fr/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.petition-remigration.fr/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://combienjegagne.fr/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://gaylib.org/

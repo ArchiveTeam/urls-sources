@@ -82,3 +82,8 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kakaogamescorp.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bohemia.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.square-enix-games.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.designscene.net/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://obeygiant.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://blog.bruteprop.co.uk/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://artmoskovia.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://subliminalprojects.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://los-endos.com/

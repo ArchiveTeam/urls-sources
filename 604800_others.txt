@@ -351,3 +351,5 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://blog.alerts.in.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://blog.humblebundle.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://thisweek.gnome.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://verinice.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://kommunikation.kika.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://theyesmen.org/
