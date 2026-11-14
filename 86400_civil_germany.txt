@@ -1,0 +1,13 @@
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.omas-gegen-rechts.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://omasgegenrechts-nord.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ak-sachsen-anhalt.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ehk-halle.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://omasgegenrechts-magdeburg.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ogr-altmark.net/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://omasgegenrechts-deutschland.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.omasgegenrechts-dresden.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://pruef-demos.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://politicalbeauty.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://der-adenauer.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://afdnee.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.fluechtlingsrat-lsa.de/

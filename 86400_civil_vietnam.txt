@@ -1,0 +1,16 @@
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://sdb.vn/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mtgtt.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://menthanhgiadalat.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mtgphanthiet.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://menthanhgianhatrang.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mtgthuduc.net/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mtgvinh.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mtgcaimon.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.hoidongmtgkhiettam.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://hoidongmtgquinhon.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mtgtanlap.vn/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.lhcla.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://hdmenthanhgiacantho.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://hdmenthanhgiagovap.info/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mtgxuanloc.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://xuanbichvietnam.net/
