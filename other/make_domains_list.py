@@ -195,6 +195,7 @@ if __name__ == '__main__':
         '43200_niger.txt',
         '43200_palestine.txt',
         '43200_philippines.txt',
+        '43200_pol_africa.txt',
         '43200_pol_africa-misc.txt',
         '43200_pol_americas-misc.txt',
         '43200_pol_asia-misc.txt',
