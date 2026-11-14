@@ -413,7 +413,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.progressiv
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.german-foreign-policy.com/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.girlonthenet.com/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.roblox.com/sitemap-games-4.xml
-#REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.anc1912.org.za/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://repair.eu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://osvitoria.media/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://orthodoxie.com/
@@ -788,3 +787,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://vng.nl/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://itsperu.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://patchtheplanet.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://incidentdatabase.ai/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://sindicateuropol.ro/

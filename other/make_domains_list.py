@@ -107,6 +107,7 @@ if __name__ == '__main__':
         '21600_news_brazil.txt',
         '21600_news_france.txt',
         '21600_news_israel.txt',
+        '21600_news_south-africa.txt',
         '21600_news_spain.txt',
         '21600_news_vietnam.txt',
         '43200_abkhazia.txt',
@@ -154,6 +155,7 @@ if __name__ == '__main__':
         '43200_gov_germany_lower-saxony.txt',
         '43200_gov_germany_saxony-anhalt.txt',
         '43200_gov_slovakia.txt',
+        '43200_gov_south-africa.txt',
         '43200_gov_usa.txt',
         '43200_govt_urls.txt',
         '43200_greece.txt',
@@ -208,13 +210,13 @@ if __name__ == '__main__':
         '43200_pol_other.txt',
         '43200_pol_serbia.txt',
         '43200_pol_slovakia.txt',
+        '43200_pol_south-africa.txt',
         '43200_poland.txt',
         '43200_portugal.txt',
         '43200_romania.txt',
         '43200_russia.txt',
         '43200_sao-tome-and-principe.txt',
         '43200_slovenia.txt',
-        '43200_south-africa.txt',
         '43200_south-korea.txt',
         '43200_south-ossetia.txt',
         '43200_sweden.txt',
@@ -273,6 +275,7 @@ if __name__ == '__main__':
         '604800_pol_serbia.txt',
         '604800_pol_slovakia.txt',
         '604800_pol_slovakia_2027_elections.txt',
+        '604800_pol_south-africa.txt',
         '604800_sports.txt'
     ]
     files = sys.argv[1:]
