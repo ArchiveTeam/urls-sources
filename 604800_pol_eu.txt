@@ -1,0 +1,5 @@
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://gdpr-omnibus.eu/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.lymec.eu/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://lgbti-liberals.eu/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://reneweurope-cor.eu/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ed-md.eu/

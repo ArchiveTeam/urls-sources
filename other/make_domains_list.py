@@ -277,6 +277,7 @@ if __name__ == '__main__':
         '604800_pol_bulgaria.txt',
         '604800_pol_czechia.txt',
         '604800_pol_czechia_2028_elections.txt',
+        '604800_pol_eu.txt',
         '604800_pol_france.txt',
         '604800_pol_germany.txt',
         '604800_pol_israel.txt',
