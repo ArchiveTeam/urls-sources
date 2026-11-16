@@ -93,3 +93,16 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.vermittlun
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.verkehrsministerkonferenz.de/VMK/DE/termine/termine-node.html
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.innenministerkonferenz.de/IMK/DE/termine/termine-node.html
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.it-ausschreibung.de/ausschreibungen
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gluecksspiel-behoerde.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.hanisauland.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kinofenster.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bpb.de/die-bpb/presse/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.wir-waren-so-frei.de/index.php/Feed/recentlyAdded
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.chronik-der-mauer.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.jugendopposition.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bundeshaushalt.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mein-elterngeldantrag.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.egovernment-wettbewerb.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.elster.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.personalausweisportal.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.schlichtungsstelle-bgg.de/

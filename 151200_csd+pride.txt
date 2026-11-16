@@ -1,0 +1,16 @@
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://csd-deutschland.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.csd-hro.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://prideinlondon.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.zentrum-weissenburg.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://pridehouston.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://csd-bamberg.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://crefelder-csd.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://csd-cham.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.stockholmpride.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://pacificpridefoundation.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://queerstrelitz.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.praguepride.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://transgenderni.org.uk/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://csdmagdeburg.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://csd-dresden.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://csdhalle.de/

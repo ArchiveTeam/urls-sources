@@ -26,3 +26,8 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://status.yandex.cloud/ru/dashbo
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://status.yandex.cloud/en/dashboard
 random=RANDOM;all=1;url=https://sentry.pirati.cz/
 random=RANDOM;all=1;url=https://status.opencode.ai/
+random=RANDOM;all=1;url=https://status.osi.dataport.de/
+random=RANDOM;all=1;url=https://status.manitu.de/
+random=RANDOM;all=1;url=https://www.ionos-status.de/
+random=RANDOM;all=1;url=https://status.aliyun.com/
+random=RANDOM;all=1;url=https://pretixstatus.com/

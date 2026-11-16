@@ -2,3 +2,8 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.citrix.com/blogs
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cloud.com/news
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://ir.elastic.co/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.elastic.co/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://partner.aliyun.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://developer.aliyun.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://market.aliyun.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://commodore.net/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://foundation.bot/

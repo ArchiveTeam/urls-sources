@@ -68,3 +68,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://coreweave.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://engineering.fb.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://techblog.samsung.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.citrix.com/news/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.megaspeed.ai/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://investor.nvidia.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://jobs.nvidia.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://projectzero.google/
