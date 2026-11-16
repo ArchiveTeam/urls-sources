@@ -37,3 +37,4 @@ random=RANDOM;all=1;kepp_all=1;depth=1;url=https://walpurgis.cnlgidbb.uk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://ema3.pages.dev/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://dcinside.com
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://m.dcinside.com
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://sad99222.pythonanywhere.com
