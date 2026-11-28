@@ -18,7 +18,7 @@ PREFIX wikibase: <http://wikiba.se/ontology#>
 SELECT DISTINCT ?website WHERE {{
   {{
     ?item p:{p} ?statement0 .
-    ?statement0 (ps:{p}{instance_of}/(wdt:P279*)) wd:{q} .
+    ?statement0 (ps:{p}/(wdt:P279*){instance_of}) wd:{q} .
     ?statement0 wikibase:rank ?rank .
     FILTER(?rank != wikibase:DeprecatedRank)
   }}
@@ -56,7 +56,11 @@ def main(directory: str = '.'):
             query = QUERY_TEMPLATE.format(
                 q=wikidata_q,
                 p=wikidata_p,
-                instance_of='' if wikidata_p == 'P31' else '/(wdt:P31?)'
+                instance_of=(
+                    ''
+                    if wikidata_p == 'P31'
+                    else '|ps:{}/wdt:P31/(wdt:P279*)'.format(wikidata_p)
+                )
             )
             while True:
                 try:
